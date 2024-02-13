@@ -8,6 +8,15 @@ Smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdie
 Datum: 19/02/2024
 
 ## Samenvatting
+Veel jongeren hebben te maken met eenzaamheid. Ze gaan door een periode waar ze
+liever alleen op hun kamer zitten dan in contact te komen met hun ouders, maar zijn te
+jong om zelfstandig buiten op pad te gaan. Daarnaast zijn ze op een leeftijd gekomen waar
+ze hun eerste verantwoordelijkheden zoals een huisdier willen opnemen. Ouders zijn
+daarentegen niet zeker of hun kind deze grote verantwoordelijkheid wel aan kan.
+Beide problemen werden onderzocht door middel van een literatuurstudie en een
+focusgroep. De bedachte oplossing hiervoor is de Petwatch. Dit is een soort smartwatch
+die jongeren helpt met het onderhouden van hun eigen huisdier (hond of kat). Dit horloge
+zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier kan zorgen. 
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
 - Wat is het probleem?
