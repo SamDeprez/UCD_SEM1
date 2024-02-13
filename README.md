@@ -103,6 +103,14 @@ kan je even niet bij je echt huisdier zijn. Dit alles aan de
 hand van een soort smartwatch waar je digitaal huisdier
 permanent in leeft.
 
+Het huisdier reageert op basis van een op maat gemaakte agenda. Door middel van de
+leeftijd, het ras, de allergieën en ziektes in te geven zal er een schema opgemaakt worden,
+die rekening houdt met je weekelijkse gewoontes bv. School en hobby’s. Daarna kan je het
+schema zelf nog optimaliseren. Het doel hiervan is jongeren meer zelfvertrouwen te geven
+om zelf voor een dier te zorgen. Dit dient ook als een geruststelling voor de ouders. De
+huisdieren zelf genieten natuurlijk ook van deze voordelen. Zij krijgen op maat gemaakte
+zorg en een forever home.
+
 Max. 1000 woorden
 ### Doestellingen
 Wat wilde je bereiken?
