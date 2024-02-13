@@ -131,6 +131,9 @@ post-it en vervolgens vooraan komen hangen onder de uitgeschreven vraag. Om te
 antwoorden op de ja/nee-vragen moeten ze een groen kaartje in de lucht houden voor “Ja”
 en een rood voor “Nee”.
 
+![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/ff98e90f-e3b4-4b0e-91e0-b0695b5e10d6)
+
+
 <b>Resultaten</b></br>
 Uit de focusgroep met de meisjes kan geconcludeerd worden dat een duidelijke
 meerderheid van de focusgroep al een huisdier heeft(12/13). Dit is positief aangezien de
