@@ -18,6 +18,8 @@ focusgroep. De bedachte oplossing hiervoor is de Petwatch. Dit is een soort smar
 die jongeren helpt met het onderhouden van hun eigen huisdier (hond of kat). Dit horloge
 zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier kan zorgen. 
 
+![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/73eb2060-eb53-447e-add5-afd3c3345255)
+
 
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
@@ -282,18 +284,41 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 Definieer de belangrijkste designbeslissingen
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+Uit het onderzoek van wave 1 is het duidelijk dat gordel het favoriete materiaal is voor de
+band van de Petwatch. Dit is dan ook de reden waarom het prototype ook dit materiaal zal
+bevatten.
+
+Het belangrijkste component van de smartwatch is natuurlijk het scherm. Online zijn er veel
+schermen te vinden om je eigen smartwatch te maken met Arduino Uno of Raspberry Pi.
+Het gekozen scherm is “ILI9341 LCD screen”. Dit scherm kan eenvoudig met een Arduino
+Uno of een ESP32 aangestuurd worden. 
+
+Het scherm wordt aangestuurd met een ESP32. Dit heeft enkele voordelen op de Arduino
+Uno. Deze microcontroller is kleiner en is dus eenvoudiger in het eindproduct te verwerken.
+Daarnaast heeft het ook de mogelijkheid om met het internet te verbinden. Deze functie
+kan nog van pas komen in het eindproduct doordat de smartwatch dan ook met een gsm
+kan verbonden worden.
+
+
+
+Door het 3D-printen van een verbindingsstuk die als houder dient voor de microcontoler en
+het scherm, is het mogelijk de alles vast te hangen aan de gordel band.
+
 
 ## Kritische reflectie
-Max. 500 woorden
+In het eerst semester is er al veel aan het project gewerkt. Hierdoor is er een tussentijds
+resultaat verkregen waar wij als studenten tevreden mee zijn. Wij geloven in dit project, en
+geloven in goed eindresultaat. Alhoewel er door middel van een focusgroep 2 belangrijke
+testen werden uitgevoerd, is er 1 test waarvoor er geen tijd meer is. Dit is de tamagotchi
+test. Een test om te onderzoeken of jongeren wel degelijk een band kunnen vormen met
+een digitaal huisdier. Het is jammer dat we deze test niet konden doen.
+
+Naast een productieve eerste semester, was het ook een leerrijke. Dit komt doordat we
+met twee verschillende personen aan eenzelfde project mogen werken. Door samen te
+werken, leer je veel van een andere persoon. Elke persoon denkt anders na over
+problemen waardoor je met verschillende ideeën en inzichten kunt werken. Samenwerken
+toont dat een goede communicatie noodzakelijk is tussen ontwerpers om een goed
+eindresultaat te bekomen.
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
