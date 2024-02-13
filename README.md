@@ -107,6 +107,10 @@ kan je even niet bij je echt huisdier zijn. Dit alles aan de
 hand van een soort smartwatch waar je digitaal huisdier
 permanent in leeft.
 
+![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/ff0a5c67-1564-4499-9bbb-e8904187702b) ![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c1b5df06-d4eb-40cc-95dc-888a1a738595)
+
+
+
 Het huisdier reageert op basis van een op maat gemaakte agenda. Door middel van de
 leeftijd, het ras, de allergieën en ziektes in te geven zal er een schema opgemaakt worden,
 die rekening houdt met je weekelijkse gewoontes bv. School en hobby’s. Daarna kan je het
