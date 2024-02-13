@@ -131,7 +131,9 @@ post-it en vervolgens vooraan komen hangen onder de uitgeschreven vraag. Om te
 antwoorden op de ja/nee-vragen moeten ze een groen kaartje in de lucht houden voor “Ja”
 en een rood voor “Nee”.
 
-![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/ff98e90f-e3b4-4b0e-91e0-b0695b5e10d6)
+<p align="center">
+  <img src="(https://github.com/SamDeprez/UCD_SEM1/assets/152390104/4b8101aa-2113-4d70-bf26-007a4f59e3e2)">
+</p>
 
 
 <b>Resultaten</b></br>
