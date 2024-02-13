@@ -1,4 +1,4 @@
-![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/63bde138-7deb-4cf1-bf19-8fee0d78a8c3)# Petwatch
+
 *Omschrijving van je concept in 1 zin* 
 
 Smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdier.
