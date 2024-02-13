@@ -1,6 +1,6 @@
 # Projecttitel
 *Omschrijving van je concept in 1 zin* 
-
+Smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdier.
 *Projectteam: Naam 1; Naam 2*
 
 Datum
