@@ -17,6 +17,8 @@ Beide problemen werden onderzocht door middel van een literatuurstudie en een
 focusgroep. De bedachte oplossing hiervoor is de Petwatch. Dit is een soort smartwatch
 die jongeren helpt met het onderhouden van hun eigen huisdier (hond of kat). Dit horloge
 zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier kan zorgen. 
+
+
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
 - Wat is het probleem?
@@ -153,7 +155,15 @@ zeggen dat de doelgroep zelf interesse vertoont in het concept.
 Of dat ouders rapper een eigen huisdier voor hun kind gaan goedkeuren weten we nog
 niet? Het antwoord hierop weten we nog niet. Hiervoor moet er een interview gedaan
 worden met de ouders in plaats van de doelgroep zelf, maar 5/13 van de jongeren denkt
-dat ze door dit concept een grotere kans hebben om JA van hun ouders te krijgen
+dat ze door dit concept een grotere kans hebben om JA van hun ouders te krijgen.
+
+<b>Conclusies</b></br>
+Er kan dus geconcludeerd worden dat de doelgroep daadwerkelijk geïnteresseerd is in de
+Petwatch. Er moet nog een keuze worden gemaakt uit de verschillende soorten dieren
+waarvoor dit concept mogelijk is. De 2 populairste dieren dat de focusgroep al heeft en/of
+wilt zijn katten en honden. Dit zijn dan ook de 2 meest voorkomende de huisdieren in
+België. Met deze informatie kan Petwatch met zelfzekerheid ontworpen worden.
+
 
 
 Max. 1000 woorden
