@@ -256,7 +256,7 @@ wanneer de agenda in het eindproduct wordt gebruikt, constant maar een klein dee
 zichtbaar is op het scherm. Acties zoals swipen in- en uitzoomen worden tijdens de test
 vervangen door het verplaatsen van het horloge ten opzichte van de agenda.
 
-<b>Focus groep resultaten<b></br>
+<b>Focus groep resultaten</b></br>
 Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de planningen.
 
 Hier is zoals bij de test van het materiaal en vorm één duidelijke winnaar. De lay-out met
@@ -265,6 +265,11 @@ gegeven worden kunnen opgedeeld worden in drie groeperende redenen .</br>
 1. De derde agenda is het meest overzichtelijk.</br>
 2. Het is handig dat alles dicht bij elkaar staat.</br>
 3. Het is handig dat ook andere activiteiten zoals hobby’s en school ook aangegeven zijn.
+
+<b>Conclusie</b></br>
+Uit de test kwam een duidelijke winnaar naar voren: To-Do lijst in time blocking. Dit is dan
+ook de lay-out die in het eindproduct zal worden gebruikt.
+
 
 
 ### Doestellingen
