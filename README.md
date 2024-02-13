@@ -178,6 +178,95 @@ Definieer de belangrijkste designbeslissingen
 
 ## Definition
 Max. 1000 woorden
+
+Voor de verdere uitwerking van de Petwatch zijn er 2 waves aan prototypes gemaakt met
+elk een bijpassende gebruikerstest.
+
+### Wave 1
+De eerste wave aan prototypes dient om het uiterlijk van het product te bepalen.
+Aangezien de Petwatch een soort smartwatch is waar de persoonlijke digitale versie van je
+huisdier in leeft, bestaat het product zelf uit een armband en een scherm. Het materiaal
+van deze armband en de vorm van het scherm moet nog gekozen worden. Dit zijn zeer
+belangrijke beslissingen en om deze keuze te maken, hebben we de mening nodig van de
+doelgroep. Hiervoor is er een focusgroep georganiseerd op 22/12/2023 waarbij tien
+meisjes deelnemen tussen de 11-15 jaar. 
+
+ <b>Focus group resultaten</b></br>
+Als voorbereiding op de focusgroep moeten er verschillende soorten materialen
+uitgekozen worden die als potentiële materiaalkeuze voor de armband dient. Die worden
+dan versneden tot even grote staaltjes met in het midden een stukje Velcro aangenaaid.
+Daarbij moeten er ook verschillende vormen houten blokjes worden gezaagd die dienen
+als scherm van een smartwatch. Aan elk vormpje wordt er ook een stukje Velcro gelijmd.
+Dit wordt zodanig gekozen dat alle houten schermpjes plakken op de materialen strookjes
+om zo een realistische weergaven te hebben van de Petwatch.
+
+Bij de keuze van de vorm voor het scherm van de smartwatch is de helft van de vormen
+niet gekozen. Dit zijn ook de complexere vormen. De meerderheid van de focusgroep
+heeft gekozen voor het afgerond vierkant. Daarbij heeft een groot deel gekozen voor het
+ronde scherm.
+Door deze resultaten hebben we besloten dat het ontwerp van het scherm op basis zal zijn
+van een afgerond vierkant.
+De doelgroep gaf ook aan dat ze een knop op de zijkant willen om het digitale huisdier te
+activeren. Ook werd er een camera in het scherm voorgesteld om selfies te nemen met het
+huisdier. Deze zaken gaan zeker en vast overwogen worden in ons ontwerpproces. 
+
+In de keuze van materiaal is er een duidelijke winnaar te zien namelijk de gordel. Het is
+een stevig materiaal dat er ook verzorgt uit ziet. Ze hebben hier goed over er nagedacht,
+want ze waren aan het overleggen welke materialen het minst vuil worden.
+De ontwerpkeuze van materiaal voor de band is dan ook snel gemaakt. Het zal een
+stevige gordelband zijn die er hip uitziet. 
+
+Bij de keuze van kleuren is er een grote verdeeldheid. Dit was ook te verwachten doordat
+dit zeer subjectief is. Dit was ook de stap in de workshop waar de doelgroep het meest tijd
+voor nodig had.
+
+Hier is de ontwerpkeuze wat minder vanzelfsprekend. Doordat de vorige keuzes zo
+eenduidig waren, kunnen er hier meerdere kleuren worden gekozen. Hiervoor zouden we
+blauw, groen, rood en zwart kiezen. Als conclusie kunnen we besluiten dat er een collectie
+zal uitgebracht worden van vier smartwatches met een zeer afgerond scherm in vier
+verschillende kleuren namelijk blauw, groen, rood en zwart.
+
+<b>Conclusie</b></br>
+Via de resultaten van dit onderzoek is er een collectie ontwikkeld.
+
+### Wave 2
+
+De tweede wave aan prototypen richt zich meer op het digitale aspect van de Petwatch.
+Het eindresultaat moet een efficiënt te gebruiken smartwatch zijn. Het is zeer belangrijk dat
+de doelgroep de taken voor het onderhouden van een huisdier elke dag en op het juiste
+moment uitvoert. Om dit te realiseren is er een eenvoudige structurele weergave nodig van
+deze taken doorheen de dag. De beste manier van dit te doen is door het werken met een
+soort van agenda/schema. Er zijn verschillende mogelijkheden hoe deze agenda er kan
+uitzien. Daarbij moet er bij elke mogelijkheid rekening worden gehouden dat het te zien zal
+zijn op een klein scherm van een smartwatch. Om de meest duidelijke layout te bepalen op
+de Petwatch, moet er onderzoek worden uitgevoerd. Dit onderzoek gebeurd door een
+focusgroep op 22/12/2023.
+
+Als voorbereiding voor het onderzoek worden er verschillende mogelijkheden voor de
+agenda opgesteld. Van elke mogelijkheid moet er dan ook een prototype van worden
+gemaakt. Doordat de prototypes snel en eenvoudig moeten zijn, wordt een papieren versie
+van de planning gemaakt. Er zijn drie verschillende prototypes:
+
+
+
+
+Naast de agenda’s wordt er een uitgesneden houten vorm van een horloge gemaakt. Tijdens
+de test worden de planningen bekeken door de vorm van het horloge. Dit maakt duidelijk dat
+wanneer de agenda in het eindproduct wordt gebruikt, constant maar een klein deel ervan
+zichtbaar is op het scherm. Acties zoals swipen in- en uitzoomen worden tijdens de test
+vervangen door het verplaatsen van het horloge ten opzichte van de agenda.
+
+<b>Focus groep resultaten<b></br>
+Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de planningen.
+
+Hier is zoals bij de test van het materiaal en vorm één duidelijke winnaar. De lay-out met
+To-Do lijst in Time blocking heeft 90% van de stemmen. De redenen die voor deze lay-out
+gegeven worden kunnen opgedeeld worden in drie groeperende redenen .</br>
+1. De derde agenda is het meest overzichtelijk.</br>
+2. Het is handig dat alles dicht bij elkaar staat.</br>
+3. Het is handig dat ook andere activiteiten zoals hobby’s en school ook aangegeven zijn.
+
+
 ### Doestellingen
 Wat wilde je bereiken?
 ### Materiaal & methoden
