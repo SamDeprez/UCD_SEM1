@@ -60,7 +60,7 @@ het proces worden uitgewerkt.
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
 ## Discovery
-<b>Literature review</b>
+<b>Literature review</b></br>
 Als eerste stap is er een literatuuronderzoek gedaan. Dit literature review dient om inzicht
 te krijgen welke effecten huisdieren hebben op opgroeiende kinderen en jongeren.
 Hier werd er gevonden dat onderzoek heeft aangetoond dat kinderen die opgroeiden in
@@ -88,7 +88,7 @@ coronacrisis, was dat nog 8 procent. De smartphoneverslaving bij jongeren speelt
 een grote rol. Hét gouden advies blijft afwisseling, dan is er voldoende tegengewicht voor
 het online leven. Een huisdier kan zorgen voor die afwisseling in het dagelijks leven.
 
-<b>Conclusies</b>
+<b>Conclusies</b></br>
 Doordat huisdieren zo een goede invloed hebben op kinderen. Er is een eerste concept
 definieert.
 Het is een opmaat gemaakte digitale versie van je eigen
