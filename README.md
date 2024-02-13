@@ -60,7 +60,7 @@ het proces worden uitgewerkt.
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
 ## Discovery
-<b>Literature review</b></br>
+### Literature review
 Als eerste stap is er een literatuuronderzoek gedaan. Dit literature review dient om inzicht
 te krijgen welke effecten huisdieren hebben op opgroeiende kinderen en jongeren.
 Hier werd er gevonden dat onderzoek heeft aangetoond dat kinderen die opgroeiden in
@@ -110,6 +110,51 @@ schema zelf nog optimaliseren. Het doel hiervan is jongeren meer zelfvertrouwen 
 om zelf voor een dier te zorgen. Dit dient ook als een geruststelling voor de ouders. De
 huisdieren zelf genieten natuurlijk ook van deze voordelen. Zij krijgen op maat gemaakte
 zorg en een forever home.
+
+### Focus group
+Vervolgens is er een focusgroep gedaan die dient om inzicht te krijgen welke attitude
+kinderen van 11-15 jaar hebben tegenover huisdieren en welke positieve of negatieve
+effecten zij zelf ervaren. Zo kon er achterhaald worden of de gekozen doelgroep wel
+interesse heeft om zelfstandig te zorgen voor een huisdier en wat hun mening is over het
+concept. Dertien meisjes namen deel aan deze focusgroep.
+Tijdens de focusgroep werden er twee soorten vragen gesteld, namelijk open vragen en
+Ja/nee-vragen. Voor de open vragen moet de doelgroep hun antwoord opschrijven op een
+post-it en vervolgens vooraan komen hangen onder de uitgeschreven vraag. Om te
+antwoorden op de ja/nee-vragen moeten ze een groen kaartje in de lucht houden voor “Ja”
+en een rood voor “Nee”.
+
+<b>Resultaten</b></br>
+Uit de focusgroep met de meisjes kan geconcludeerd worden dat een duidelijke
+meerderheid van de focusgroep al een huisdier heeft(12/13). Dit is positief aangezien de
+zij beter de verantwoordelijkheden kunnen inschatten die nodig zijn om voor een huisdier
+te zorgen, dan kinderen uit gezinnen zonder huisdier.
+Bij de vragen “Wat vinden jullie het leukste aan een huisdier hebben?” en “Waarom willen
+jullie zo graag een eigen huisdier?” hebben veel personen een antwoord gegeven in
+verband met eenzaamheid. Deze jongeren, uit de eerste 3 jaren van het middelbaar,
+bezitten allemaal een GSM en desondanks de verschillende soorten sociale media en
+andere mogelijkheden tot communicatie, voelen zij zich toch eenzaam op zo een jonge
+leeftijd. Dit is een eerste bevestiging dat beginnende pubers een nood hebben aan een
+eigen huisdier.
+Om te weten te komen of de gekozen doelgroep zelf interesse heeft in een eigen huisdier
+werd de vraag gesteld “Wie heeft er allemaal al eens een eigen huisdier aan zijn ouders
+gevraagd?”. Hierop antwoordde 9 van de 13 personen “ja”, wat meer is dan verwacht. Dit
+toont aan dat de meerderheid een vraag heeft naar een eigen huisdier. Dit betekent nog
+niet dat ze ook allemaal een huisdier krijgen. Hun ouders spelen in deze keuze een
+beslissende rol. Wat opvallend is, is dat de meeste ouders niet mee instemt om hun kind
+een eigen huisdier te geven. Dit komt vooral door hun gebrek aan vertrouwen in de
+verantwoordelijkheid van hun kind zoals te zien is bij de antwoorden op de vraag “Wat
+waren de antwoorden van jullie ouders?”. Ook al vindt 11 van de 13 personen in de
+focusgroep zichzelf verantwoordelijk genoeg om zelf voor een eigen huisdier zorg te
+dragen.
+
+Na het voorstellen van de Petwatch, waren 11 van de 13 personen geruster om zelf een
+huisdier te nemen en 9 personen zouden zo de Petwatch daadwerkelijk gebruiken. Dit wil
+zeggen dat de doelgroep zelf interesse vertoont in het concept.
+Of dat ouders rapper een eigen huisdier voor hun kind gaan goedkeuren weten we nog
+niet? Het antwoord hierop weten we nog niet. Hiervoor moet er een interview gedaan
+worden met de ouders in plaats van de doelgroep zelf, maar 5/13 van de jongeren denkt
+dat ze door dit concept een grotere kans hebben om JA van hun ouders te krijgen
+
 
 Max. 1000 woorden
 ### Doestellingen
