@@ -1,4 +1,4 @@
-# Petwatch
+![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/63bde138-7deb-4cf1-bf19-8fee0d78a8c3)# Petwatch
 *Omschrijving van je concept in 1 zin* 
 
 Smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdier.
@@ -132,8 +132,10 @@ antwoorden op de ja/nee-vragen moeten ze een groen kaartje in de lucht houden vo
 en een rood voor “Nee”.
 
 <p align="center">
-  <img src="(https://github.com/SamDeprez/UCD_SEM1/assets/152390104/4b8101aa-2113-4d70-bf26-007a4f59e3e2)">
+  <img width="460" height="300" src="![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/ebdefb54-b336-44d2-a0a7-bad37117e7fd)">
+
 </p>
+![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/ebdefb54-b336-44d2-a0a7-bad37117e7fd)
 
 
 <b>Resultaten</b></br>
