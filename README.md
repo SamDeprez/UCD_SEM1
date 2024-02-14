@@ -366,15 +366,15 @@ gegeven worden kunnen opgedeeld worden in drie groeperende redenen .</br>
 ook de lay-out die in het eindproduct zal worden gebruikt.</p>
 
 <p>
-  <img src="image" src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/9f2b3ed5-984d-42a5-9801-110586993133" />
-  <img src="image" src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/b5886213-264f-488e-b722-4b6c637ea9e2" />
-  
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/b8df9a40-e986-47ea-88e2-2744911968d3" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/e7964cb0-7862-4b24-87d6-99908861581c" width="19%" />
   </br>
-  <em>Figuur 11: Agenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 12: Zicht op de GSM en Petwatch</em> 
-</p><br>
+  <em>Figuur 11: Agenda &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 12: Zicht op de GSM en Petwatch</em> 
+</p></br>
 
-![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/9f2b3ed5-984d-42a5-9801-110586993133)
-<img width="212" alt="image" src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/b5886213-264f-488e-b722-4b6c637ea9e2">
+
+
+
 
 
 
@@ -398,12 +398,17 @@ kan nog van pas komen in het eindproduct doordat de smartwatch dan ook met een g
 kan verbonden worden.</P>
 
 <p>
-  <img src="image" src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/9f2b3ed5-984d-42a5-9801-110586993133" />
-  <img src="image" src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/77cd7c3f-d0a9-4320-80bb-e1f7ae9791b3" />
-  
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/01d97d99-96c3-454a-8da1-c5f26fe92590" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/d205cd5e-8bdd-4379-be53-6dae33acef57"  width="25%"/>
   </br>
-  <em>Figuur 11: Agenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 12: Zicht op de GSM en Petwatch</em> 
-</p><br>
+  <em>Figuur 13: ILI9341 LCD screen (Amazon.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 13: ESP32 (Bol.com)</em> 
+</p></br>
+
+
+
+
+
 
 <p>Door het 3D-printen van een verbindingsstuk die als houder dient voor de microcontoler en
 het scherm, is het mogelijk de alles vast te hangen aan de gordel band.</p>
