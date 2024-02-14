@@ -47,6 +47,7 @@ verzorgen van een huisdier eenvoudiger te maken en ouders de controleer mogelijk
 geven, gaan ouders met meer vertrouwen “Ja!” kunnen zeggen op de vraag: “Mag ik een
 eigen huisdier?”</p>
 <br>
+
 ## Methodologie
 <p>De methodologie die wordt gebruikt in het eerste semester sluit het best aan bij het
 principe van de double diamond. Hierbij kan de eerste diamant de discovery fase
