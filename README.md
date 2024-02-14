@@ -88,10 +88,10 @@ speelt hierin een belangrijke rol. In 2021 zei 14 procent van de jongeren tussen
 jaar zich sterk emotioneel eenzaam te voelen. In 2019, vlak voor het begin van de
 coronacrisis, was dat nog 8 procent. De smartphoneverslaving bij jongeren speelt hierbij
 een grote rol. Hét gouden advies blijft afwisseling, dan is er voldoende tegengewicht voor
-het online leven. Een huisdier kan zorgen voor die afwisseling in het dagelijks leven.</p>
+het online leven. Een huisdier kan zorgen voor die afwisseling in het dagelijks leven.</p></br>
 
-<p><b>Conclusies</b><br>
-Doordat huisdieren zo een goede invloed hebben op kinderen. Er is een eerste concept
+#### Conclusie
+<p>Doordat huisdieren zo een goede invloed hebben op kinderen. Er is een eerste concept
 definieert.</p>
 
 <p>Het is een opmaat gemaakte digitale versie van je eigen
@@ -121,7 +121,7 @@ die rekening houdt met je weekelijkse gewoontes bv. School en hobby’s. Daarna 
 schema zelf nog optimaliseren. Het doel hiervan is jongeren meer zelfvertrouwen te geven
 om zelf voor een dier te zorgen. Dit dient ook als een geruststelling voor de ouders. De
 huisdieren zelf genieten natuurlijk ook van deze voordelen. Zij krijgen op maat gemaakte
-zorg en een forever home.</p>
+zorg en een forever home.</p></br>
 
 ### Focus group
 <p>Vervolgens is er een focusgroep gedaan die dient om inzicht te krijgen welke attitude
@@ -133,10 +133,10 @@ Tijdens de focusgroep werden er twee soorten vragen gesteld, namelijk open vrage
 Ja/nee-vragen. Voor de open vragen moet de doelgroep hun antwoord opschrijven op een
 post-it en vervolgens vooraan komen hangen onder de uitgeschreven vraag. Om te
 antwoorden op de ja/nee-vragen moeten ze een groen kaartje in de lucht houden voor “Ja”
-en een rood voor “Nee”.</p>
+en een rood voor “Nee”.</p></br>
 
-<p><b>Resultaten</b></br>
-Uit de focusgroep met de meisjes kan geconcludeerd worden dat een duidelijke
+#### Resultaten
+<p>Uit de focusgroep met de meisjes kan geconcludeerd worden dat een duidelijke
 meerderheid van de focusgroep al een huisdier heeft(12/13). Dit is positief aangezien de
 zij beter de verantwoordelijkheden kunnen inschatten die nodig zijn om voor een huisdier
 te zorgen, dan kinderen uit gezinnen zonder huisdier.
@@ -166,10 +166,10 @@ zeggen dat de doelgroep zelf interesse vertoont in het concept.
 Of dat ouders rapper een eigen huisdier voor hun kind gaan goedkeuren weten we nog
 niet? Het antwoord hierop weten we nog niet. Hiervoor moet er een interview gedaan
 worden met de ouders in plaats van de doelgroep zelf, maar 5/13 van de jongeren denkt
-dat ze door dit concept een grotere kans hebben om JA van hun ouders te krijgen.</p>
+dat ze door dit concept een grotere kans hebben om JA van hun ouders te krijgen.</p></br>
 
-<p><b>Conclusies</b></br>
-Er kan dus geconcludeerd worden dat de doelgroep daadwerkelijk geïnteresseerd is in de
+#### Conclusies
+<p>Er kan dus geconcludeerd worden dat de doelgroep daadwerkelijk geïnteresseerd is in de
 Petwatch. Er moet nog een keuze worden gemaakt uit de verschillende soorten dieren
 waarvoor dit concept mogelijk is. De 2 populairste dieren dat de focusgroep al heeft en/of
 wilt zijn katten en honden. Dit zijn dan ook de 2 meest voorkomende de huisdieren in
@@ -179,7 +179,7 @@ België. Met deze informatie kan Petwatch met zelfzekerheid ontworpen worden.</p
 
 ## Definition
 <p>Voor de verdere uitwerking van de Petwatch zijn er 2 waves aan prototypes gemaakt met
-elk een bijpassende gebruikerstest.</p>
+elk een bijpassende gebruikerstest.</p></br>
 
 ### Wave 1
 <p>De eerste wave aan prototypes dient om het uiterlijk van het product te bepalen.
@@ -193,11 +193,11 @@ meisjes deelnemen tussen de 11-15 jaar. </p>
 <p align="middle">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/4951052c-2488-4dec-aceb-7938655cb9dc" /></br>
   <em>Figuur 4: Prototypes wave 1 (schermvorm + materiaal)</em> 
-</p>
+</p></br>
 
 
 
- <b>Focus group resultaten</b></br>
+ #### Focusgroep resultaten
  <p><em>Tabel 1: Resultaten test schermvorm</em>
  
 | <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/db23428c-565a-44d0-b2cc-b1314c5f3407" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/dc6a6e82-29ca-4c0f-8f07-84b6f37d55f6" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/17e2b8c7-9c4f-480d-8220-d41db766479d" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/5d56410f-d401-46cd-b040-fc71ed3dea4a" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c86a3810-207c-427b-b7bd-484b0428ab33" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/87e1a639-c357-48c3-8f78-3757bbff7d9b" width="60%" />|
@@ -261,15 +261,15 @@ voor nodig had.</p>
 eenduidig waren, kunnen er hier meerdere kleuren worden gekozen. Hiervoor zouden we
 blauw, groen, rood en zwart kiezen. Als conclusie kunnen we besluiten dat er een collectie
 zal uitgebracht worden van vier smartwatches met een zeer afgerond scherm in vier
-verschillende kleuren namelijk blauw, groen, rood en zwart.</p>
+verschillende kleuren namelijk blauw, groen, rood en zwart.</p></br>
 
-<p><b>Conclusie</b></br>
-Via de resultaten van dit onderzoek is er een collectie ontwikkeld.</p>
+#### Conclusie
+<p>Via de resultaten van dit onderzoek is er een collectie ontwikkeld.</p>
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/16f7113e-ee86-4ce3-9870-752e37fd445c"  />
   </br>
   <em>Figuur 5: conclusie wave 1 </em> 
-</p>
+</p></br>
 
 
 ### Wave 2
@@ -293,6 +293,33 @@ van de planning gemaakt. Er zijn drie verschillende prototypes:</p>
 <p>- <b>To-Do lijst per dag:</b> in deze planning ziet de jongere constant welke taken er die dag 
 moeten uitgevoerd worden (eten geven, gaan wandelen, een bad geven).</p>
 
+<p align="center">
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f7a5a3ea-2f9a-4533-a443-bcbf893268f9" />
+  </br>
+  <em>Figuur 6: To-Do lijst per dag</em> 
+</p></br>
+
+<p>- <b>Time blocking + To-do lijst:</b>deze planning heeft de activiteiten en hobby’s van de 
+jongeren per dag (/week) weer, aan de zijkant van de agenda staan alle taken voor het 
+onderhouden van het huisdier in een To-Do lijst voor de dag. (To-Do lijst eenvoudig 
+bereikbaar door 1 maal te swipen) </p>
+
+<p align="center">
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fbbc9fe4-f041-444c-b90e-49171adec41d" />
+  </br>
+  <em>Figuur 7: To-Do lijst + time blocking </em> 
+</p></br>
+
+<p>- <b>To-Do lijst in time blocking:</b> in deze planning is de To-Do lijst die eerst aan de 
+zijkant stond verwerkt in het uurrooster op het juiste moment.   </p>
+
+<p align="center">
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/072cf201-e521-46c5-99e1-1469897cd294" />
+  </br>
+  <em>Figuur 8: To-Do lijst in time blocking </em> 
+</p></br>
+
+
 
 
 <p>Naast de agenda’s wordt er een uitgesneden houten vorm van een horloge gemaakt. Tijdens
@@ -304,20 +331,27 @@ vervangen door het verplaatsen van het horloge ten opzichte van de agenda.</p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/504c86d8-1ea5-48b8-a8e5-01e71067ee0c" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/1de3485c-b2c9-46e4-ab46-1390f69471bb" />
   </br>
-  <em>Figuur 8: uitgesneden horloge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 9: focusgroep wave 2</em> 
+  <em>Figuur 9: uitgesneden horloge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 10: focusgroep wave 2</em> 
+</p></br>
+
+
+
+
+
+
+
+
+
+
+#### Focus groep resultaten
+<p></p>Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de planningen.</p>
+
+<p><em>Tabel 4: Resultaten test agenda</em>
+  
+|To-Do lijst|Time blocking + To-Do lijst|To-Do lijst in Time blocking|
+|:---:|:---:|:---:|
+|0|1|9|
 </p>
-
-
-
-
-
-
-
-
-
-
-<p><b>Focus groep resultaten</b></br>
-Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de planningen.</p>
 
 <p>Hier is zoals bij de test van het materiaal en vorm één duidelijke winnaar. De lay-out met
 To-Do lijst in Time blocking heeft 90% van de stemmen. De redenen die voor deze lay-out
@@ -325,24 +359,27 @@ gegeven worden kunnen opgedeeld worden in drie groeperende redenen .</br>
 
 1. De derde agenda is het meest overzichtelijk.</br>
 2. Het is handig dat alles dicht bij elkaar staat.</br>
-3. Het is handig dat ook andere activiteiten zoals hobby’s en school ook aangegeven zijn.</p>
+3. Het is handig dat ook andere activiteiten zoals hobby’s en school ook aangegeven zijn.</p></br>
 
-<p><b>Conclusie</b></br>
-Uit de test kwam een duidelijke winnaar naar voren: To-Do lijst in time blocking. Dit is dan
+#### Conclusie
+<p>Uit de test kwam een duidelijke winnaar naar voren: To-Do lijst in time blocking. Dit is dan
 ook de lay-out die in het eindproduct zal worden gebruikt.</p>
 
+<p>
+  <img src="image" src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/9f2b3ed5-984d-42a5-9801-110586993133" />
+  <img src="image" src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/b5886213-264f-488e-b722-4b6c637ea9e2" />
+  
+  </br>
+  <em>Figuur 11: Agenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 12: Zicht op de GSM en Petwatch</em> 
+</p><br>
+
+![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/9f2b3ed5-984d-42a5-9801-110586993133)
+<img width="212" alt="image" src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/b5886213-264f-488e-b722-4b6c637ea9e2">
 
 
-### Doestellingen
-Wat wilde je bereiken?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
 
-<br>
+
+
 
 ## Bill of materials
 <p>Uit het onderzoek van wave 1 is het duidelijk dat gordel het favoriete materiaal is voor de
@@ -360,7 +397,13 @@ Daarnaast heeft het ook de mogelijkheid om met het internet te verbinden. Deze f
 kan nog van pas komen in het eindproduct doordat de smartwatch dan ook met een gsm
 kan verbonden worden.</P>
 
-
+<p>
+  <img src="image" src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/9f2b3ed5-984d-42a5-9801-110586993133" />
+  <img src="image" src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/77cd7c3f-d0a9-4320-80bb-e1f7ae9791b3" />
+  
+  </br>
+  <em>Figuur 11: Agenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 12: Zicht op de GSM en Petwatch</em> 
+</p><br>
 
 <p>Door het 3D-printen van een verbindingsstuk die als houder dient voor de microcontoler en
 het scherm, is het mogelijk de alles vast te hangen aan de gordel band.</p>
@@ -380,7 +423,7 @@ met twee verschillende personen aan eenzelfde project mogen werken. Door samen t
 werken, leer je veel van een andere persoon. Elke persoon denkt anders na over
 problemen waardoor je met verschillende ideeën en inzichten kunt werken. Samenwerken
 toont dat een goede communicatie noodzakelijk is tussen ontwerpers om een goed
-eindresultaat te bekomen.</p>
+eindresultaat te bekomen.</p></br>
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
