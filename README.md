@@ -104,7 +104,7 @@ kan je even niet bij je echt huisdier zijn. Dit alles aan de
 hand van een soort smartwatch waar je digitaal huisdier
 permanent in leeft.</p>
 
-<p>
+<p align="middle">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/ff0a5c67-1564-4499-9bbb-e8904187702b" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c1b5df06-d4eb-40cc-95dc-888a1a738595" /></br>
   <em>Figuur 3: eerste concept</em> 
@@ -188,7 +188,7 @@ belangrijke beslissingen en om deze keuze te maken, hebben we de mening nodig va
 doelgroep. Hiervoor is er een focusgroep georganiseerd op 22/12/2023 waarbij tien
 meisjes deelnemen tussen de 11-15 jaar. </p>
 
-<p>
+<p align="middle">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/4951052c-2488-4dec-aceb-7938655cb9dc" /></br>
   <em>Figuur 4: Prototypes wave 1 (schermvorm + materiaal)</em> 
 </p>
@@ -249,11 +249,11 @@ verschillende kleuren namelijk blauw, groen, rood en zwart.</p>
 <p><b>Conclusie</b></br>
 Via de resultaten van dit onderzoek is er een collectie ontwikkeld.</p>
 <p>
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/d78dfb43-c7c8-47a1-88a7-a444e80a0dd1" />
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f6ea1922-875b-4d6d-94e0-557009444db9" />
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c4f9ac5d-e23c-49db-bd3b-1e3a2a30e102" /></br>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/16f7113e-ee86-4ce3-9870-752e37fd445c"  />
+  </br>
   <em>Figuur 5: conclusie wave 1 </em> 
 </p>
+
 
 ### Wave 2
 
@@ -285,7 +285,7 @@ vervangen door het verplaatsen van het horloge ten opzichte van de agenda.</p>
   
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/1de3485c-b2c9-46e4-ab46-1390f69471bb" />
   </br>
-  <em>Figuur 9: focusgroep wave 2 </em> 
+  <em>Figuur 8: uitgesneden horloge   Figuur 9: focusgroep wave 2</em> 
 </p>
 
 
