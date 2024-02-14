@@ -18,16 +18,11 @@ focusgroep. De bedachte oplossing hiervoor is de Petwatch. Dit is een soort smar
 die jongeren helpt met het onderhouden van hun eigen huisdier (hond of kat). Dit horloge
 zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier kan zorgen. 
 
-![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/73eb2060-eb53-447e-add5-afd3c3345255)
-
-
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
-
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/73eb2060-eb53-447e-add5-afd3c3345255" width="90%"/></br>
+  <em>Figuur 1: De Petwatch</em>
+  
+</p>
 
 ## Introductie
 Het project is vertrokken uit de opdracht van: ‘Nature, Play en Tech’. De bedoeling is om
@@ -50,10 +45,6 @@ verzorgen van een huisdier eenvoudiger te maken en ouders de controleer mogelijk
 geven, gaan ouders met meer vertrouwen “Ja!” kunnen zeggen op de vraag: “Mag ik een
 eigen huisdier?”
 
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
-
 ## Methodologie
 De methodologie die wordt gebruikt in het eerste semester sluit het best aan bij het
 principe van de double diamond. Hierbij kan de eerste diamant de discovery fase
@@ -61,7 +52,7 @@ voorstellen waarbij er op zoek wordt gegaan naar een concept voor het probleem.
 De tweede diamant is dan de definition fase waarin verschillende deelaspecten van
 het proces worden uitgewerkt.
 
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+<b>Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.</b>
 
 ## Discovery
 ### Literature review
@@ -107,7 +98,12 @@ kan je even niet bij je echt huisdier zijn. Dit alles aan de
 hand van een soort smartwatch waar je digitaal huisdier
 permanent in leeft.
 
-![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/ff0a5c67-1564-4499-9bbb-e8904187702b) ![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c1b5df06-d4eb-40cc-95dc-888a1a738595)
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/ff0a5c67-1564-4499-9bbb-e8904187702b" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c1b5df06-d4eb-40cc-95dc-888a1a738595" /></br>
+  <em>Figuur 3: eerste concept</em> 
+</p>
+
 
 
 
@@ -133,9 +129,8 @@ en een rood voor “Nee”.
 
 <p align="center">
   <img width="460" height="300" src="![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/ebdefb54-b336-44d2-a0a7-bad37117e7fd)">
-
 </p>
-![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/ebdefb54-b336-44d2-a0a7-bad37117e7fd)
+
 
 
 <b>Resultaten</b></br>
