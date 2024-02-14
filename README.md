@@ -25,6 +25,7 @@ zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier k
   
 </p>
 <br>
+
 ## Introductie
 <p>Het project is vertrokken uit de opdracht van: ‘Nature, Play en Tech’. De bedoeling is om
 kinderen op een speelse manier meer in contact te laten komen met de natuur. Dit moet
@@ -195,11 +196,13 @@ meisjes deelnemen tussen de 11-15 jaar. </p>
 
 
 
- <p><b>Focus group resultaten</b></br>
+ <b>Focus group resultaten</b></br>
+ <p><em>Tabel 1: Resultaten test schermvorm</em>
  
-| <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/db23428c-565a-44d0-b2cc-b1314c5f3407" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/dc6a6e82-29ca-4c0f-8f07-84b6f37d55f6" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/17e2b8c7-9c4f-480d-8220-d41db766479d" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/5d56410f-d401-46cd-b040-fc71ed3dea4a" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c86a3810-207c-427b-b7bd-484b0428ab33" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/87e1a639-c357-48c3-8f78-3757bbff7d9b" />|
+| <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/db23428c-565a-44d0-b2cc-b1314c5f3407" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/dc6a6e82-29ca-4c0f-8f07-84b6f37d55f6" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/17e2b8c7-9c4f-480d-8220-d41db766479d" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/5d56410f-d401-46cd-b040-fc71ed3dea4a" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c86a3810-207c-427b-b7bd-484b0428ab33" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/87e1a639-c357-48c3-8f78-3757bbff7d9b" width="60%" />|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |3|6|1|0|0|0|
+</p>
 
 
 
@@ -210,7 +213,7 @@ meisjes deelnemen tussen de 11-15 jaar. </p>
 
 
 
-Als voorbereiding op de focusgroep moeten er verschillende soorten materialen
+<p>Als voorbereiding op de focusgroep moeten er verschillende soorten materialen
 uitgekozen worden die als potentiële materiaalkeuze voor de armband dient. Die worden
 dan versneden tot even grote staaltjes met in het midden een stukje Velcro aangenaaid.
 Daarbij moeten er ook verschillende vormen houten blokjes worden gezaagd die dienen
@@ -230,11 +233,24 @@ van een afgerond vierkant.</p>
 activeren. Ook werd er een camera in het scherm voorgesteld om selfies te nemen met het
 huisdier. Deze zaken gaan zeker en vast overwogen worden in ons ontwerpproces.</p> 
 
+<p><em>Tabel 2: Resultaten test materiaal</em>
+  
+|Leder|Kunststof|Jeans|Vilt|Textiel|Gordel|Rekker|Gevlochten|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|1|0|1|1|6|0|0|
+</p>
 <p>In de keuze van materiaal is er een duidelijke winnaar te zien namelijk de gordel. Het is
 een stevig materiaal dat er ook verzorgt uit ziet. Ze hebben hier goed over er nagedacht,
 want ze waren aan het overleggen welke materialen het minst vuil worden.
-De ontwerpkeuze van materiaal voor de band is dan ook snel gemaakt. Het zal een
+  
+<p>De ontwerpkeuze van materiaal voor de band is dan ook snel gemaakt. Het zal een
 stevige gordelband zijn die er hip uitziet.</p> 
+
+<p><em>Tabel 3: Resultaten test kleur</em>
+  
+|   Rood   |Geel|Blauw|Groen|Oranje|Paars|Zwart|Wit|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2|0|3|3|0|1|1|0|</p>
 
 <p>Bij de keuze van kleuren is er een grote verdeeldheid. Dit was ook te verwachten doordat
 dit zeer subjectief is. Dit was ook de stap in de workshop waar de doelgroep het meest tijd
@@ -280,13 +296,16 @@ de test worden de planningen bekeken door de vorm van het horloge. Dit maakt dui
 wanneer de agenda in het eindproduct wordt gebruikt, constant maar een klein deel ervan
 zichtbaar is op het scherm. Acties zoals swipen in- en uitzoomen worden tijdens de test
 vervangen door het verplaatsen van het horloge ten opzichte van de agenda.</p>
-<p>
+<p align="left">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/504c86d8-1ea5-48b8-a8e5-01e71067ee0c" />
-  
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/1de3485c-b2c9-46e4-ab46-1390f69471bb" />
   </br>
-  <em>Figuur 8: uitgesneden horloge   Figuur 9: focusgroep wave 2</em> 
+  <em>Figuur 8: uitgesneden horloge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 9: focusgroep wave 2</em> 
 </p>
+
+
+
+
 
 
 
