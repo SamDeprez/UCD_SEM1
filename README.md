@@ -289,6 +289,9 @@ focusgroep op 22/12/2023.</p>
 agenda opgesteld. Van elke mogelijkheid moet er dan ook een prototype van worden
 gemaakt. Doordat de prototypes snel en eenvoudig moeten zijn, wordt een papieren versie
 van de planning gemaakt. Er zijn drie verschillende prototypes:</p>
+ 
+<p>- <b>To-Do lijst per dag:</b> in deze planning ziet de jongere constant welke taken er die dag 
+moeten uitgevoerd worden (eten geven, gaan wandelen, een bad geven).</p>
 
 
 
@@ -297,7 +300,7 @@ de test worden de planningen bekeken door de vorm van het horloge. Dit maakt dui
 wanneer de agenda in het eindproduct wordt gebruikt, constant maar een klein deel ervan
 zichtbaar is op het scherm. Acties zoals swipen in- en uitzoomen worden tijdens de test
 vervangen door het verplaatsen van het horloge ten opzichte van de agenda.</p>
-<p align="left">
+<p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/504c86d8-1ea5-48b8-a8e5-01e71067ee0c" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/1de3485c-b2c9-46e4-ab46-1390f69471bb" />
   </br>
@@ -319,6 +322,7 @@ Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de planningen.</p>
 <p>Hier is zoals bij de test van het materiaal en vorm één duidelijke winnaar. De lay-out met
 To-Do lijst in Time blocking heeft 90% van de stemmen. De redenen die voor deze lay-out
 gegeven worden kunnen opgedeeld worden in drie groeperende redenen .</br>
+
 1. De derde agenda is het meest overzichtelijk.</br>
 2. Het is handig dat alles dicht bij elkaar staat.</br>
 3. Het is handig dat ook andere activiteiten zoals hobby’s en school ook aangegeven zijn.</p>
