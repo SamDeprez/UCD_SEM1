@@ -1,4 +1,4 @@
-
+r
 ## PetWatch
 
 Smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdier.
@@ -20,7 +20,7 @@ die jongeren helpt met het onderhouden van hun eigen huisdier (hond of kat). Dit
 zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier kan zorgen.</p> 
 
 <p>
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/73eb2060-eb53-447e-add5-afd3c3345255" width="90%"/></br>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/73eb2060-eb53-447e-add5-afd3c3345255"  width="90%"/></br>
   <em>Figuur 1: De Petwatch</em>
   
 </p>
@@ -234,6 +234,12 @@ verschillende kleuren namelijk blauw, groen, rood en zwart.</p>
 
 <p><b>Conclusie</b></br>
 Via de resultaten van dit onderzoek is er een collectie ontwikkeld.</p>
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/d78dfb43-c7c8-47a1-88a7-a444e80a0dd1" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f6ea1922-875b-4d6d-94e0-557009444db9" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c4f9ac5d-e23c-49db-bd3b-1e3a2a30e102" /></br>
+  <em>Figuur 4: Prototypes wave 1 (schermvorm + materiaal)</em> 
+</p>
 
 ### Wave 2
 
