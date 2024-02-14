@@ -238,7 +238,7 @@ Via de resultaten van dit onderzoek is er een collectie ontwikkeld.</p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/d78dfb43-c7c8-47a1-88a7-a444e80a0dd1" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f6ea1922-875b-4d6d-94e0-557009444db9" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c4f9ac5d-e23c-49db-bd3b-1e3a2a30e102" /></br>
-  <em>Figuur 4: Prototypes wave 1 (schermvorm + materiaal)</em> 
+  <em>Figuur 5: conclusie wave 1 </em> 
 </p>
 
 ### Wave 2
@@ -266,6 +266,18 @@ de test worden de planningen bekeken door de vorm van het horloge. Dit maakt dui
 wanneer de agenda in het eindproduct wordt gebruikt, constant maar een klein deel ervan
 zichtbaar is op het scherm. Acties zoals swipen in- en uitzoomen worden tijdens de test
 vervangen door het verplaatsen van het horloge ten opzichte van de agenda.</p>
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/504c86d8-1ea5-48b8-a8e5-01e71067ee0c" />
+  
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/1de3485c-b2c9-46e4-ab46-1390f69471bb" />
+  </br>
+  <em>Figuur 9: focusgroep wave 2 </em> 
+</p>
+
+
+
+
+
 
 <p><b>Focus groep resultaten</b></br>
 Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de planningen.</p>
