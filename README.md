@@ -452,3 +452,30 @@ eindresultaat te bekomen.</p></br>
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+
+
+[Literatuur_Review_Protocol_IneVandeWeghe.docx ](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Literatuur_Review_Porotocol_IneVandeWeghe.docx?d=w3b64157bae6a4b7daa888d3c3a220d8c&csf=1&web=1&e=YnLPrM) </br>
+[Literatuur_Review_Report_IneVandeWeghe.docx ](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Literatuur_Review_Report_IneVandeWeghe.docx?d=wde73901514274e3ca917fa03f3a81138&csf=1&web=1&e=8w0B1E) </br>
+
+</br>
+
+[Focus Group_Protocol_IneVandeWeghe.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Focus%20Group_protocol_IneVandeWeghe.docx?d=w00cb27bb77804ab4bc9db131a1aace90&csf=1&web=1&e=4YYc04) </br>
+[FocusGroup_Report_IneVandeWeghe.docx ](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/FocusGroup_Report_IneVandeWeghe.docx?d=w77581618e9664066bb3d5e55fb64ccb6&csf=1&web=1&e=TJr0SC) </br>
+
+</br>
+
+[Focus_Group2_wave1_Protocol.docx  ](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Focus_Group2_Protocol.docx?d=w9936597736264748a12c1f08ec61c339&csf=1&web=1&e=fUeuB7) </br>
+[Focus_Group2_wave1_Report.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Report_FocusGroup2.docx?d=w3199150e06fa452c8dfbf4293ada9d66&csf=1&web=1&e=desXX5) </br>
+
+</br>
+
+[Focus_Group2_Wave2_Protocol.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/ERK9QnFU0LpEkIaPX65sbxAB9sryz5HWB--lZwAQ6tCiXA?e=iON5Xa) </br>
+[Focus_Group2_wave2_Report.docx ](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EVDk-UhdRd9JjoNavefzE1AB8E_D0TAsHEC1FR-aSMyqQw?e=EUt7R5) </br>
+
+
+
+
+
+
+
+
