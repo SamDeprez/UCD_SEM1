@@ -355,7 +355,9 @@ vervangen door het verplaatsen van het horloge ten opzichte van de agenda.</p>
 |0|1|9|
 </p>
 
-<p>Hier is zoals bij de test van het materiaal en vorm één duidelijke winnaar. De lay-out met
+<p>Geen enkele van de leden van de focusgroep vindt de lay-out met enkel To-Do lijst het beste. De tweede lay-out otving 1 stem.</p>
+
+<p>De versie met de meeste stemmen is de derde. De lay-out met
 To-Do lijst in Time blocking heeft 90% van de stemmen. De redenen die voor deze lay-out
 gegeven worden kunnen opgedeeld worden in drie groeperende redenen .</br>
 
@@ -374,7 +376,7 @@ ook de lay-out die in het eindproduct zal worden gebruikt.</p>
   <em>Figuur 11: Agenda &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspFiguur 12: Zicht op de GSM en Petwatch</em> 
 </p>
 
-<p>Als er achterf op deze test wordt teruggeken, kan er worden vastgesteld dat de resultaten en conclusie niet ideaal zijn. Dit komt doordat het onderzoek niet op de meeste efficiënte manier is uitgevoerd. De test zou namelijk beter zijn geweest als de leden van de focusgroep een bepaald taak moeten uitvoeren met de drie agenda's: bijvoorbeeld zoeken wanneer ze de hond eten moeten geven, uit de drukke agenda halen wanneer ze het best met de hond gaan wandelen... Door de personen een taak te geven zouden ze de agenda's beter bestuderen. Daarnaast is het opgven van hun favoriete agenda niet genoeg om kritisch te kunnen nadenken over de resultaten. Een oplossing hiervoor kan nasst hun favoriete agenda ook vragen bij iedere agenda wat ze er goed en slecht aan vinden. </p>
+<p>Als er achteraf op deze test wordt teruggeken, kan er worden vastgesteld dat de resultaten en conclusie niet ideaal zijn. Dit komt doordat het onderzoek niet op de meeste efficiënte manier is uitgevoerd. De test zou namelijk beter zijn geweest als de leden van de focusgroep een bepaald taak moeten uitvoeren met de drie agenda's: bijvoorbeeld zoeken wanneer ze de hond eten moeten geven, uit de drukke agenda halen wanneer ze het best met de hond gaan wandelen... Door de personen een taak te geven zouden ze de agenda's beter bestuderen. Daarnaast is het opgeven van hun favoriete agenda niet genoeg om kritisch te kunnen nadenken over de resultaten. Een oplossing hiervoor kan nasst hun favoriete agenda ook vragen bij iedere agenda wat ze er goed en slecht aan vinden. </p>
 
 
 </br>
