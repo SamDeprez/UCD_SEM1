@@ -283,7 +283,9 @@ soort van agenda/schema. Er zijn verschillende mogelijkheden hoe deze agenda er 
 uitzien. Daarbij moet er bij elke mogelijkheid rekening worden gehouden dat het te zien zal
 zijn op een klein scherm van een smartwatch. Om de meest duidelijke layout te bepalen op
 de Petwatch, moet er onderzoek worden uitgevoerd. Dit onderzoek gebeurd door een
-focusgroep op 22/12/2023.</p>
+focusgroep met 10 personen(n=10) op 22/12/2023.</p>
+
+
 
 <p>Als voorbereiding voor het onderzoek worden er verschillende mogelijkheden voor de
 agenda opgesteld. Van elke mogelijkheid moet er dan ook een prototype van worden
@@ -319,7 +321,7 @@ zijkant stond verwerkt in het uurrooster op het juiste moment.   </p>
   <em>Figuur 8: To-Do lijst in time blocking </em> 
 </p></br>
 
-
+<p>Alhoewel het testen van de agenda de jongere kan helpen met het gestructureerd verzorgen van zijn of haar huisdier. Zijn er andere zaken van het digitale deel die belangrijker kunnen zijn dan de agenda. Bijvoorbeeld de interactie met het digitale huisdier die aangeeft wanneer de jongere een bepaalde actie moet uitvoeren. Deze zaken worden dan vooral in tweede semeser onderzocht. Dit is het gevolg van het feit dat, met de beschikbare middelen en de tijd, de lay-out als weinige eenvoudig te testen is.</p>
 
 
 <p>Naast de agenda’s wordt er een uitgesneden houten vorm van een horloge gemaakt. Tijdens
@@ -370,7 +372,12 @@ ook de lay-out die in het eindproduct zal worden gebruikt.</p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/e7964cb0-7862-4b24-87d6-99908861581c" width="19%" />
   </br>
   <em>Figuur 11: Agenda &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 12: Zicht op de GSM en Petwatch</em> 
-</p></br>
+</p>
+
+<p>Als er achterf op deze test wordt teruggeken, kan er worden vastgesteld dat de resultaten en conclusie niet ideaal zijn. Dit komt doordat het onderzoek niet op de meeste efficiënte manier is uitgevoerd. De test zou namelijk beter zijn geweest als de leden van de focusgroep een bepaald taak moeten uitvoeren met de drie agenda's: bijvoorbeeld zoeken wanneer ze de hond eten moeten geven, uit de drukke agenda halen wanneer ze het best met de hond gaan wandelen... Door de personen een taak te geven zouden ze de agenda's beter bestuderen. Daarnaast is het opgven van hun favoriete agenda niet genoeg om kritisch te kunnen nadenken over de resultaten. Een oplossing hiervoor kan nasst hun favoriete agenda ook vragen bij iedere agenda wat ze er goed en slecht aan vinden. </p>
+
+
+</br>
 
 
 
@@ -412,6 +419,16 @@ kan verbonden worden.</P>
 
 <p>Door het 3D-printen van een verbindingsstuk die als houder dient voor de microcontoler en
 het scherm, is het mogelijk de alles vast te hangen aan de gordel band.</p>
+
+<p><em>Tabel 5: Bill of Material</em>
+  
+|   <b>Materiaal</b>   |<b>Aantal</b>|<b>Prijs (euro)</b>|
+|:---:|:---:|:---:|
+|Gordel stof|10-15cm|1,16|
+|ILI9341 LCD screen|1|17,02|
+|ESP32 |1|8,99 |
+|PVE (3D-print) |2|X |
+</p>
 
 <br>
 
