@@ -55,6 +55,12 @@ voorstellen waarbij er op zoek wordt gegaan naar een concept voor het probleem.
 De tweede diamant is dan de definition fase waarin verschillende deelaspecten van
 het proces worden uitgewerkt.</p>
 
+#### Fase 1: (Voor)onderzoek
+<p> Deze fase start meteen na het krijgen van de opdracht. Uit deze fase moeten er verschillende oplossingen worden gecreëerd op het probleem. Dit wordt gedaan door eerst het probleem te onderzoeken. Door het onderzoeken van het probleem, kam er al snel interesse om verder te werken met de connectie tussen jongeren en huisdieren. Dit betekent dat er ook onderzoek moet worden uitgevoerd op de nieuwe doelgroep en context. Dit wordt gedaan met ten eerste een Literature review (rond 21/10/2023) en een focusgroep met 13 jongeren (op 28/10/2023) </p>
+
+#### Fase 2: conceptselectie
+<p>Op het einde van de eeste helpt moet er een tijdelijk concept worden vastgesteld voor de concept pitch. Uit fase 1 zijn er verschillende ideeën gegenereerd. Deze ideeën worden in deze fase beoordeeld om zo een zo goed mogelijk concept te bekomen. De criteia waaraan dit concept moet voldoen wordt afgeleeid uit de resultaten van het vooronderzoek.</p>
+
 <b>Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.</b>
 
  <br>
