@@ -55,11 +55,21 @@ voorstellen waarbij er op zoek wordt gegaan naar een concept voor het probleem.
 De tweede diamant is dan de definition fase waarin verschillende deelaspecten van
 het proces worden uitgewerkt.</p>
 
-#### Fase 1: (Voor)onderzoek
-<p> Deze fase start meteen na het krijgen van de opdracht. Uit deze fase moeten er verschillende oplossingen worden gecreëerd op het probleem. Dit wordt gedaan door eerst het probleem te onderzoeken. Door het onderzoeken van het probleem, kam er al snel interesse om verder te werken met de connectie tussen jongeren en huisdieren. Dit betekent dat er ook onderzoek moet worden uitgevoerd op de nieuwe doelgroep en context. Dit wordt gedaan met ten eerste een Literature review (rond 21/10/2023) en een focusgroep met 13 jongeren (op 28/10/2023) </p>
+#### Fase 1: (voor)onderzoek
+<p> Deze fase start meteen na het krijgen van de opdracht. Uit deze fase moeten er verschillende oplossingen worden gecreëerd op het probleem. Dit wordt gedaan door eerst het probleem te onderzoeken. Door het onderzoeken van het probleem, kam er al snel interesse om verder te werken met de connectie tussen jongeren en huisdieren. Dit betekent dat er ook onderzoek moet worden uitgevoerd op de nieuwe doelgroep en context. Dit wordt gedaan met ten eerste een Literature review (rond 21/10/2023) en een focusgroep met 13 jongeren (op 28/10/2023). Deze testen tonen aan dat het wel degeleijk interessant om in de context van huisdieren te ontwerpen. </p>
 
 #### Fase 2: conceptselectie
-<p>Op het einde van de eeste helpt moet er een tijdelijk concept worden vastgesteld voor de concept pitch. Uit fase 1 zijn er verschillende ideeën gegenereerd. Deze ideeën worden in deze fase beoordeeld om zo een zo goed mogelijk concept te bekomen. De criteia waaraan dit concept moet voldoen wordt afgeleeid uit de resultaten van het vooronderzoek.</p>
+<p>Op het einde van de eeste helpt moet er een tijdelijk concept worden vastgesteld voor de concept pitch. Uit fase 1 zijn er verschillende ideeën gegenereerd. Deze ideeën worden in deze fase beoordeeld om zo een zo goed mogelijk concept te bekomen. De criteia waaraan dit concept moet voldoen wordt afgeleid uit de resultaten van het vooronderzoek.</p>
+
+#### Fase 3: ontwikkelen deelaspecetn
+<p>In deze fase wordt het tijdelijke concept onderverdeeld in deelaspecten/functies. Dit zorgt ervoor dat in de volgende fase elke deelfunctie apart met een prototype kan getest worden. De fase begint met het opstellen van een storyboard. Uit dit storyboard worden de te testen deelfuncties bepaalt (rond 19/11/2024). </p>
+
+#### Fase 4: Prototypen en testen
+<p>In deze fase worden de eerder bepaalde deelaspecten getest door middel van prototypes. Dit gebeurt in 2 waves. 
+
+In wave 1 wordt de geometrie van de Petwatch deels getest. Dit gebeurt door een focus groep met 10 jongeren waarbij ze zlef hun eigen samenstelling kunnen kiezen van schermvorm,materiaal en kleur.
+
+Bij wave 2 wordt de agenda gtest die de jongeren elk moment van de dag kan raadplegen om zo zijn/haar dag in te plannen. Dit gebeurt ook met een focusgroep met 10 leden. Het resultaat is een duidelijk vast gestelde lay-out voor de agenda.</p>
 
 <b>Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.</b>
 
