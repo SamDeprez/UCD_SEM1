@@ -56,6 +56,14 @@ voorstellen waarbij er op zoek wordt gegaan naar een concept voor het probleem.
 De tweede diamant is dan de definition fase waarin verschillende deelaspecten van
 het proces worden uitgewerkt.</p>
 
+<p>
+  
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/07b613be-001d-4d8e-b084-3d75a2afb5a1"  width="90%"/></br>
+  
+</p>
+
+
+
 #### Fase 1: (voor)onderzoek
 <p> Deze fase start meteen na het krijgen van de opdracht. Uit deze fase moeten er verschillende oplossingen worden gecreëerd op het probleem. Dit wordt gedaan door eerst het probleem te onderzoeken. Door het onderzoeken van het probleem, kam er al snel interesse om verder te werken met de connectie tussen jongeren en huisdieren. Dit betekent dat er ook onderzoek moet worden uitgevoerd op de nieuwe doelgroep en context. Dit wordt gedaan met ten eerste een Literature review (rond 21/10/2023) en een focusgroep met 13 jongeren (op 28/10/2023). Deze testen tonen aan dat het wel degeleijk interessant om in de context van huisdieren te ontwerpen. </p>
 
@@ -72,7 +80,6 @@ In wave 1 wordt de geometrie van de Petwatch deels getest. Dit gebeurt door een 
 
 Bij wave 2 wordt de agenda gtest die de jongeren elk moment van de dag kan raadplegen om zo zijn/haar dag in te plannen. Dit gebeurt ook met een focusgroep met 10 leden. Het resultaat is een duidelijk vast gestelde lay-out voor de agenda.</p>
 
-<b>Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.</b>
 
  <br>
  
