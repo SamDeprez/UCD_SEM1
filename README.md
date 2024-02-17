@@ -20,6 +20,7 @@ die jongeren helpt met het onderhouden van hun eigen huisdier (hond of kat). Dit
 zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier kan zorgen.</p> 
 
 <p>
+  
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/73eb2060-eb53-447e-add5-afd3c3345255"  width="90%"/></br>
   <em>Figuur 1: De Petwatch</em>
   
