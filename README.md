@@ -59,7 +59,7 @@ het proces worden uitgewerkt.</p>
 <p>
   
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/07b613be-001d-4d8e-b084-3d75a2afb5a1"  width="90%"/></br>
-  
+  <em>Figuur 2: Double diamond</em>
 </p>
 
 
