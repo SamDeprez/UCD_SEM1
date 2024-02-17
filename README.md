@@ -3,7 +3,7 @@
 
 Smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdier.
 
-*Projectteam: Deprez Sam; Ine Van de Weghe*
+*Projectteam: Deprez Sam; Van de Weghe Ine *
 
 Datum: 19/02/2024
 <br>
@@ -68,7 +68,7 @@ het proces worden uitgewerkt.</p>
 <p> Deze fase start meteen na het krijgen van de opdracht. Uit deze fase moeten er verschillende oplossingen worden gecreëerd op het probleem. Dit wordt gedaan door eerst het probleem te onderzoeken. Door het onderzoeken van het probleem, kam er al snel interesse om verder te werken met de connectie tussen jongeren en huisdieren. Dit betekent dat er ook onderzoek moet worden uitgevoerd op de nieuwe doelgroep en context. Dit wordt gedaan met ten eerste een Literature review (rond 21/10/2023) en een focusgroep met 13 jongeren (op 28/10/2023). Deze testen tonen aan dat het wel degeleijk interessant om in de context van huisdieren te ontwerpen. </p>
 
 #### Fase 2: conceptselectie
-<p>Op het einde van de eeste helpt moet er een tijdelijk concept worden vastgesteld voor de concept pitch. Uit fase 1 zijn er verschillende ideeën gegenereerd. Deze ideeën worden in deze fase beoordeeld om zo een zo goed mogelijk concept te bekomen. De criteia waaraan dit concept moet voldoen wordt afgeleid uit de resultaten van het vooronderzoek.</p>
+<p>Op het einde van de eerste helpt moet er een tijdelijk concept worden vastgesteld voor de concept pitch. Uit fase 1 zijn er verschillende ideeën gegenereerd. Deze ideeën worden in deze fase beoordeeld om zo een zo goed mogelijk concept te bekomen. De criteria waaraan dit concept moet voldoen wordt afgeleid uit de resultaten van het vooronderzoek.</p>
 
 #### Fase 3: ontwikkelen deelaspecetn
 <p>In deze fase wordt het tijdelijke concept onderverdeeld in deelaspecten/functies. Dit zorgt ervoor dat in de volgende fase elke deelfunctie apart met een prototype kan getest worden. De fase begint met het opstellen van een storyboard. Uit dit storyboard worden de te testen deelfuncties bepaalt (rond 19/11/2024). </p>
