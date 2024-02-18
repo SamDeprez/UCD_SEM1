@@ -455,7 +455,26 @@ toont dat een goede communicatie noodzakelijk is tussen ontwerpers om een goed
 eindresultaat te bekomen.</p></br>
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+
+Licg.nl - Invloed van dieren op kinderen. (z.d.). https://www.licg.nl/invloed-van-dieren-op-kinderen/#puberteit 
+
+Nienke. (2022, 24 februari). Kinderen en huisdieren, welk effect hebben ze op elkaar? Hart Voor Dieren. https://hartvoordieren.nl/kinderen-en-huisdieren/ 
+
+MamaLove. (2019, 13 juli). Wat is de invloed van een huisdier in het gezin? - Meer voor mama’s - Ouderschap. Meer Voor Mama’s. https://meervoormamas.nl/mama/ouderschap/wat-is-de-invloed-van-een-huisdier-in-het-gezin/ 
+
+Gabriela. (2021, 22 september). Huisdier voor de kinderen? We zetten de voor- en nadelen op een rijtje! - Wij houden van dieren. Wij houden van dieren. http://www.wijhoudenvandieren.be/huisdier-voor-de-kinderen/ 
+
+De Pourcq, E. (2023, 24 maart). Waarom plakken mijn kleinkinderen zo aan hun smartphone? Goedgezind.be by Gezinsbond. https://www.goedgezind.be/55-plussers/plakken-jongeren-aan-hun-smartphone/#:~:text=Negatieve%20effecten&text=Meer% 20stress%2C%20slaaptekort%2C%20minder%20concentratie,de%20concentratie%20en%20de%20productiviteit. 
+
+DPG Media Privacy Gate. (z.d.). https://www.parool.nl/nederland/eenzaamheid-onder-jongvolwassenen-zorgelijk-hoog~bd98c15d/?referrer=https://www.google.com/ 
+
+Meer eenzaamheid onder jongeren in 2021 | Nederlands Jeugdinstituut. (2022, 30 september). https://www.nji.nl/nieuws/meer-eenzaamheid-onder-jongeren-in-2021 
+Parenting Montana(2021, 6 okt). Responsibility for 11-year-old. Geraadpleegd op 9 januari 2024, van https://parentingmontana.org/responsibility-for-your-11-year-old/  
+
+Amazon.com. ILI9341 LCD screen (afbeelding) geraadpleegd op op 22 januari 2024, via: https://www.amazon.com.be/-/nl/Hailege-ILI9341-LCD-scherm-Arduino-Raspberry/dp/B07YTWRZGR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=A1A7E5ILEFA1R3  
+
+Bol.com. ESP32 (afbeelding) geraadpleegd op 22 januari 2024, via: https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  
+
 
 ## Bijlagen
 
