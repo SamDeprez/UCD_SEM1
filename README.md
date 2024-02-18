@@ -85,7 +85,7 @@ Bij wave 2 wordt de agenda getest die de jongeren elk moment van de dag kan raad
  
 ## Discovery
 ### Literature review
-<p>Als eerste stap is er een literatuuronderzoek gedaan. Dit literature review dient om inzicht
+Als eerste stap is er een literatuuronderzoek gedaan. Dit literature review dient om inzicht
 te krijgen welke effecten huisdieren hebben op opgroeiende kinderen en jongeren.
 Hier werd er gevonden dat onderzoek heeft aangetoond dat kinderen die opgroeiden in
 een huishouden met honden later als volwassenen meer sociaal vaardig zijn[^4]. Er wordt
@@ -93,7 +93,7 @@ geopperd dat dieren de sociale interactie tussen mensen kunnen versterken. Empat
 ook een belangrijk onderdeel van de sociale ontwikkeling bij kinderen. Door te zorgen voor
 een huisdier leert het kind dat iedereen behoeftes en gevoelens heeft. Uit sommige studies
 blijkt dat kinderen met huisdieren daardoor ook meer empathie naar hun medemens
-tonen[^1].</p>
+tonen[^1].
   
 <p>Huisdieren kunnen daarbij ook bijdragen aan een betere gezondheid. Alleen al het aaien
 van een huisdier heeft een verlagend effect op de hartslag en de bloeddruk. Dit geldt voor
@@ -454,26 +454,6 @@ problemen waardoor je met verschillende ideeën en inzichten kunt werken. Samenw
 toont dat een goede communicatie noodzakelijk is tussen ontwerpers om een goed
 eindresultaat te bekomen.</p></br>
 
-## Bronnen
-
-[^1]: Licg.nl - Invloed van dieren op kinderen. (z.d.). https://www.licg.nl/invloed-van-dieren-op-kinderen/#puberteit 
-
-[^2]: Nienke. (2022, 24 februari). Kinderen en huisdieren, welk effect hebben ze op elkaar? Hart Voor Dieren. https://hartvoordieren.nl/kinderen-en-huisdieren/ 
-
-[^3]: MamaLove. (2019, 13 juli). Wat is de invloed van een huisdier in het gezin? - Meer voor mama’s - Ouderschap. Meer Voor Mama’s. https://meervoormamas.nl/mama/ouderschap/wat-is-de-invloed-van-een-huisdier-in-het-gezin/ 
-
-[^4]: Gabriela. (2021, 22 september). Huisdier voor de kinderen? We zetten de voor- en nadelen op een rijtje! - Wij houden van dieren. Wij houden van dieren. http://www.wijhoudenvandieren.be/huisdier-voor-de-kinderen/ 
-
-[^5]: De Pourcq, E. (2023, 24 maart). Waarom plakken mijn kleinkinderen zo aan hun smartphone? Goedgezind.be by Gezinsbond. https://www.goedgezind.be/55-plussers/plakken-jongeren-aan-hun-smartphone/#:~:text=Negatieve%20effecten&text=Meer% 20stress%2C%20slaaptekort%2C%20minder%20concentratie,de%20concentratie%20en%20de%20productiviteit. 
-
-[^6]: DPG Media Privacy Gate. (z.d.). https://www.parool.nl/nederland/eenzaamheid-onder-jongvolwassenen-zorgelijk-hoog~bd98c15d/?referrer=https://www.google.com/ 
-
-[^7]: Meer eenzaamheid onder jongeren in 2021 | Nederlands Jeugdinstituut. (2022, 30 september). https://www.nji.nl/nieuws/meer-eenzaamheid-onder-jongeren-in-2021 
-Parenting Montana(2021, 6 okt). Responsibility for 11-year-old. Geraadpleegd op 9 januari 2024, van https://parentingmontana.org/responsibility-for-your-11-year-old/  
-
-[^8]: Amazon.com. ILI9341 LCD screen (afbeelding) geraadpleegd op op 22 januari 2024, via: https://www.amazon.com.be/-/nl/Hailege-ILI9341-LCD-scherm-Arduino-Raspberry/dp/B07YTWRZGR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=A1A7E5ILEFA1R3  
-
-[^9]: Bol.com. ESP32 (afbeelding) geraadpleegd op 22 januari 2024, via: https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  
 
 
 ## Bijlagen
@@ -496,6 +476,33 @@ Parenting Montana(2021, 6 okt). Responsibility for 11-year-old. Geraadpleegd op 
 
 [Focus_Group2_Wave2_Protocol.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/ERK9QnFU0LpEkIaPX65sbxAB9sryz5HWB--lZwAQ6tCiXA?e=iON5Xa) </br>
 [Focus_Group2_wave2_Report.docx ](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EVDk-UhdRd9JjoNavefzE1AB8E_D0TAsHEC1FR-aSMyqQw?e=EUt7R5) </br>
+
+
+## Bronnen
+
+[^1]: Licg.nl - Invloed van dieren op kinderen. (z.d.). [https://www.licg.nl/invloed-van-dieren-op-kinderen/#puberteit](https://www.licg.nl/invloed-van-dieren-op-kinderen/#puberteit) 
+
+[^2]: Nienke. (2022, 24 februari). Kinderen en huisdieren, welk effect hebben ze op elkaar? Hart Voor Dieren. [https://hartvoordieren.nl/kinderen-en-huisdieren/ ](https://hartvoordieren.nl/kinderen-en-huisdieren/ )
+
+[^3]: MamaLove. (2019, 13 juli). Wat is de invloed van een huisdier in het gezin? - Meer voor mama’s - Ouderschap. Meer Voor Mama’s.[https://meervoormamas.nl/mama/ouderschap/wat-is-de-invloed-van-een-huisdier-in-het-gezin/](https://meervoormamas.nl/mama/ouderschap/wat-is-de-invloed-van-een-huisdier-in-het-gezin/)
+  
+
+[^4]: Gabriela. (2021, 22 september). Huisdier voor de kinderen? We zetten de voor- en nadelen op een rijtje! - Wij houden van dieren. Wij houden van dieren. [http://www.wijhoudenvandieren.be/huisdier-voor-de-kinderen/](http://www.wijhoudenvandieren.be/huisdier-voor-de-kinderen/)
+   
+
+[^5]: De Pourcq, E. (2023, 24 maart). Waarom plakken mijn kleinkinderen zo aan hun smartphone? Goedgezind.be by Gezinsbond.[https://www.goedgezind.be/55-plussers/plakken-jongeren-aan-hun-smartphone/#:~:text=Negatieve%20effecten&text=Meer% 20stress%2C%20slaaptekort%2C%20minder%20concentratie,de%20concentratie%20en%20de%20productiviteit. 
+](https://www.goedgezind.be/55-plussers/plakken-jongeren-aan-hun-smartphone/#:~:text=Negatieve%20effecten&text=Meer% 20stress%2C%20slaaptekort%2C%20minder%20concentratie,de%20concentratie%20en%20de%20productiviteit. 
+) 
+
+[^6]: DPG Media Privacy Gate. (z.d.). [https://www.parool.nl/nederland/eenzaamheid-onder-jongvolwassenen-zorgelijk-hoog~bd98c15d/?referrer=https://www.google.com/ ](https://www.parool.nl/nederland/eenzaamheid-onder-jongvolwassenen-zorgelijk-hoog~bd98c15d/?referrer=https://www.google.com/ ) 
+
+[^7]: Meer eenzaamheid onder jongeren in 2021 | Nederlands Jeugdinstituut. (2022, 30 september). [https://www.nji.nl/nieuws/meer-eenzaamheid-onder-jongeren-in-2021](https://www.nji.nl/nieuws/meer-eenzaamheid-onder-jongeren-in-2021) 
+
+[^8]: Parenting Montana(2021, 6 okt). Responsibility for 11-year-old. Geraadpleegd op 9 januari 2024, van [https://parentingmontana.org/responsibility-for-your-11-year-old/ ](https://parentingmontana.org/responsibility-for-your-11-year-old/ )  
+
+[^9]: Amazon.com. ILI9341 LCD screen (afbeelding) geraadpleegd op op 22 januari 2024, via: [https://www.amazon.com.be/-/nl/Hailege-ILI9341-LCD-scherm-Arduino-Raspberry/dp/B07YTWRZGR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=A1A7E5ILEFA1R3  ](https://www.amazon.com.be/-/nl/Hailege-ILI9341-LCD-scherm-Arduino-Raspberry/dp/B07YTWRZGR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=A1A7E5ILEFA1R3  ) 
+
+[^10]: Bol.com. ESP32 (afbeelding) geraadpleegd op 22 januari 2024, via: [https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  ](https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  ) https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  
 
 
 
