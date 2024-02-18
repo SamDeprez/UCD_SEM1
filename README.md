@@ -65,20 +65,20 @@ het proces worden uitgewerkt.</p>
 
 
 #### Fase 1: (voor)onderzoek
-<p> Deze fase start meteen na het krijgen van de opdracht. Uit deze fase moeten er verschillende oplossingen worden gecreëerd op het probleem. Dit wordt gedaan door eerst het probleem te onderzoeken. Door het onderzoeken van het probleem, kam er al snel interesse om verder te werken met de connectie tussen jongeren en huisdieren. Dit betekent dat er ook onderzoek moet worden uitgevoerd op de nieuwe doelgroep en context. Dit wordt gedaan met ten eerste een Literature review (rond 21/10/2023) en een focusgroep met 13 jongeren (op 28/10/2023). Deze testen tonen aan dat het wel degeleijk interessant om in de context van huisdieren te ontwerpen. </p>
+<p> Deze fase start meteen na het krijgen van de opdracht. Uit deze fase moeten er verschillende oplossingen worden gecreëerd op het probleem. Dit wordt gedaan door eerst het probleem te onderzoeken. Door het onderzoeken van het probleem kwam er al snel interesse om verder te werken met de connectie tussen jongeren en huisdieren. Dit betekent dat er ook onderzoek moet worden uitgevoerd op de nieuwe doelgroep en context. Dit wordt gedaan met ten eerste een Literature review (rond 21/10/2023) en een focusgroep met 13 jongeren (op 28/10/2023).  Deze testen tonen aan dat het wel degeleijk interessant is om in de context van huisdieren te ontwerpen. </p>
 
 #### Fase 2: conceptselectie
-<p>Op het einde van de eerste helpt moet er een tijdelijk concept worden vastgesteld voor de concept pitch. Uit fase 1 zijn er verschillende ideeën gegenereerd. Deze ideeën worden in deze fase beoordeeld om zo een zo goed mogelijk concept te bekomen. De criteria waaraan dit concept moet voldoen wordt afgeleid uit de resultaten van het vooronderzoek.</p>
+<p>Op het einde van deze fase moet er een tijdelijk concept worden vastgesteld voor de concept pitch. Uit fase 1 zijn er verschillende ideeën gegenereerd. Deze ideeën worden in deze fase beoordeeld om zo een zo goed mogelijk concept te bekomen. De criteria waaraan dit concept moet voldoen, wordt afgeleid uit de resultaten van het vooronderzoek.</p>
 
 #### Fase 3: ontwikkelen deelaspecetn
-<p>In deze fase wordt het tijdelijke concept onderverdeeld in deelaspecten/functies. Dit zorgt ervoor dat in de volgende fase elke deelfunctie apart met een prototype kan getest worden. De fase begint met het opstellen van een storyboard. Uit dit storyboard worden de te testen deelfuncties bepaalt (rond 19/11/2024). </p>
+<p>In deze fase wordt het tijdelijke concept onderverdeeld in deelaspecten/functies. Dit zorgt ervoor dat in de volgende fase elke deelfunctie apart met een prototype kan getest worden. De fase begint met het opstellen van een storyboard. Uit dit storyboard worden de te testen deelfuncties bepaald (rond 19/11/2024). </p>
 
 #### Fase 4: Prototypen en testen
-<p>In deze fase worden de eerder bepaalde deelaspecten getest door middel van prototypes. Dit gebeurt in 2 waves. 
+<p>In deze fase worden de eerder bepaalde deelaspecten getest door middel van prototypes. Dit gebeurt in 2 waves.  
 
-In wave 1 wordt de geometrie van de Petwatch deels getest. Dit gebeurt door een focus groep met 10 jongeren waarbij ze zlef hun eigen samenstelling kunnen kiezen van schermvorm,materiaal en kleur.
+In wave 1 wordt de geometrie van de Petwatch deels getest. Dit gebeurt door een focus groep met 10 jongeren waarbij ze zelf hun eigen samenstelling kunnen kiezen van schermvorm, materiaal en kleur.
 
-Bij wave 2 wordt de agenda gtest die de jongeren elk moment van de dag kan raadplegen om zo zijn/haar dag in te plannen. Dit gebeurt ook met een focusgroep met 10 leden. Het resultaat is een duidelijk vast gestelde lay-out voor de agenda.</p>
+Bij wave 2 wordt de agenda getest die de jongeren elk moment van de dag kan raadplegen om zo zijn/haar dag in te plannen. Dit gebeurt ook met een focusgroep met 10 leden. Het resultaat is een duidelijk vast gestelde lay-out voor de agenda. </p>
 
 
  <br>
@@ -298,23 +298,11 @@ verschillende kleuren namelijk blauw, groen, rood en zwart.</p></br>
 
 ### Wave 2
 
-<p>De tweede wave aan prototypen richt zich meer op het digitale aspect van de Petwatch.
-Het eindresultaat moet een efficiënt te gebruiken smartwatch zijn. Het is zeer belangrijk dat
-de doelgroep de taken voor het onderhouden van een huisdier elke dag en op het juiste
-moment uitvoert. Om dit te realiseren is er een eenvoudige structurele weergave nodig van
-deze taken doorheen de dag. De beste manier van dit te doen is door het werken met een
-soort van agenda/schema. Er zijn verschillende mogelijkheden hoe deze agenda er kan
-uitzien. Daarbij moet er bij elke mogelijkheid rekening worden gehouden dat het te zien zal
-zijn op een klein scherm van een smartwatch. Om de meest duidelijke layout te bepalen op
-de Petwatch, moet er onderzoek worden uitgevoerd. Dit onderzoek gebeurd door een
-focusgroep met 10 personen(n=10) op 22/12/2023.</p>
+<p>De tweede wave aan prototypen richt zich meer op het digitale aspect van de Petwatch. Het eindresultaat moet een efficiënt te gebruiken smartwatch zijn. Het is zeer belangrijk dat de doelgroep de taken voor het onderhouden van een huisdier elke dag en op het juiste moment uitvoert. Om dit te realiseren is er een eenvoudige structurele weergave nodig van deze taken doorheen de dag. De beste manier van dit te doen is door het werken met een soort van agenda/schema. Er zijn verschillende mogelijkheden hoe deze agenda er kan uitzien. Daarbij moet er bij elke mogelijkheid rekening worden gehouden dat het te zien zal zijn op een klein scherm van een smartwatch. Om de meest duidelijke lay-out te bepalen op de Petwatch, moet er onderzoek worden uitgevoerd. Dit onderzoek gebeurt door een focusgroep met 10 personen(n=10) op 22/12/2023. </p>
 
 
 
-<p>Als voorbereiding voor het onderzoek worden er verschillende mogelijkheden voor de
-agenda opgesteld. Van elke mogelijkheid moet er dan ook een prototype van worden
-gemaakt. Doordat de prototypes snel en eenvoudig moeten zijn, wordt een papieren versie
-van de planning gemaakt. Er zijn drie verschillende prototypes:</p>
+<p>Als voorbereiding voor het onderzoek worden er verschillende mogelijkheden voor de agenda opgesteld. Van elke mogelijkheid moet er dan ook een prototype van worden gemaakt. Doordat de prototypes snel en eenvoudig moeten zijn, wordt een papieren versie van de planning gemaakt. Er zijn drie verschillende prototypes: </p>
  
 <p>- <b>To-Do lijst per dag:</b> in deze planning ziet de jongere constant welke taken er die dag 
 moeten uitgevoerd worden (eten geven, gaan wandelen, een bad geven).</p>
@@ -345,14 +333,10 @@ zijkant stond verwerkt in het uurrooster op het juiste moment.   </p>
   <em>Figuur 8: To-Do lijst in time blocking </em> 
 </p></br>
 
-<p>Alhoewel het testen van de agenda de jongere kan helpen met het gestructureerd verzorgen van zijn of haar huisdier. Zijn er andere zaken van het digitale deel die belangrijker kunnen zijn dan de agenda. Bijvoorbeeld de interactie met het digitale huisdier die aangeeft wanneer de jongere een bepaalde actie moet uitvoeren. Deze zaken worden dan vooral in tweede semeser onderzocht. Dit is het gevolg van het feit dat, met de beschikbare middelen en de tijd, de lay-out als weinige eenvoudig te testen is.</p>
+<p>Alhoewel het testen van de agenda de jongere kan helpen met het gestructureerd verzorgen van zijn of haar huisdier, zijn er andere zaken van het digitale deel die belangrijker kunnen zijn dan de agenda. Bijvoorbeeld de interactie met het digitale huisdier die aangeeft wanneer de jongere een bepaalde actie moet uitvoeren. Deze zaken worden dan vooral in tweede semester onderzocht. Dit is het gevolg van het feit dat, met de beschikbare middelen en de tijd, de lay-out als weinig eenvoudig te testen is. </p>
 
 
-<p>Naast de agenda’s wordt er een uitgesneden houten vorm van een horloge gemaakt. Tijdens
-de test worden de planningen bekeken door de vorm van het horloge. Dit maakt duidelijk dat
-wanneer de agenda in het eindproduct wordt gebruikt, constant maar een klein deel ervan
-zichtbaar is op het scherm. Acties zoals swipen in- en uitzoomen worden tijdens de test
-vervangen door het verplaatsen van het horloge ten opzichte van de agenda.</p>
+<p>Naast de agenda’s wordt er een uitgesneden houten vorm van een horloge gemaakt. Tijdens de test worden de planningen bekeken voor de vorm van het horloge. Dit maakt duidelijk dat wanneer de agenda in het eindproduct wordt gebruikt, constant maar een klein deel ervan zichtbaar is op het scherm. Acties zoals swipen in- en uitzoomen worden tijdens de test vervangen door het verplaatsen van het horloge ten opzichte van de agenda. </p>
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/504c86d8-1ea5-48b8-a8e5-01e71067ee0c" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/1de3485c-b2c9-46e4-ab46-1390f69471bb" />
@@ -370,7 +354,7 @@ vervangen door het verplaatsen van het horloge ten opzichte van de agenda.</p>
 
 
 #### Focus groep resultaten
-<p></p>Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de planningen.</p>
+<p></p>Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de agenda's.</p>
 
 <p><em>Tabel 4: Resultaten test agenda</em>
   
@@ -379,18 +363,16 @@ vervangen door het verplaatsen van het horloge ten opzichte van de agenda.</p>
 |0|1|9|
 </p>
 
-<p>Geen enkele van de leden van de focusgroep vindt de lay-out met enkel to-do lijst het beste. 1 persoon stemde op de lay-out met time blocking en to-do lijst.</p>
+<p>Geen enkel lid van de focusgroep vindt de lay-out met enkel to-do lijst het beste. 1 persoon stemde op de lay-out met time blocking en to-do lijst. </p>
 
-<p>De lay-out met
-To-Do lijst in Time blocking heeft 90% van de stemmen. De redenen die voor deze lay-out
-gegeven worden kunnen opgedeeld worden in drie groeperende redenen .</br>
+<p>De lay-out met To-Do lijst in Time blocking heeft 90% van de stemmen. De redenen die voor deze lay-out gegeven worden, kunnen opgedeeld worden in drie groeperende redenen. </br>
 
 1. De derde agenda is het meest overzichtelijk.</br>
 2. Het is handig dat alles dicht bij elkaar staat.</br>
-3. Het is handig dat ook andere activiteiten zoals hobby’s en school ook aangegeven zijn.</p></br>
+3. Het is handig dat ook andere activiteiten zoals hobby’s en school aangegeven zijn.</p></br>
 
 #### Conclusie
-<p>De lay-out met to-do lijst in time blocking lijkt het meest populair te zijn bij de doelgroep. Doordat de test in een focus groep wordt uitgevoerd, is dit resultaat deels beïnvloed door het groepsgevoel van de leden. Doordat er enkel op de laatste 2 lay-outs is gestemd, kan er geconcludeerd worden dat jongeren wel echt een time block schema willen. Dit schema helpt namelijk de jongere bij het beter inplannen van alle taken doordat er ook rekening wordt gehouden met bijvoorbeeld hun hobby's. Het is logisch dat het wel of niet samenplaatsen van de to-do lijst een moeilijkere keuze is. Aan de ene kant leidt het samenplaatsen tot een iets drukker schema, maar het beperkt ook het aantal acties (swipen, in- of uitzoomen) die de jongere moet uitvoeren voor bekijken van de taken. In het eindresultaat wordt toch de derde lay-out gebruikt, dit omdat maar 1 persoon echt aangaf dat de lay-out waar de to-do lijst gescheiden is van de rest duidelijker is.   </p>
+<p>De lay-out met to-do lijst in time blocking lijkt het meest populaire te zijn bij de doelgroep. Doordat de test in een focus groep wordt uitgevoerd, is dit resultaat deels beïnvloed door het groepsgevoel van de leden. Doordat er enkel op de laatste 2 lay-outs is gestemd, kan er geconcludeerd worden dat jongeren wel echt een time block schema willen. Dit schema helpt namelijk de jongere bij het beter inplannen van alle taken doordat er ook rekening wordt gehouden met bijvoorbeeld hun hobby's. Het is logisch dat het wel of niet samen plaatsen van de to-do lijst een moeilijkere keuze is. Aan de ene kant leidt het samen plaatsen tot een iets drukker schema, maar het beperkt ook het aantal acties (swipen, in- of uitzoomen) die de jongere moet uitvoeren voor bekijken van de taken. In het eindresultaat wordt toch de derde lay-out gebruikt, dit omdat maar 1 persoon echt aangaf dat de lay-out waar de to-do lijst gescheiden is van de rest duidelijker is. </p>
 
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/b8df9a40-e986-47ea-88e2-2744911968d3" />
@@ -399,7 +381,7 @@ gegeven worden kunnen opgedeeld worden in drie groeperende redenen .</br>
   <em>Figuur 11: Agenda &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspFiguur 12: Zicht op de GSM en Petwatch</em> 
 </p>
 
-<p>Als er achteraf op deze test wordt teruggekeken, kan er worden vastgesteld dat de resultaten en conclusie niet ideaal zijn. Dit komt doordat het onderzoek niet op de meeste efficiënte manier is uitgevoerd. De test zou namelijk beter zijn geweest als de leden van de focusgroep een bepaald taak moeten uitvoeren met de drie agenda's: bijvoorbeeld zoeken wanneer ze de hond eten moeten geven, uit de drukke agenda halen wanneer ze het best met de hond gaan wandelen... Door de personen een taak te geven zouden ze de agenda's beter bestuderen. Daarnaast is het enkel vragen van de favoriete agenda van de doelgroep niet genoeg om 100% kritisch na te denken over de verkregen resultaten. In het vervolg kan dit worden opgelost door naast het vragen van hun favoriete agenda, ook bij elke agenda een postief en negatief punt te geven. </p>
+<p>Als er achteraf op deze test wordt teruggekeken, kan er worden vastgesteld dat de resultaten en conclusie niet ideaal zijn. Dit komt doordat het onderzoek niet op de meeste efficiënte manier is uitgevoerd. De test zou namelijk beter zijn geweest als de leden van de focusgroep een bepaalde taak moeten uitvoeren met de drie agenda's: bijvoorbeeld zoeken wanneer ze de hond eten moeten geven, uit de drukke agenda halen wanneer ze het best met de hond gaan wandelen... Door de personen een taak te geven zouden ze de agenda's beter bestuderen. Daarnaast is het enkel vragen van de favoriete agenda van de doelgroep niet genoeg om 100% kritisch na te denken over de verkregen resultaten. In het vervolg kan dit worden opgelost door naast het vragen van hun favoriete agenda, ook bij elke agenda een positief en negatief punt te geven. </p>
 
 
 </br>
