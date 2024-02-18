@@ -41,7 +41,7 @@ hun ouders, maar zijn nog te jong om zelfstandig op pad te gaan met vrienden.
 Jongeren van de eerste jaren van het middelbaar leren voor het eerste omgaan met
 verantwoordelijkheden. “Ze proberen de regels te begrijpen en deze in verschillende
 omgevingen toe te passen. Ze werken aan hun eigen onafhankelijkheid.”(Parenting
-Montana 2021)[^7]. Als de jongere zelf vindt dat hij of zij de verantwoordelijkheid van een
+Montana 2021).[^8] Als de jongere zelf vindt dat hij of zij de verantwoordelijkheid van een
 huisdier aankan, kan dit voor problemen zorgen als de ouders er anders over denken.
 Het doel van het concept is een oplossing te geven voor beide problemen. Door het
 verzorgen van een huisdier eenvoudiger te maken en ouders de controleer mogelijk te
@@ -402,10 +402,10 @@ bevatten.</p>
 
 Het belangrijkste component van de smartwatch is natuurlijk het scherm. Online zijn er veel
 schermen te vinden om je eigen smartwatch te maken met Arduino Uno of Raspberry Pi.
-Het gekozen scherm is “ILI9341 LCD screen”[^8] . Dit scherm kan eenvoudig met een Arduino
+Het gekozen scherm is “ILI9341 LCD screen”[^9] . Dit scherm kan eenvoudig met een Arduino
 Uno of een ESP32 aangestuurd worden.</br>
 
-Het scherm wordt aangestuurd met een ESP32.[^9] Dit heeft enkele voordelen op de Arduino
+Het scherm wordt aangestuurd met een ESP32.[^10] Dit heeft enkele voordelen op de Arduino
 Uno. Deze microcontroller is kleiner en is dus eenvoudiger in het eindproduct te verwerken.
 Daarnaast heeft het ook de mogelijkheid om met het internet te verbinden. Deze functie
 kan nog van pas komen in het eindproduct doordat de smartwatch dan ook met een gsm
