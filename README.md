@@ -88,26 +88,26 @@ Bij wave 2 wordt de agenda getest die de jongeren elk moment van de dag kan raad
 <p>Als eerste stap is er een literatuuronderzoek gedaan. Dit literature review dient om inzicht
 te krijgen welke effecten huisdieren hebben op opgroeiende kinderen en jongeren.
 Hier werd er gevonden dat onderzoek heeft aangetoond dat kinderen die opgroeiden in
-een huishouden met honden later als volwassenen meer sociaal vaardig zijn. Er wordt
+een huishouden met honden later als volwassenen meer sociaal vaardig zijn[^4]. Er wordt
 geopperd dat dieren de sociale interactie tussen mensen kunnen versterken. Empathie is
 ook een belangrijk onderdeel van de sociale ontwikkeling bij kinderen. Door te zorgen voor
 een huisdier leert het kind dat iedereen behoeftes en gevoelens heeft. Uit sommige studies
 blijkt dat kinderen met huisdieren daardoor ook meer empathie naar hun medemens
-tonen.[^1]</p>
+tonen[^1].</p>
   
 <p>Huisdieren kunnen daarbij ook bijdragen aan een betere gezondheid. Alleen al het aaien
 van een huisdier heeft een verlagend effect op de hartslag en de bloeddruk. Dit geldt voor
 alle gezinsleden. Je wordt van een huisdier ontspannen en dit heeft een gunstig effect op
 het immuunsysteem. Er zijn ook onderzoeken die aantonen dat als kinderen op jonge
 leeftijd in aanraking komen met huisdieren, zij minder risico lopen op het ontwikkelen van
-een allergie voor huisdieren.</p>
+een allergie voor huisdieren.[^1]</p>
   
 <p>Kinderen leren dankzij huisdieren ook dingen over het leven. Dieren leren kinderen over
 voortplanting en geboorte, en over ziekte, ongelukken en dood. Voor veel kinderen is het
 doodgaan of kwijtraken van een huisdier de eerste ervaring die ze hebben met de dood en
 met rouw. Kinderen leren dat dood iets natuurlijks is dat hoort bij het leven.[^2]
 Eén van de grootste voordelen is de gezelschap die je krijgt van een huisdier. De nood
-aan gezelschap wordt alsmaar groter, want de eenzaamheid bij jongeren stijgt. Corona
+aan gezelschap wordt alsmaar groter, want de eenzaamheid bij jongeren stijgt[^6]. Corona
 speelt hierin een belangrijke rol. In 2021 zei 14 procent van de jongeren tussen 15 en 25
 jaar zich sterk emotioneel eenzaam te voelen. In 2019, vlak voor het begin van de
 coronacrisis, was dat nog 8 procent[^7]. De smartphoneverslaving bij jongeren speelt hierbij
