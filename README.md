@@ -35,7 +35,7 @@ challenge richt zich op het raakvlak tussen natuur, spel en technologie.
 Na het krijgen van de opdracht was het direct duidelijk rond welk thema er gewerkt zou
 worden, namelijk huisdieren. Het is de speelse vriend van bijna ieder kind. Zeker tijdens de
 pubertijd kampen veel jongeren met eenzaamheid en zouden ze wel een trouwe vriend
-kunnen gebruiken. Door veranderingen in hun lichaam en denkwijze voelen veel jongeren
+kunnen gebruiken[^3]. Door veranderingen in hun lichaam en denkwijze voelen veel jongeren
 zich alleen en uitgesloten. Tieners hebben op deze leeftijd het liefst wat meer afstand van
 hun ouders, maar zijn nog te jong om zelfstandig op pad te gaan met vrienden.
 Jongeren van de eerste jaren van het middelbaar leren voor het eerste omgaan met
@@ -93,7 +93,7 @@ geopperd dat dieren de sociale interactie tussen mensen kunnen versterken. Empat
 ook een belangrijk onderdeel van de sociale ontwikkeling bij kinderen. Door te zorgen voor
 een huisdier leert het kind dat iedereen behoeftes en gevoelens heeft. Uit sommige studies
 blijkt dat kinderen met huisdieren daardoor ook meer empathie naar hun medemens
-tonen.</p>
+tonen.[^1]</p>
   
 <p>Huisdieren kunnen daarbij ook bijdragen aan een betere gezondheid. Alleen al het aaien
 van een huisdier heeft een verlagend effect op de hartslag en de bloeddruk. Dit geldt voor
@@ -105,17 +105,17 @@ een allergie voor huisdieren.</p>
 <p>Kinderen leren dankzij huisdieren ook dingen over het leven. Dieren leren kinderen over
 voortplanting en geboorte, en over ziekte, ongelukken en dood. Voor veel kinderen is het
 doodgaan of kwijtraken van een huisdier de eerste ervaring die ze hebben met de dood en
-met rouw. Kinderen leren dat dood iets natuurlijks is dat hoort bij het leven.
+met rouw. Kinderen leren dat dood iets natuurlijks is dat hoort bij het leven.[^2]
 Eén van de grootste voordelen is de gezelschap die je krijgt van een huisdier. De nood
 aan gezelschap wordt alsmaar groter, want de eenzaamheid bij jongeren stijgt. Corona
 speelt hierin een belangrijke rol. In 2021 zei 14 procent van de jongeren tussen 15 en 25
 jaar zich sterk emotioneel eenzaam te voelen. In 2019, vlak voor het begin van de
-coronacrisis, was dat nog 8 procent. De smartphoneverslaving bij jongeren speelt hierbij
+coronacrisis, was dat nog 8 procent[^7]. De smartphoneverslaving bij jongeren speelt hierbij
 een grote rol. Hét gouden advies blijft afwisseling, dan is er voldoende tegengewicht voor
 het online leven. Een huisdier kan zorgen voor die afwisseling in het dagelijks leven.</p></br>
 
 #### Conclusie
-<p>Doordat huisdieren zo een goede invloed hebben op kinderen. Er is een eerste concept
+<p>Doordat huisdieren zo een goede invloed hebben op kinderen en een deel uitmaken van de natuur is een eerste concept
 definieert.</p>
 
 <p>Het is een opmaat gemaakte digitale versie van je eigen
@@ -456,24 +456,24 @@ eindresultaat te bekomen.</p></br>
 
 ## Bronnen
 
-Licg.nl - Invloed van dieren op kinderen. (z.d.). https://www.licg.nl/invloed-van-dieren-op-kinderen/#puberteit 
+[^1]: Licg.nl - Invloed van dieren op kinderen. (z.d.). https://www.licg.nl/invloed-van-dieren-op-kinderen/#puberteit 
 
-Nienke. (2022, 24 februari). Kinderen en huisdieren, welk effect hebben ze op elkaar? Hart Voor Dieren. https://hartvoordieren.nl/kinderen-en-huisdieren/ 
+[^2]: Nienke. (2022, 24 februari). Kinderen en huisdieren, welk effect hebben ze op elkaar? Hart Voor Dieren. https://hartvoordieren.nl/kinderen-en-huisdieren/ 
 
-MamaLove. (2019, 13 juli). Wat is de invloed van een huisdier in het gezin? - Meer voor mama’s - Ouderschap. Meer Voor Mama’s. https://meervoormamas.nl/mama/ouderschap/wat-is-de-invloed-van-een-huisdier-in-het-gezin/ 
+[^3]: MamaLove. (2019, 13 juli). Wat is de invloed van een huisdier in het gezin? - Meer voor mama’s - Ouderschap. Meer Voor Mama’s. https://meervoormamas.nl/mama/ouderschap/wat-is-de-invloed-van-een-huisdier-in-het-gezin/ 
 
-Gabriela. (2021, 22 september). Huisdier voor de kinderen? We zetten de voor- en nadelen op een rijtje! - Wij houden van dieren. Wij houden van dieren. http://www.wijhoudenvandieren.be/huisdier-voor-de-kinderen/ 
+[^4]: Gabriela. (2021, 22 september). Huisdier voor de kinderen? We zetten de voor- en nadelen op een rijtje! - Wij houden van dieren. Wij houden van dieren. http://www.wijhoudenvandieren.be/huisdier-voor-de-kinderen/ 
 
-De Pourcq, E. (2023, 24 maart). Waarom plakken mijn kleinkinderen zo aan hun smartphone? Goedgezind.be by Gezinsbond. https://www.goedgezind.be/55-plussers/plakken-jongeren-aan-hun-smartphone/#:~:text=Negatieve%20effecten&text=Meer% 20stress%2C%20slaaptekort%2C%20minder%20concentratie,de%20concentratie%20en%20de%20productiviteit. 
+[^5]: De Pourcq, E. (2023, 24 maart). Waarom plakken mijn kleinkinderen zo aan hun smartphone? Goedgezind.be by Gezinsbond. https://www.goedgezind.be/55-plussers/plakken-jongeren-aan-hun-smartphone/#:~:text=Negatieve%20effecten&text=Meer% 20stress%2C%20slaaptekort%2C%20minder%20concentratie,de%20concentratie%20en%20de%20productiviteit. 
 
-DPG Media Privacy Gate. (z.d.). https://www.parool.nl/nederland/eenzaamheid-onder-jongvolwassenen-zorgelijk-hoog~bd98c15d/?referrer=https://www.google.com/ 
+[^6]: DPG Media Privacy Gate. (z.d.). https://www.parool.nl/nederland/eenzaamheid-onder-jongvolwassenen-zorgelijk-hoog~bd98c15d/?referrer=https://www.google.com/ 
 
-Meer eenzaamheid onder jongeren in 2021 | Nederlands Jeugdinstituut. (2022, 30 september). https://www.nji.nl/nieuws/meer-eenzaamheid-onder-jongeren-in-2021 
+[^7]: Meer eenzaamheid onder jongeren in 2021 | Nederlands Jeugdinstituut. (2022, 30 september). https://www.nji.nl/nieuws/meer-eenzaamheid-onder-jongeren-in-2021 
 Parenting Montana(2021, 6 okt). Responsibility for 11-year-old. Geraadpleegd op 9 januari 2024, van https://parentingmontana.org/responsibility-for-your-11-year-old/  
 
-Amazon.com. ILI9341 LCD screen (afbeelding) geraadpleegd op op 22 januari 2024, via: https://www.amazon.com.be/-/nl/Hailege-ILI9341-LCD-scherm-Arduino-Raspberry/dp/B07YTWRZGR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=A1A7E5ILEFA1R3  
+[^8]: Amazon.com. ILI9341 LCD screen (afbeelding) geraadpleegd op op 22 januari 2024, via: https://www.amazon.com.be/-/nl/Hailege-ILI9341-LCD-scherm-Arduino-Raspberry/dp/B07YTWRZGR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=A1A7E5ILEFA1R3  
 
-Bol.com. ESP32 (afbeelding) geraadpleegd op 22 januari 2024, via: https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  
+[^9]: Bol.com. ESP32 (afbeelding) geraadpleegd op 22 januari 2024, via: https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  
 
 
 ## Bijlagen
