@@ -440,19 +440,16 @@ het scherm, is het mogelijk de alles vast te hangen aan de gordel band.</p>
 <br>
 
 ## Kritische reflectie
-<p>In het eerst semester is er al veel aan het project gewerkt. Hierdoor is er een tussentijds
-resultaat verkregen waar wij als studenten tevreden mee zijn. Wij geloven in dit project, en
-geloven in goed eindresultaat. Alhoewel er door middel van een focusgroep 2 belangrijke
-testen werden uitgevoerd, is er 1 test waarvoor er geen tijd meer is. Dit is de tamagotchi
-test. Een test om te onderzoeken of jongeren wel degelijk een band kunnen vormen met
-een digitaal huisdier. Het is jammer dat we deze test niet konden doen.</p>
+<p>In het eerst semester is er al veel aan het project gewerkt. Wij geloven is ons concept en in een goed eindresultaat. 
+  
+Alhoewel de verschillende gebruikerstesten ons belangrijke inzichten heeft gegeven op de doelgroep. Moeten we toch eens kritisch over deze testen nadenken. Hierbij kunnen we vaststellen dat de testen niet perfect zijn verlopen. Zowel bij beide waves aan prototypes kan de vraag gesteld worden “Is dit het belangrijkste om nu te testen?”. Ook al zijn deze deelaspecten misschien niet het belangrijkst, toch waren dat de zaken die mogelijk te testen waren binnen de tijd. Daarnaast waren de uitgevoerde testen niet diepgaand genoeg. Wij weten nu dat het alleen vragen van de  favoriete keuze maar weinig resultaat heeft om er kritisch erover na te denken.  
 
-<p>Naast een productieve eerste semester, was het ook een leerrijke. Dit komt doordat we
-met twee verschillende personen aan eenzelfde project mogen werken. Door samen te
-werken, leer je veel van een andere persoon. Elke persoon denkt anders na over
-problemen waardoor je met verschillende ideeën en inzichten kunt werken. Samenwerken
-toont dat een goede communicatie noodzakelijk is tussen ontwerpers om een goed
-eindresultaat te bekomen.</p></br>
+Naast de testen van de prototypes wouden we zeer graag nog een derde test doen. Dit was de Tamagotchi test. Met deze test wouden we kijken of jongeren wel degelijk luisteren naar een digitaal huisdier. Deze test was jammer genoeg niet meer mogelijk door dat het aangekochte materiaal defect was.
+
+Naast het belang van een diepgaande gebruikerstest toonde dit semester ook aan hoe het voelt om samen te werken aan een ontwerp opdracht. Door samen te werken, leer je veel van een andere persoon. Elke persoon denkt anders na over problemen waardoor je met verschillende ideeën en inzichten kunt werken. Samenwerken toont dat een goede communicatie noodzakelijk is tussen ontwerpers om een goed eindresultaat te bekomen.
+
+Als laatste hebben we besloten om het concept te vereenvoudigen. Vooraf werd er besloten op een product te ontwerpen die jongeren helpt bij het onderhouden van honden en katten, maar nu willen wij de katten laten vallen. Dit komt doordat het oorspronkelijk doel van het project (Nature, Play & Tech) is om kinderen meer actief buiten te laten spelen. Met een hond kan je gaan wandelen en spelletjes spelen, met een kat kan dit al veel minder.
+</p></br>
 
 
 
