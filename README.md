@@ -28,7 +28,7 @@ zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier k
 <br>
 
 ## Introductie
-<p>Het project is vertrokken uit de opdracht van: ‘Nature, Play en Tech’. De bedoeling is om
+Het project is vertrokken uit de opdracht van: ‘Nature, Play en Tech’. De bedoeling is om
 kinderen op een speelse manier meer in contact te laten komen met de natuur. Dit moet
 gebeuren aan de hand van een slim product. Deze design
 challenge richt zich op het raakvlak tussen natuur, spel en technologie.
@@ -41,13 +41,13 @@ hun ouders, maar zijn nog te jong om zelfstandig op pad te gaan met vrienden.
 Jongeren van de eerste jaren van het middelbaar leren voor het eerste omgaan met
 verantwoordelijkheden. “Ze proberen de regels te begrijpen en deze in verschillende
 omgevingen toe te passen. Ze werken aan hun eigen onafhankelijkheid.”(Parenting
-Montana 2021). Als de jongere zelf vindt dat hij of zij de verantwoordelijkheid van een
+Montana 2021)[^7]. Als de jongere zelf vindt dat hij of zij de verantwoordelijkheid van een
 huisdier aankan, kan dit voor problemen zorgen als de ouders er anders over denken.
 Het doel van het concept is een oplossing te geven voor beide problemen. Door het
 verzorgen van een huisdier eenvoudiger te maken en ouders de controleer mogelijk te
 geven, gaan ouders met meer vertrouwen “Ja!” kunnen zeggen op de vraag: “Mag ik een
-eigen huisdier?”</p>
-<br>
+eigen huisdier?”
+<br><br>
 
 ## Methodologie
 <p>De methodologie die wordt gebruikt in het eerste semester sluit het best aan bij het
@@ -93,16 +93,16 @@ geopperd dat dieren de sociale interactie tussen mensen kunnen versterken. Empat
 ook een belangrijk onderdeel van de sociale ontwikkeling bij kinderen. Door te zorgen voor
 een huisdier leert het kind dat iedereen behoeftes en gevoelens heeft. Uit sommige studies
 blijkt dat kinderen met huisdieren daardoor ook meer empathie naar hun medemens
-tonen[^1].
+tonen[^1].<br>
   
-<p>Huisdieren kunnen daarbij ook bijdragen aan een betere gezondheid. Alleen al het aaien
+Huisdieren kunnen daarbij ook bijdragen aan een betere gezondheid. Alleen al het aaien
 van een huisdier heeft een verlagend effect op de hartslag en de bloeddruk. Dit geldt voor
 alle gezinsleden. Je wordt van een huisdier ontspannen en dit heeft een gunstig effect op
 het immuunsysteem. Er zijn ook onderzoeken die aantonen dat als kinderen op jonge
 leeftijd in aanraking komen met huisdieren, zij minder risico lopen op het ontwikkelen van
-een allergie voor huisdieren.[^1]</p>
+een allergie voor huisdieren.[^1] <br>
   
-<p>Kinderen leren dankzij huisdieren ook dingen over het leven. Dieren leren kinderen over
+Kinderen leren dankzij huisdieren ook dingen over het leven. Dieren leren kinderen over
 voortplanting en geboorte, en over ziekte, ongelukken en dood. Voor veel kinderen is het
 doodgaan of kwijtraken van een huisdier de eerste ervaring die ze hebben met de dood en
 met rouw. Kinderen leren dat dood iets natuurlijks is dat hoort bij het leven.[^2]
@@ -112,7 +112,7 @@ speelt hierin een belangrijke rol. In 2021 zei 14 procent van de jongeren tussen
 jaar zich sterk emotioneel eenzaam te voelen. In 2019, vlak voor het begin van de
 coronacrisis, was dat nog 8 procent[^7]. De smartphoneverslaving bij jongeren speelt hierbij
 een grote rol. Hét gouden advies blijft afwisseling, dan is er voldoende tegengewicht voor
-het online leven. Een huisdier kan zorgen voor die afwisseling in het dagelijks leven.</p></br>
+het online leven. Een huisdier kan zorgen voor die afwisseling in het dagelijks leven.</br><br>
 
 #### Conclusie
 <p>Doordat huisdieren zo een goede invloed hebben op kinderen en een deel uitmaken van de natuur is een eerste concept
@@ -400,23 +400,23 @@ zijkant stond verwerkt in het uurrooster op het juiste moment.   </p>
 band van de Petwatch. Dit is dan ook de reden waarom het prototype ook dit materiaal zal
 bevatten.</p>
 
-<p>Het belangrijkste component van de smartwatch is natuurlijk het scherm. Online zijn er veel
+Het belangrijkste component van de smartwatch is natuurlijk het scherm. Online zijn er veel
 schermen te vinden om je eigen smartwatch te maken met Arduino Uno of Raspberry Pi.
-Het gekozen scherm is “ILI9341 LCD screen”. Dit scherm kan eenvoudig met een Arduino
-Uno of een ESP32 aangestuurd worden. </p>
+Het gekozen scherm is “ILI9341 LCD screen”[^8] . Dit scherm kan eenvoudig met een Arduino
+Uno of een ESP32 aangestuurd worden.</br>
 
-<P>Het scherm wordt aangestuurd met een ESP32. Dit heeft enkele voordelen op de Arduino
+Het scherm wordt aangestuurd met een ESP32.[^9] Dit heeft enkele voordelen op de Arduino
 Uno. Deze microcontroller is kleiner en is dus eenvoudiger in het eindproduct te verwerken.
 Daarnaast heeft het ook de mogelijkheid om met het internet te verbinden. Deze functie
 kan nog van pas komen in het eindproduct doordat de smartwatch dan ook met een gsm
-kan verbonden worden.</P>
+kan verbonden worden.</br>
 
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/01d97d99-96c3-454a-8da1-c5f26fe92590" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/d205cd5e-8bdd-4379-be53-6dae33acef57"  width="25%"/>
   </br>
-  <em>Figuur 13: ILI9341 LCD screen [^8] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 14: ESP32 [^9]</em> 
+  <em>Figuur 13: ILI9341 LCD screen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 14: ESP32 [^9]</em> 
 </p></br>
 
 
