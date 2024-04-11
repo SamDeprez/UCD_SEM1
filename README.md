@@ -43,10 +43,14 @@ We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierd
 De petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een gewoon horloge. Dit betekend dat de afmeting van het bandje moet ontwerpen worden voor aanpasbaarheid. <b>(Design for adjustability)</b> Bij horloges kan de afmeting worden ingesteld om de halve centimeter.
 
 ### Halsband
+Voor de halsband van de hond worden de berekeningen gemaakt op basis van de waarden die weergegevn zijn op de site van Tarigs[^2]
+Op deze site zijn de uiterste nekafmetingen weergegeven voor verschilende honden rassen.
+
+
 ## Bronnen
 
 [^1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5785639/#:~:text=For%20both%20genders%2C%20WrC%20linearly%20increases%20with%20age%20(13.0%20to,(17%20years)%2C%20respectively.
 
 </br>
 
-https://tarigs.com/size-table-dog/
+[^2]:https://tarigs.com/size-table-dog/
