@@ -46,6 +46,14 @@ De petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een
 Voor de halsband van de hond worden de berekeningen gemaakt op basis van de waarden die weergegevn zijn op de site van Tarigs[^2]
 Op deze site zijn de uiterste nekafmetingen weergegeven voor verschilende honden rassen.
 
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/50035716-3f33-48f1-affb-17ed6c291cd3" width="900" />
+  </br>
+  <em>Figuur 3: Nekafmetingen hondenrassen</em> 
+</p></br></br>
+
+
+
 
 ## Bronnen
 
