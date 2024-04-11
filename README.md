@@ -23,15 +23,15 @@ Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmetin
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f0d53432-4879-4b65-8f56-847c036acd92" width="900" />
   </br>
   <em>Figuur 1: Afmetingen Petwatch</em> 
-</p></br>
+</p></br></br>
 
-Enkel voor Afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevondebn.
+Enkel voor Afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevonden (National Library of Medicine[^1]) 
 
-<p>
+
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/2898a232-6cec-491d-bca6-1ad82880c239" width="900" />
   </br>
-  <em>Figuur 2: Afmetingen polsomtrek</em> 
-</p></br>
+  <em>Figuur 2: Afmetingen polsomtrek</em>    
+</br>
 
 We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierdoor wordt het gewogen gemiddelde berekekend  van P5 en P95
 </br></br>
@@ -40,9 +40,13 @@ We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierd
 <b>P95:</b>(168*16.34+126*16.76+139*17.20+153*17.68+223*18.15+136*16.04+165*16.42+167*16.69+150*13.88+379*16.96)/(168+126+139+153+223+136+165+167+150+379)=16,91 -> 17
 </br></br>
 
-De petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een gewoon horloge. Dit betekend dat de afmeting van het bandje moet ontwerpen worden voor aanpasbaarheid. <b>(Design for adjustability)</b>
+De petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een gewoon horloge. Dit betekend dat de afmeting van het bandje moet ontwerpen worden voor aanpasbaarheid. <b>(Design for adjustability)</b> Bij horloges kan de afmeting worden ingesteld om de halve centimeter.
 
 ### Halsband
+## Bronnen
 
+[^1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5785639/#:~:text=For%20both%20genders%2C%20WrC%20linearly%20increases%20with%20age%20(13.0%20to,(17%20years)%2C%20respectively.
 
+</br>
 
+https://tarigs.com/size-table-dog/
