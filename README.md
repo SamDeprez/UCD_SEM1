@@ -14,7 +14,8 @@ Op basis van berekeningen uit gegevens die online zijn gevonden wordt er bepaald
 Op basis van gebruikerstesten wordt er bepaald met welke sluitingsmethode de halsband moet werken.
 
 ## Berekeningen
-De eerste stap van het antropometrie is de verschillende afmetingen te bepalen van de onderdelen op basis van berekeningen. Deze berekeningen worden gemaakt op basis van gegevens die online te vinden zijn. 
+###Doelstellingen
+De eerste stap van het antropometrie is de verschillende afmetingen te bepalen van de onderdelen op basis van berekeningen. Deze berekeningen worden gemaakt op basis van gegevens die online te vinden zijn. Bij elke afmetingen moet er rekening worden gehouden op wat er moet ontwerpen worden.
 ### Petwatch
 Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongernn, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
 </br>
@@ -73,8 +74,29 @@ Met de berekeningen zijn de verschillende maten van zowel de Petwatch als de hal
 Hoe De halsband eenvoudig aangepast kan bij een bepaald type wordt bepaald in de gebruikstesten. 
 
 ## Testen
+### Doelstelling
+Bij deze testen wordt de antropometrie van de halsband verder uigewerkt. Hierbij wordt er door verschillende prototypes waarvan de maten overeenkomen met de berekende waarden, de beste sluitingsmethode gekozen voor de halsband.
+### Materiaal en methodes
 Voordat de testen kunnen beginnen wordt er online onderzocht welke sluitingsmethodes er worden gebruikt bij halsbanden voor honden. Uit dit onderzoek komen er 3 methodes naar boven.
 <ol><li>gespsluiting</li><li>tanggespsluiting</li><li>velcro</li></ol>
+</br></br>
+Van alle drie de sluitingsmethode wordt nu een prototype gemaakt. De maten van de prototypes zijn al bepaald tijdens de berekeningen. 
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/2ec6295a-06a7-478c-8957-24b2785c5e97" width="300"/>
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/06db019d-e22a-474e-83df-113804134f14" width="300" />
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/bb377ce0-215c-4cdf-968a-636fe58325eb" width="300" />
+  </br>
+  <em>Figuur 3: Nek afmetingen hondenrassen</em> 
+</p></br></br>
+
+Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen op hun hond. Vooraf en achteraf worden er enkel vragen gesteld over welke van de 3 ze het veiligst vinden,eenvoudigst aan te doen, eenvoudigst aan te spannen en het eenvoudigst af te doen. Deze zaken hangen samen met de programma van eisen die er opgesteld zijn voor de halsband (dit door middel van het overlopen can customer journey). 
+</br></br>
+<b>PVE:</b></br>
+<ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsbnd mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
+Maar dit is allemaal nog duidelijker beschreven in het <a href="https://jouwlinkhier.com">protocol</a>.
+
+
+
 
 
 
