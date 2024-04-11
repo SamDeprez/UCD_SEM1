@@ -61,10 +61,13 @@ Net zoals bij de armband moet de halsband perfect vastzittten rond de nek van de
 </br></br>
 <b>P5:</b>gem- 1,85 *SD =45,477-1,85 *10,76= 25,57 cm -> 25,5cm</br>
 <b>P95:</b>gem + 1,65 *SD= 63,21 -> 63,5 cm
+</br></br>
+Na het berekenen van de uiterste afmetingen, valt al snel op dat er een zeer groot vrschil is tussen de 2 waarden.
+Dit verschil is groter dan 30 cm. Als we een halsband willen ontwerpen die kan varieëren over zo'n grote afstand, kan dit voor problemen zorgen bij kleinere honden waarbij er een groot deel materiaal teveel is. Daarom wordt er besloten naast het ontwerpen voor aanpasbaarheid ook ontwerpen voor verschillende types <b>(Design for More types)</b>. Deze aanpak wordt ook moomenteel gegbruikt bij honden. Door aanpassen en verschillende types te combineren, moeten er nu verschillende intervallen bepaald worden voor elk type.
+Het logischte lijkt om het volledig interval te delen door 3 en zo elke halsbang een gelijk interval te geven. Maar heel vaak wordt bij halsbanden de laagste intervallen ook kleiner gemaakt dan de hogere. Daarom hebben we deze intervallen besloten:
+<ol><li>25,5 - 33</li><li>33-45</li><li>45-63,5</li></ol>
 
-
-Opnieuw besluiten we weer dat 90% van de populatie de halsband moet kunnen gebruiken.
-
+## Testen
 
 
 
