@@ -14,7 +14,7 @@ Op basis van berekeningen uit gegevens die online zijn gevonden wordt er bepaald
 Op basis van gebruikerstesten wordt er bepaald met welke sluitingsmethode de halsband moet werken.
 
 ## Berekeningen
-###Doelstellingen
+### Doelstellingen
 De eerste stap van het antropometrie is de verschillende afmetingen te bepalen van de onderdelen op basis van berekeningen. Deze berekeningen worden gemaakt op basis van gegevens die online te vinden zijn. Bij elke afmetingen moet er rekening worden gehouden op wat er moet ontwerpen worden.
 ### Petwatch
 Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongernn, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
@@ -91,15 +91,30 @@ Van alle drie de sluitingsmethode wordt nu een prototype gemaakt. De maten van d
 </p></br></br>
 
 
-Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen op hun hond. Vooraf en achteraf worden er enkel vragen gesteld over welke van de 3 ze het veiligst vinden,eenvoudigst aan te doen, eenvoudigst aan te spannen en het eenvoudigst af te doen. Deze zaken hangen samen met de programma van eisen die er opgesteld zijn voor de halsband (dit door middel van het overlopen can customer journey). 
+Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen op hun hond. Vooraf en achteraf de test worden er enkel vragen gesteld over welk prototype ze het veiligst vinden,eenvoudigst aan te doen, eenvoudigst aan te spannen en het eenvoudigst af te doen. Deze zaken hangen samen met de programma van eisen die er opgesteld zijn voor de halsband (dit door middel van het overlopen can customer journey). 
 </br></br>
+
+<p align="center">
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/97ba3ffa-5ef4-42b6-98c5-d1ba1d0bccf0" width="300" />
+  </br>
+  <em>Figuur 7: Test halsband</em> </br>
+  <em>Op deze foto is te zien hoe een jongeren de halsband uittest op de hond.</em>
+</p>
+
+
 <b>PVE:</b></br>
 <ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsbnd mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
 Maar dit is allemaal nog duidelijker beschreven in het <a href="https://jouwlinkhier.com">protocol</a>.
 
 ### Resultaten
 De resultaten zijn volledig uitgeschreven in <a href="https://jouwlinkhier.com">Report</a>.
+</br></br>
 
+De testen tonen aan dat geen enkele van de halsbanden perfect is, elke halsband heeft 1 groot probleem:
+<ul><li>De halsband met gespsluiting kan zeer eenvoudig aange- en afgedaan worden ( 3-4 seconden), maar het aanpassen van de halsband is niet gemakkelijk.</li><li>De halsband met tanggespsluiting kan gemakkelijk ingesteld worden, maar heeft problemen bij he snel aan en af doen. Dit vooral bij kleinere honden waarbij de vacht voor de kleine sluitingsgaten kan zitten.</li><li>De halsband met velcro heeft geen veilig gevoel/kan loskomen tijdens het wandelen.</li></ul>
+</br></br>
+Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. Toch kan het eventueel interessant zijn om andere instelmethodes te zoeken voord deze halsband. 
+### Conclusie
 
 
 
