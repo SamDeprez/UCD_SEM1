@@ -81,13 +81,15 @@ Voordat de testen kunnen beginnen wordt er online onderzocht welke sluitingsmeth
 <ol><li>gespsluiting</li><li>tanggespsluiting</li><li>velcro</li></ol>
 </br></br>
 Van alle drie de sluitingsmethode wordt nu een prototype gemaakt. De maten van de prototypes zijn al bepaald tijdens de berekeningen. 
+</br></br>
 <p>
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/2ec6295a-06a7-478c-8957-24b2785c5e97" width="300"/>
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/06db019d-e22a-474e-83df-113804134f14" width="300" />
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/bb377ce0-215c-4cdf-968a-636fe58325eb" width="300" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/a6eaeb27-7c64-4a4e-8b12-849e0ba176cd" width="300"/>
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fe4b9255-5893-46b6-9e3f-60f1f4ee9477" width="300" />
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/3682a365-0cca-4cca-8a67-9cbbd59b3fb8" width="300" />
   </br>
-  <em>Figuur 3: Nek afmetingen hondenrassen</em> 
+  <em>Figuur 4: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 5: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: velcro</em> 
 </p></br></br>
+
 
 Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen op hun hond. Vooraf en achteraf worden er enkel vragen gesteld over welke van de 3 ze het veiligst vinden,eenvoudigst aan te doen, eenvoudigst aan te spannen en het eenvoudigst af te doen. Deze zaken hangen samen met de programma van eisen die er opgesteld zijn voor de halsband (dit door middel van het overlopen can customer journey). 
 </br></br>
@@ -95,7 +97,8 @@ Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen
 <ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsbnd mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
 Maar dit is allemaal nog duidelijker beschreven in het <a href="https://jouwlinkhier.com">protocol</a>.
 
-
+### Resultaten
+De resultaten zijn volledig uitgeschreven in <a href="https://jouwlinkhier.com">Report</a>.
 
 
 
