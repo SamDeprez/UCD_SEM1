@@ -83,11 +83,11 @@ Voordat de testen kunnen beginnen wordt er online onderzocht welke sluitingsmeth
 Van alle drie de sluitingsmethode wordt nu een prototype gemaakt. De maten van de prototypes zijn al bepaald tijdens de berekeningen. 
 </br></br>
 <p>
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/a6eaeb27-7c64-4a4e-8b12-849e0ba176cd" width="300"/>
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fe4b9255-5893-46b6-9e3f-60f1f4ee9477" width="300" />
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/3682a365-0cca-4cca-8a67-9cbbd59b3fb8" width="300" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/a6eaeb27-7c64-4a4e-8b12-849e0ba176cd" width="290"/>
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fe4b9255-5893-46b6-9e3f-60f1f4ee9477" width="290" />
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/3682a365-0cca-4cca-8a67-9cbbd59b3fb8" width="290" />
   </br>
-  <em>Figuur 4: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 5: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: velcro</em> 
+  <em>Figuur 4: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 5: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: velcro</em> 
 </p></br></br>
 
 
