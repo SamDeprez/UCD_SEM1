@@ -83,11 +83,11 @@ Voordat de testen kunnen beginnen wordt er online onderzocht welke sluitingsmeth
 Van alle drie de sluitingsmethode wordt nu een prototype gemaakt. De maten van de prototypes zijn al bepaald tijdens de berekeningen. 
 </br></br>
 <p>
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/a6eaeb27-7c64-4a4e-8b12-849e0ba176cd" width="290"/>
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fe4b9255-5893-46b6-9e3f-60f1f4ee9477" width="290" />
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/3682a365-0cca-4cca-8a67-9cbbd59b3fb8" width="290" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/a6eaeb27-7c64-4a4e-8b12-849e0ba176cd" width="270"/>
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fe4b9255-5893-46b6-9e3f-60f1f4ee9477" width="270" />
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/3682a365-0cca-4cca-8a67-9cbbd59b3fb8" width="270" />
   </br>
-  <em>Figuur 4: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 5: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: velcro</em> 
+  <em>Figuur 4: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 5: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: velcro</em> 
 </p></br></br>
 
 
@@ -104,7 +104,7 @@ Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen
 
 <b>PVE:</b></br>
 <ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsbnd mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
-Maar dit is allemaal nog duidelijker beschreven in het <a href="https://jouwlinkhier.com">protocol</a>.
+Maar dit is allemaal nog duidelijker beschreven in het <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EXkBn1K9vZJLsavOglMwwLgBtTFO7kHu5ZGwvpHX19ud0g?e=fJH8AY">protocol</a>.
 
 ### Resultaten
 De resultaten zijn volledig uitgeschreven in <a href="https://jouwlinkhier.com">Report</a>.
