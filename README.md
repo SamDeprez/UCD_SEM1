@@ -107,21 +107,24 @@ Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen
 Maar dit is allemaal nog duidelijker beschreven in het <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EXkBn1K9vZJLsavOglMwwLgBtTFO7kHu5ZGwvpHX19ud0g?e=fJH8AY">protocol</a>.
 
 ### Resultaten
-De resultaten zijn volledig uitgeschreven in <a href="https://jouwlinkhier.com">Report</a>.
+De resultaten zijn volledig uitgeschreven in <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">Report</a>.
 </br></br>
 
 De testen tonen aan dat geen enkele van de halsbanden perfect is, elke halsband heeft 1 groot probleem:
 <ul><li>De halsband met gespsluiting kan zeer eenvoudig aange- en afgedaan worden ( 3-4 seconden), maar het aanpassen van de halsband is niet gemakkelijk.</li><li>De halsband met tanggespsluiting kan gemakkelijk ingesteld worden, maar heeft problemen bij he snel aan en af doen. Dit vooral bij kleinere honden waarbij de vacht voor de kleine sluitingsgaten kan zitten.</li><li>De halsband met velcro heeft geen veilig gevoel/kan loskomen tijdens het wandelen.</li></ul>
 </br></br>
-Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. Toch kan het eventueel interessant zijn om andere instelmethodes te zoeken voord deze halsband. 
-### Conclusie
+Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
 
+### Conclusie
+Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
+
+De halsband met de tanggespsluiting is zeker niet interessant om dat deze veel te moeilijk is te gebruiken is en hierdoor te lang duurt. We kunnen niets aanpassen zodat het sluiten versnelt. De halsband met velcro kan veiliger worden gemaakt met een extra klepje/ rekker die de verbinding  beter sluit, maar hierbij wordt de tijd om aan te doen zeer sterk verhoogt. 
 
 
 ## Bronnen
 
-[^1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5785639/#:~:text=For%20both%20genders%2C%20WrC%20linearly%20increases%20with%20age%20(13.0%20to,(17%20years)%2C%20respectively.
+[^1]: National Library of Medicine (2024 oktober) Wrist Circumference and Frame Size Percentiles in 6-17-Year-Old Turkish Children and Adolescents in Kayseri Geraadpleegd op 27 februari 2024 via: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5785639/#:~:text=For%20both%20genders%2C%20WrC%20linearly%20increases%20with%20age%20(13.0%20to,(17%20years)%2C%20respectively.
 
 </br>
 
-[^2]:https://tarigs.com/size-table-dog/
+[^2]:Tarigs Measure Dogs & Size Chart Geraadpleegd op 27 februari 2024 via: https://tarigs.com/size-table-dog/
