@@ -1,11 +1,3 @@
-## PetWatch
-
-Smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdier.
-
-*Projectteam: Deprez Sam; Van de Weghe Ine *
-
-Datum: 10/04/2024
-<br>
 
 ## Samenvatting
 
