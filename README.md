@@ -9,29 +9,47 @@ In deze fase van het ontwerpproces werd het interface van de Petwatch ontwikkeld
 
 Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op het menu van de Petwatch. Door het menu heb je toegang naar je kalender waar je taken ingeplant staan. Je kan ook makkelijk naar het profiel van je hond (daar heb je ook toegang tot de specifieke locatie van je hond). Daarnaast heb je verschillende wandelingen ter beschikking door groene gebieden in je omgeving voor een aangename uitstap met je hond. Als extraatje zijn er ook stappenplannen ter beschikking voor verschillende truckjes aan je hond. Daarbij zijn er ook spelletjes op de Petwatch aanwezig die je met je hond kan spelen.  
 
-</br>
-Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
-</br>
-<p>
-  <img src="" width="900" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/9152de99-df71-49b5-92d0-956e48fa0928" width="500" />
   </br>
   <em>Figuur 1: De agenda</em> 
-</p></br></br>
+</br></br>
+
+ <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/f8078f7e-f733-4387-9aaf-1134c9f4c4a1" width="500" />
+  </br>
+  <em>Figuur 2: Spelletjes en truckjes</em>    
+</br></br>
+
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/493929ee-a462-4156-93d4-47103be87fa7" width="500" />
+  </br>
+  <em>Figuur 3: Wandelroutes</em> 
+</br></br>
+
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/0ff9bf25-e58c-4cdd-a638-d7664b3e8b66" width="500" />
+  </br>
+  <em>Figuur 4: Profiel van je hond</em> 
+</br></br>
 
 Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn gebaseerd op de swipefuctie (naar boven en opzij) die te herkenningen zijn bij de smartphone en andere smartwatches. Het derde menu keuze is ontworpen op basis van de drukfunctie. Dit heeft ons de mogelijkheid om de swipefunctie en de drukfunctie met elkaar te vergelijken. Als laatste is er een speels menu ontwikkeld. Hiervoor werd er een zonnetje als menu gekozen.
 
-
-  <img src="" width="900" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/9b3fa063-c28a-48b1-aba4-f2c2141ebf05" width="400" />
   </br>
-  <em>Figuur 2: Menu optie 1 (swipen naar boven)</em>    
+  <em>Figuur 5: Menu optie 1 (swipen naar boven)</em>    
 </br></br>
 
-  <img src="" width="900" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/622bfb9e-764a-4b60-bc3e-59d43def3b31" width="400" />
   </br>
-  <em>Figuur 3: Menu optie 2 (opzij swipen) </em> 
-</p></br></br>
+  <em>Figuur 6: Menu optie 2 (opzij swipen) </em> 
+</br></br>
 
+ <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/50dcc956-e3f1-46da-b289-6ea553f6bd4a" width="400" />
+  </br>
+  <em>Figuur 7: Menu optie 3 (drukknop)</em>    
+</br></br>
 
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/db48f79d-c669-4767-99c3-0d390f0d8e90" width="400" />
+  </br>
+  <em>Figuur 8: Menu optie 4 (Het zonnetje)</em>    
+</br></br>
 
 ### Conclusie
 
