@@ -10,23 +10,15 @@ In deze fase van het ontwerpproces werd het interface van de Petwatch ontwikkeld
 Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op het menu van de Petwatch. Door het menu heb je toegang naar je kalender waar je taken ingeplant staan. Je kan ook makkelijk naar het profiel van je hond (daar heb je ook toegang tot de specifieke locatie van je hond). Daarnaast heb je verschillende wandelingen ter beschikking door groene gebieden in je omgeving voor een aangename uitstap met je hond. Als extraatje zijn er ook stappenplannen ter beschikking voor verschillende truckjes aan je hond. Daarbij zijn er ook spelletjes op de Petwatch aanwezig die je met je hond kan spelen.  
 
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/9152de99-df71-49b5-92d0-956e48fa0928" width="500" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/f8078f7e-f733-4387-9aaf-1134c9f4c4a1" width="500" />
   </br>
-  <em>Figuur 1: De agenda</em> 
-</br></br>
-
- <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/f8078f7e-f733-4387-9aaf-1134c9f4c4a1" width="500" />
-  </br>
-  <em>Figuur 2: Spelletjes en truckjes</em>    
+  <em>Figuur 1: De agenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 2: Spelletjes en truckjes</em> 
 </br></br>
 
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/493929ee-a462-4156-93d4-47103be87fa7" width="500" />
-  </br>
-  <em>Figuur 3: Wandelroutes</em> 
-</br></br>
-
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/0ff9bf25-e58c-4cdd-a638-d7664b3e8b66" width="500" />
   </br>
-  <em>Figuur 4: Profiel van je hond</em> 
+  <em>Figuur 3: Wandelroutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 4: Profiel van je hond</em> 
 </br></br>
 
 Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn gebaseerd op de swipefuctie (naar boven en opzij) die te herkenningen zijn bij de smartphone en andere smartwatches. Het derde menu keuze is ontworpen op basis van de drukfunctie. Dit heeft ons de mogelijkheid om de swipefunctie en de drukfunctie met elkaar te vergelijken. Als laatste is er een speels menu ontwikkeld. Hiervoor werd er een zonnetje als menu gekozen.
@@ -73,12 +65,25 @@ Voor de tweede fase van deze user testen is er gebruik gemaakt van verschillende
 Het volledige protocol van de User testen is HIER terug te vinden.
 
 Om de verschillende prototypes op Protopie te laten testen op de GSM, is er telkens een Rapid prototype gemaakt van een horloge. Op deze manier werd de userexperiens tijdens het testen verbeterd en werd het testen ook meer kindvriendelijk. Zo was het mogelijk (ondanks de lompe gsm) om de usertesten moeiteloos af te leggen.
-
+<p>
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/4f590fca-2ca8-4544-b174-24b6cd6edf44" width="150"/>
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/f74ca874-77b3-4b41-96b4-9c860d5f61d5" width="150" />
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/b14c3362-3f31-40cc-8d35-a0d6b3e7dd3b" width="570" />
+  </br>
+  <em>Figuur 9: Rapid prototype van horloge </em> 
+</p></br></br>
 
 ### Resultaten
 De resultaten zijn volledig uitgeschreven in <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">Report</a>.
 </br></br>
 
+<p>
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/7f4c3a6e-b7cb-4c60-aef9-de1f6b620feb" width="270"/>
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/10f84e78-05a6-4d6d-8e8e-a16004566a45" width="270" />
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/3678c004-1857-4e69-82d0-2dc34a4b018e" width="270" />
+  </br>
+  <em>Figuur 4: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 5: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: velcro</em> 
+</p></br></br>
 
 ### Conclusie
 
