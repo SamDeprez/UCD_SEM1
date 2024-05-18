@@ -1,8 +1,6 @@
 
 ## Samenvatting
 
-
-
 ## Interface ontwikkeling
 ### Doelstellingen
 
@@ -15,7 +13,7 @@ Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op he
 Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
 </br>
 <p>
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f0d53432-4879-4b65-8f56-847c036acd92" width="900" />
+  <img src="" width="900" />
   </br>
   <em>Figuur 1: De agenda</em> 
 </p></br></br>
@@ -23,12 +21,12 @@ Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmetin
 Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn gebaseerd op de swipefuctie (naar boven en opzij) die te herkenningen zijn bij de smartphone en andere smartwatches. Het derde menu keuze is ontworpen op basis van de drukfunctie. Dit heeft ons de mogelijkheid om de swipefunctie en de drukfunctie met elkaar te vergelijken. Als laatste is er een speels menu ontwikkeld. Hiervoor werd er een zonnetje als menu gekozen.
 
 
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/2898a232-6cec-491d-bca6-1ad82880c239" width="900" />
+  <img src="" width="900" />
   </br>
   <em>Figuur 2: Menu optie 1 (swipen naar boven)</em>    
 </br></br>
 
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/50035716-3f33-48f1-affb-17ed6c291cd3" width="900" />
+  <img src="" width="900" />
   </br>
   <em>Figuur 3: Menu optie 2 (opzij swipen) </em> 
 </p></br></br>
@@ -69,15 +67,8 @@ De testen tonen aan dat geen enkele van de halsbanden perfect is, elke halsband 
 Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
 
 ### Conclusie
-Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
 
-De halsband met de tanggespsluiting is zeker niet interessant om dat deze veel te moeilijk is te gebruiken is en hierdoor te lang duurt. We kunnen niets aanpassen zodat het sluiten versnelt. De halsband met velcro kan veiliger worden gemaakt met een extra klepje/ rekker die de verbinding  beter sluit, maar hierbij wordt de tijd om aan te doen zeer sterk verhoogt. 
 
 
 ## Bronnen
 
-[^1]: National Library of Medicine (2024 oktober) Wrist Circumference and Frame Size Percentiles in 6-17-Year-Old Turkish Children and Adolescents in Kayseri Geraadpleegd op 27 februari 2024 via: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5785639/#:~:text=For%20both%20genders%2C%20WrC%20linearly%20increases%20with%20age%20(13.0%20to,(17%20years)%2C%20respectively.
-
-</br>
-
-[^2]:Tarigs Measure Dogs & Size Chart Geraadpleegd op 27 februari 2024 via: https://tarigs.com/size-table-dog/
