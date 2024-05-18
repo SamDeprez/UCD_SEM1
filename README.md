@@ -1,102 +1,63 @@
 
-## Samenvattin
+## Samenvatting
 
-In dit verslag staat de uitwerking van de antropometrie van de halsband uitgelegd.
-Op basis van berekeningen uit gegevens die online zijn gevonden wordt er bepaald welke afmetingen de halsband moet hebben.
-Op basis van gebruikerstesten wordt er bepaald met welke sluitingsmethode de halsband moet werken.
 
-## Berekeningen
+
+## Interface ontwikkeling
 ### Doelstellingen
-De eerste stap van het antropometrie is de verschillende afmetingen te bepalen van de onderdelen op basis van berekeningen. Deze berekeningen worden gemaakt op basis van gegevens die online te vinden zijn. Bij elke afmetingen moet er rekening worden gehouden op wat er moet ontwerpen worden.
+
 ### Petwatch
-Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongernn, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
+In deze fase van het ontwerpproces werd het interface van de Petwatch ontwikkeld. Het ontwerp van de verschillende schermen werd eerst uitgedacht in het programma Figma. In dit programma zijn er verschillende drafts terug te vinden die speciaal ontworpen zijn voor de smartwatch. Hierbij vielen verschillende weerkerende elementen op zoals: de pijl naar links in de rechter boven hoek om terug te keren naar de volgende pagina en het uur telkens in de rechterbovenhoek. Deze zaken zijn dan ook overgenomen in het ontwerp van onze Petwatch. Via het programma Protopie zijn de verschillende interacties tussen de tabbladen ingevoegd. Zo kwam ons interface tot een geheel. 
+
+Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op het menu van de Petwatch. Door het menu heb je toegang naar je kalender waar je taken ingeplant staan. Je kan ook makkelijk naar het profiel van je hond (daar heb je ook toegang tot de specifieke locatie van je hond). Daarnaast heb je verschillende wandelingen ter beschikking door groene gebieden in je omgeving voor een aangename uitstap met je hond. Als extraatje zijn er ook stappenplannen ter beschikking voor verschillende truckjes aan je hond. Daarbij zijn er ook spelletjes op de Petwatch aanwezig die je met je hond kan spelen.  
+
 </br>
 Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
 </br>
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f0d53432-4879-4b65-8f56-847c036acd92" width="900" />
   </br>
-  <em>Figuur 1: Afmetingen Petwatch</em> 
+  <em>Figuur 1: De agenda</em> 
 </p></br></br>
 
-Enkel voor afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevonden (National Library of Medicine[^1]) 
+Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn gebaseerd op de swipefuctie (naar boven en opzij) die te herkenningen zijn bij de smartphone en andere smartwatches. Het derde menu keuze is ontworpen op basis van de drukfunctie. Dit heeft ons de mogelijkheid om de swipefunctie en de drukfunctie met elkaar te vergelijken. Als laatste is er een speels menu ontwikkeld. Hiervoor werd er een zonnetje als menu gekozen.
 
 
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/2898a232-6cec-491d-bca6-1ad82880c239" width="900" />
   </br>
-  <em>Figuur 2: Afmetingen polsomtrek</em>    
+  <em>Figuur 2: Menu optie 1 (swipen naar boven)</em>    
 </br></br>
 
-De Petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een gewoon horloge. De petwatch moet goed aanspannen bij de gebruiker, dit betekend dat de omtrek niet te groot mag zijn. Daarnaast mag het ook niet te hard spannen, waardoor het ook niet te klein mag zijn. Bij jongeren kan de polsomtrek sterk varieëren, maar de Petwach moet toch bij een zo groot mogelijk deel van de populatie een omtrek hebben die comfoortabel is voor die gebruiker (niet te groot en niet te klein).   Dit betekend dat de afmeting van het bandje moet ontwerpen worden voor aanpasbaarheid. <b>(Design for adjustability)</b> Bij horloges kan de afmeting worden ingesteld om de halve centimeter.
-</br></br>
-We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierdoor wordt het gewogen gemiddelde berekekend  van P5 en P95
-</br></br>
-<b>P5:</b> (168*13.21+126*13.59+139*13.98+153*14.39+223*14.76+136*12.98+165*13.38+167*13.69+150*13.95+379*14.12)/(168+126+139+153+223+136+165+167+150+379)= 13,88 -> 13,5 cm
-</br>
-<b>P95:</b>(168*16.34+126*16.76+139*17.20+153*17.68+223*18.15+136*16.04+165*16.42+167*16.69+150*13.88+379*16.96)/(168+126+139+153+223+136+165+167+150+379)=16,91 -> 17
-</br></br>
-
-
-
-### Halsband
-Voor de halsband van de hond worden de berekeningen gemaakt op basis van de waarden die weergegevn zijn op de site van Tarigs[^2]
-Op deze site zijn de uiterste nek afmetingen weergegeven voor verschilende honden rassen.
-
-<p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/50035716-3f33-48f1-affb-17ed6c291cd3" width="900" />
   </br>
-  <em>Figuur 3: Nek afmetingen hondenrassen</em> 
+  <em>Figuur 3: Menu optie 2 (opzij swipen) </em> 
 </p></br></br>
 
-Door te werken met de middelste waarde van elk interval kan het gemiddelde, de mediaan en de standaard variatie berekend worden.</br>
-Het berekend gemiddelde is hier 45,477 cm, de mediaan is 45 en de standaard variatie is 10,76.</br></br>
 
-Net zoals bij de armband moet de halsband perfect vastzittten rond de nek van de hond. Dit betekend dat het opnieuw niet te groot of te klein zijn. Daarom wordt er hier opnieuw gekozen om te ontwerpen op aanpasbaarheid <b>(Design for adjustability)</b>. Door het berekenen van de P5 en P10 percentielen kan er bepaald worden tussen welke grenzen de omtrek moet kunnen varieëren zodat de halsband op 90% van de honden kan worden gebruikt.
-</br></br>
-<b>P5:</b>gem- 1,85 *SD =45,477-1,85 *10,76= 25,57 cm -> 25,5cm</br>
-<b>P95:</b>gem + 1,65 *SD= 63,21 -> 63,5 cm
-</br></br>
-Na het berekenen van de uiterste afmetingen, valt al snel op dat er een zeer groot vrschil is tussen de 2 waarden.
-Dit verschil is groter dan 30 cm. Als we een halsband willen ontwerpen die kan varieëren over zo'n grote afstand, kan dit voor problemen zorgen bij kleinere honden waarbij er een groot deel materiaal teveel is. Daarom wordt er besloten naast het ontwerpen voor aanpasbaarheid ook ontwerpen voor verschillende types <b>(Design for More types)</b>. Deze aanpak wordt ook moomenteel gegbruikt bij honden. Door aanpassen en verschillende types te combineren, moeten er nu verschillende intervallen bepaald worden voor elk type.
-Het logischte lijkt om het volledig interval te delen door 3 en zo elke halsbang een gelijk interval te geven. Maar heel vaak wordt bij halsbanden de laagste intervallen ook kleiner gemaakt dan de hogere. Daarom hebben we deze intervallen besloten:
-<ol><li>25,5 - 33</li><li>33-45</li><li>45-63,5</li></ol>
 
 ### Conclusie
-Met de berekeningen zijn de verschillende maten van zowel de Petwatch als de halsband bepaald. ALhoewel we bij beide gaan ontwerpen op aanpasbaarheid, moeten we toch ook bij de haalsband ontwerpen voor verschillende types.
-Hoe De halsband eenvoudig aangepast kan bij een bepaald type wordt bepaald in de gebruikstesten. 
+
 
 ## Testen
 ### Doelstelling
-Bij deze testen wordt de antropometrie van de halsband verder uigewerkt. Hierbij wordt er door verschillende prototypes waarvan de maten overeenkomen met de berekende waarden, de beste sluitingsmethode gekozen voor de halsband.
+Het doel van deze testen is om inzicht te krijgen welk menu het van zelfs sprekendst is om te gebruiken op een smartwatchscherm door onze doelgroep. Daarbij willen we nagaan hoe gebruiksvriendelijk onze eerste versie van onze Petwatch wel is. 
 ### Materiaal en methodes
-Voordat de testen kunnen beginnen wordt er online onderzocht welke sluitingsmethodes er worden gebruikt bij halsbanden voor honden. Uit dit onderzoek komen er 3 methodes naar boven.
-<ol><li>gespsluiting</li><li>tanggespsluiting</li><li>velcro</li></ol>
-</br></br>
-Van alle drie de sluitingsmethode wordt nu een prototype gemaakt. De maten van de prototypes zijn al bepaald tijdens de berekeningen. 
-</br></br>
-<p>
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/a6eaeb27-7c64-4a4e-8b12-849e0ba176cd" width="270"/>
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fe4b9255-5893-46b6-9e3f-60f1f4ee9477" width="270" />
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/3682a365-0cca-4cca-8a67-9cbbd59b3fb8" width="270" />
-  </br>
-  <em>Figuur 4: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 5: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: velcro</em> 
-</p></br></br>
+Om de bovenstaande doelstelling te behalen zijn er drie user testen uitgevoerd. 
+#### Expert review (n=2)
+Eerst werd er een expert interview afgelegd met Jarre en Rense. Als voorbereiding hierop is een Heuristic evaluation sheet opgesteld zodat de experten de petwatch kunnen evalueren op basis van de 10 heuristieken van Nielsen en de usibility goals. Zo kunnen we weten hoe gebruiksvriendelijk onze petwatch precies is op basis van de wetenschap. Het doel van deze expert reviews is om de prototypes te optimaliseren op basis van de resultaten en hun bevindingen, voordat er getest word met onze doelgroep.
+Deze Heuristic evaluation sheet is HIER terug te vinden. 
 
+Tijdens de test zelf werd er aan hen gevraagd om de alle vier menu’s uit te proberen en om vervolgens te concluderen welk van de 4 menu mogelijkheden het beste is. Er wordt natuurlijk ook gevraagd waarom ze die keuze precies gemaakt hebben. Vervolgens mogen de experten de Petwatch verder onderzoeken met elk hun gekozen menu. Nu is het de bedoeling dat ze alle vier de hoofdfuncties uitproberen. Nadat ze dit gedaan hebben wordt hun gevraagd om elk een Heuristic evaluation sheet in te vullen.
 
-Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen op hun hond. Vooraf en achteraf de test worden er enkel vragen gesteld over welk prototype ze het veiligst vinden,eenvoudigst aan te doen, eenvoudigst aan te spannen en het eenvoudigst af te doen. Deze zaken hangen samen met de programma van eisen die er opgesteld zijn voor de halsband (dit door middel van het overlopen can customer journey). 
-</br></br>
+#### User testen (n= 5)
+We hebben besloten om de usertesten in twee groepen te splitsen, namelijk 11-tot 15 jarige met een hond, en 11-tot 15 jarige zonder hond. Zo kan er achterhaald worden wat onze doelgroep bruikbaar vindt met de kennis van verantwoordelijk zijn voor een eigen hond en zonder deze kennis. (Alle test personen die zelfstandig geen hond heeft, wilt er wel graag één.)
+Deze beide usertesten bestond uit twee delen. In de eerste fase kregen ze om de beurt het prototype van de Petwatch. Ze kregen de tijd om alle vier de menu’s samen te ontdekken (ze waren veel te nieuwsgierig om niet bij elkaar mee te kijken). Daarna werd hun elk gevraagd welk menu hun favoriet was en waarom.
 
-<p align="center">
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/97ba3ffa-5ef4-42b6-98c5-d1ba1d0bccf0" width="300" />
-  </br>
-  <em>Figuur 7: Test halsband</em> </br>
-  <em>Op deze foto is te zien hoe een jongeren de halsband uittest op de hond.</em>
-</p>
+Voor de tweede fase van deze user testen is er gebruik gemaakt van verschillende senarios waarop ze moeten reageren op de Petwatch. Daarbij wordt gevraagt om luidop te denken zo dat we inzicht krijgen op het denkproces van de gebruiker. Deze fase was individueel.
+Het volledige protocol van de User testen is HIER terug te vinden.
 
+Om de verschillende prototypes op Protopie te laten testen op de GSM, is er telkens een Rapid prototype gemaakt van een horloge. Op deze manier werd de userexperiens tijdens het testen verbeterd en werd het testen ook meer kindvriendelijk. Zo was het mogelijk (ondanks de lompe gsm) om de usertesten moeiteloos af te leggen.
 
-<b>PVE:</b></br>
-<ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsbnd mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
-Maar dit is allemaal nog duidelijker beschreven in het <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EXkBn1K9vZJLsavOglMwwLgBtTFO7kHu5ZGwvpHX19ud0g?e=fJH8AY">protocol</a>.
 
 ### Resultaten
 De resultaten zijn volledig uitgeschreven in <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">Report</a>.
