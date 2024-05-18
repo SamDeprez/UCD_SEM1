@@ -1,5 +1,5 @@
 
-## Samenvatting
+## Samenvattin
 
 In dit verslag staat de uitwerking van de antropometrie van de halsband uitgelegd.
 Op basis van berekeningen uit gegevens die online zijn gevonden wordt er bepaald welke afmetingen de halsband moet hebben.
