@@ -53,7 +53,6 @@ Tijdens de test zelf werd er aan hen gevraagd om de alle vier menu’s uit te pr
 
 Het volledige protocol van de Expert reviews is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/BA%202/Gebruiksgericht%20Ontwerpen/Expert%20review_%20Protocol%20.docx?d=w2453d4585f7e4865b43fea4d43fdec13&csf=1&web=1&e=b3W8ce">HIER</a> terug te vinden.
 </br></br>
-
 #### User testen (n= 5)
 We hebben besloten om de usertesten in twee groepen te splitsen, namelijk 11-tot 15 jarige met een hond, en 11-tot 15 jarige zonder hond. Zo kan er achterhaald worden wat onze doelgroep bruikbaar vindt met de kennis van verantwoordelijk zijn voor een eigen hond en zonder deze kennis. (Alle test personen die zelfstandig geen hond heeft, wilt er wel graag één.)
 Deze beide usertesten bestond uit twee delen. In de eerste fase kregen ze om de beurt het prototype van de Petwatch. Ze kregen de tijd om alle vier de menu’s samen te ontdekken (ze waren veel te nieuwsgierig om niet bij elkaar mee te kijken). Daarna werd hun elk gevraagd welk menu hun favoriet was en waarom.
@@ -83,7 +82,6 @@ Bij de user testen met en zonder hond waren de meningen over de menukeuze zeer u
 
 De volledig resultaten van de menu keuze en van de scenario’s (thinking out loud) staan  volledige uitgeschreven <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">HIER</a> in het rapport van de user testen.
 </br></br>
-
 ### Conclusie
 De keuze voor het menu van de Petwatch was niet eenvoudig. Uiteindelijk is het een swipe functie geworden naar boven net als menu keuze 1. Dit is ook de functie die het meest gebruikt wordt op de gsm (bv. het menu van bij IPhone of naar alle apps gaan bij Android). 
 De algemene gebruiksvriendelijkheid van de interfase van de Petwatch is verassend goed. Er zullen natuurlijk wel kleine zaken worden aangepast zoals; de knop van “Vind mijn hond” moet veel duidelijker in het profiel te zien zijn. Ook de pauze knop bij de wandelingen verwijderd worden omdat deze overbodig lijkt te zijn. 
