@@ -26,6 +26,7 @@ Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op he
   <em>Figuur 3: Wandelroutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 4: Profiel van je hond</em> 
 </br></br>
 
+### Conclusie
 Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn gebaseerd op de swipefuctie (naar boven en opzij) die te herkenningen zijn bij de smartphone en andere smartwatches. Het derde menu keuze is ontworpen op basis van de drukfunctie. Dit heeft ons de mogelijkheid om de swipefunctie en de drukfunctie met elkaar te vergelijken. Als laatste is er een speels menu ontwikkeld. Hiervoor werd er een zonnetje als menu gekozen.
 
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/9b3fa063-c28a-48b1-aba4-f2c2141ebf05" width="400" />
@@ -39,9 +40,6 @@ Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn geba
   </br>
   <em>Figuur 7: Menu optie 3 (drukknop)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 8: Menu optie 4 (Het zonnetje)</em>    
 </br></br>
-
-### Conclusie
-
 
 ## Testen
 ### Doelstelling
@@ -71,20 +69,22 @@ Om de verschillende prototypes op Protopie te laten testen op de GSM, is er telk
 </p></br></br>
 
 ### Resultaten
-De resultaten zijn volledig uitgeschreven in <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">Report</a>.
-</br></br>
+#### Expert review (n=2)
+Jarre vond alle menu opties even makkelijk te raadplegen. Hij koos uiteindelijk voor menu nummer vier, het zonnetje, omdat hij dit het leukste thema vond. Rense had de voorkeur voor menu nummer één (de drukfunctie). Hij vond dat het bolletje mooi aangeeft waar het menu zich bevindt. 
 
-<p>
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/7f4c3a6e-b7cb-4c60-aef9-de1f6b620feb" width="270"/>
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/10f84e78-05a6-4d6d-8e8e-a16004566a45" width="270" />
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/3678c004-1857-4e69-82d0-2dc34a4b018e" width="270" />
-  </br>
-  <em>Figuur 4: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 5: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: velcro</em> 
-</p></br></br>
+De volledig resultaten van de menu keuze en van de Heuristic evaluation sheets staan  volledige uitgeschreven HIER in het rapport van de expert review.
+
+De grootste implicatie dat we moeten veranderen voor we naar de gebruiker stappen is het vergrote van het terug keer icoon. Deze was tot nu te klein om snel en efficiënt te gebruiken.
+
+#### User testen (n= 5)
+Bij de user testen met en zonder hond waren de meningen over de menukeuze zeer uiteenlopend. Er zijn vijf jongeren in totaal geïnterviewd en alle vier de menu keuzes zijn wel door iemand gekozen als hun favoriet. Het is dus heel belangrijk om de reden achter hun keuzes te achterhalen. Het zonnetje werd door twee personen gekozen doordat het “hel leukst om te gebruiken is”. De andere drie keken meer naar welke beweging moet ik gebruiken of wat ken ik al van bv. hun GSM. Daardoor hebben we gekozen voor toch onze menu keuze te baseren op bestaande interfaces van de GSM, want na het uitvoeren van dezer user testen zijn we er achter gekomen dat ze allemaal al een eigen GSM hebben.
+
+De volledig resultaten van de menu keuze en van de scenario’s (thinking out loud) staan  volledige uitgeschreven HIER in het rapport van de User testen.
 
 ### Conclusie
-
-
+De keuze voor het menu van de Petwatch was niet eenvoudig. Uiteindelijk is het een swipe functie geworden naar boven net als menu keuze 1. Dit is ook de functie die het meest gebruikt wordt op de gsm (bv. het menu van bij IPhone of naar alle apps gaan bij Android). 
+De algemene gebruiksvriendelijkheid van de interfase van de Petwatch is verassend goed. Er zullen natuurlijk wel kleine zaken worden aangepast zoals; de knop van “Vind mijn hond” moet veel duidelijker in het profiel te zien zijn. Ook de pauze knop bij de wandelingen verwijderd worden omdat deze overbodig lijkt te zijn. 
+Er is ook besloten geweest om de Petwatch na deze fase nog meer uit te werken. Zo zal er bevoordeeld instelfuncties komen bij de agenda en het hondenprofiel. Zo kan onze gebruiker zaken aanpassen wanneer dit nodig is.
 
 ## Bronnen
 
