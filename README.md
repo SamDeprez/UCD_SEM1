@@ -61,7 +61,7 @@ We hebben besloten om de usertesten in twee groepen te splitsen, namelijk 11-tot
 Deze beide usertesten bestond uit twee delen. In de eerste fase kregen ze om de beurt het prototype van de Petwatch. Ze kregen de tijd om alle vier de menu’s samen te ontdekken (ze waren veel te nieuwsgierig om niet bij elkaar mee te kijken). Daarna werd hun elk gevraagd welk menu hun favoriet was en waarom.
 
 Voor de tweede fase van deze user testen is er gebruik gemaakt van verschillende senarios waarop ze moeten reageren op de Petwatch. Daarbij wordt gevraagt om luidop te denken zo dat we inzicht krijgen op het denkproces van de gebruiker. Deze fase was individueel.
-Het volledige protocol van de User testen is <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">HIER</a> terug te vinden.
+Het volledige protocol van de user testen is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Protocol_usability%20test.docx?d=w0b36640fb7e6474ea2474e679efe9963&csf=1&web=1&e=r35cTV">HIER</a> terug te vinden.
 </br></br>
 
 Om de verschillende prototypes op Protopie te laten testen op de GSM, is er telkens een Rapid prototype gemaakt van een horloge. Op deze manier werd de userexperiens tijdens het testen verbeterd en werd het testen ook meer kindvriendelijk. Zo was het mogelijk (ondanks de lompe gsm) om de usertesten moeiteloos af te leggen.
