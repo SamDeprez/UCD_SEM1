@@ -10,9 +10,8 @@ Het doel is om een gebruiksvriendelijk interface te ontwikkelen die je gebruiksv
 In deze fase van het ontwerpproces werd het interface van de Petwatch ontwikkeld. Het ontwerp van de verschillende schermen werd eerst uitgedacht in het programma Figma. In dit programma zijn er verschillende drafts terug te vinden die speciaal ontworpen zijn voor de smartwatch. Hierbij vielen verschillende weerkerende elementen op zoals: de pijl naar links in de rechter boven hoek om terug te keren naar de volgende pagina en het uur telkens in de rechterbovenhoek. Deze zaken zijn dan ook overgenomen in het ontwerp van onze Petwatch. Via het programma Protopie zijn de verschillende interacties tussen de tabbladen ingevoegd. Zo kwam ons interface tot een geheel. 
 
 Om nog meer inzicht te krijgen in welke interacties het meest wordt gebruikt bij bestaande technolieën is er een Benchmarkstudie gedaan.
-Deze benchmark studie is <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">HIER</a> terug te vinden.
+Deze benchmark studie is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/sam_deprez_ugent_be/Documents/Documenten/School/2023_2024/gebruiksgericht%20ontwerpen/benchmarkt%20onderzoek%20smartwatch%20app.odt?d=w2bbfccf1ca9b491597de4faefd84a685&csf=1&web=1&e=th4ZSo">HIER</a> terug te vinden.
 </br></br>
-
 
 Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op het menu van de Petwatch. Door het menu heb je toegang naar je kalender waar je taken ingeplant staan. Je kan ook makkelijk naar het profiel van je hond (daar heb je ook toegang tot de specifieke locatie van je hond). Daarnaast heb je verschillende wandelingen ter beschikking door groene gebieden in je omgeving voor een aangename uitstap met je hond. Als extraatje zijn er ook stappenplannen ter beschikking voor verschillende truckjes aan je hond. Daarbij zijn er ook spelletjes op de Petwatch aanwezig die je met je hond kan spelen.  
 
@@ -28,7 +27,6 @@ Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op he
   <em>Figuur 3: Wandelroutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 4: Profiel van je hond</em> 
 </br></br>
 
-### Conclusie
 Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn gebaseerd op de swipefuctie (naar boven en opzij) die te herkenningen zijn bij de smartphone en andere smartwatches. Het derde menu keuze is ontworpen op basis van de drukfunctie. Dit heeft ons de mogelijkheid om de swipefunctie en de drukfunctie met elkaar te vergelijken. Als laatste is er een speels menu ontwikkeld. Hiervoor werd er een zonnetje als menu gekozen.
 
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/9b3fa063-c28a-48b1-aba4-f2c2141ebf05" width="400" />
@@ -54,6 +52,9 @@ Deze Heuristic evaluation sheet is <a href="https://ugentbe-my.sharepoint.com/:w
 </br></br>
 
 Tijdens de test zelf werd er aan hen gevraagd om de alle vier menu’s uit te proberen en om vervolgens te concluderen welk van de 4 menu mogelijkheden het beste is. Er wordt natuurlijk ook gevraagd waarom ze die keuze precies gemaakt hebben. Vervolgens mogen de experten de Petwatch verder onderzoeken met elk hun gekozen menu. Nu is het de bedoeling dat ze alle vier de hoofdfuncties uitproberen. Nadat ze dit gedaan hebben wordt hun gevraagd om elk een Heuristic evaluation sheet in te vullen.
+
+Het volledige protocol van de Expert reviews is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/BA%202/Gebruiksgericht%20Ontwerpen/Expert%20review_%20Protocol%20.docx?d=w2453d4585f7e4865b43fea4d43fdec13&csf=1&web=1&e=b3W8ce">HIER</a> terug te vinden.
+</br></br>
 
 #### User testen (n= 5)
 We hebben besloten om de usertesten in twee groepen te splitsen, namelijk 11-tot 15 jarige met een hond, en 11-tot 15 jarige zonder hond. Zo kan er achterhaald worden wat onze doelgroep bruikbaar vindt met de kennis van verantwoordelijk zijn voor een eigen hond en zonder deze kennis. (Alle test personen die zelfstandig geen hond heeft, wilt er wel graag één.)
