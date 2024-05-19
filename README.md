@@ -1,8 +1,10 @@
 
 ## Samenvatting
+In deze deelopdracht wordt het interface van de Petwatch ontwikkeld, onderzocht en getest. Dit is gebeurd via benchmark studies, expert review en twee usertesten. Zo is het mogelijk om een goeie gebruiksvriendelijke basis van de Petwatch te creëren waar het mogelijk is om verder op te bouwen bij de laatste deelopdracht.
 
 ## Interface ontwikkeling
 ### Doelstellingen
+Het doel is om een gebruiksvriendelijk interface te ontwikkelen die je gebruiksvriendelijk is voor de doelgroep van 11 tot 15 jaar, die hun daarbij ook helpt om optimaal zorg te dragen voor hun eigen hond.
 
 ### Petwatch
 In deze fase van het ontwerpproces werd het interface van de Petwatch ontwikkeld. Het ontwerp van de verschillende schermen werd eerst uitgedacht in het programma Figma. In dit programma zijn er verschillende drafts terug te vinden die speciaal ontworpen zijn voor de smartwatch. Hierbij vielen verschillende weerkerende elementen op zoals: de pijl naar links in de rechter boven hoek om terug te keren naar de volgende pagina en het uur telkens in de rechterbovenhoek. Deze zaken zijn dan ook overgenomen in het ontwerp van onze Petwatch. Via het programma Protopie zijn de verschillende interacties tussen de tabbladen ingevoegd. Zo kwam ons interface tot een geheel. 
