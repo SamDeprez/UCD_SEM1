@@ -50,7 +50,7 @@ Het doel van deze testen is om inzicht te krijgen welk menu het van zelfs spreke
 Om de bovenstaande doelstelling te behalen zijn er drie user testen uitgevoerd. 
 #### Expert review (n=2)
 Eerst werd er een expert interview afgelegd met Jarre en Rense. Als voorbereiding hierop is een Heuristic evaluation sheet opgesteld zodat de experten de petwatch kunnen evalueren op basis van de 10 heuristieken van Nielsen en de usibility goals. Zo kunnen we weten hoe gebruiksvriendelijk onze petwatch precies is op basis van de wetenschap. Het doel van deze expert reviews is om de prototypes te optimaliseren op basis van de resultaten en hun bevindingen, voordat er getest word met onze doelgroep.
-Deze Heuristic evaluation sheet is <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">HIER</a> terug te vinden.
+Deze Heuristic evaluation sheet is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Heuristic%20Evaluation%20Sheet_expert_review.docx?d=w88c36181b2ea441eab1be4475a620716&csf=1&web=1&e=r0AS2T">HIER</a> terug te vinden.
 </br></br>
 
 Tijdens de test zelf werd er aan hen gevraagd om de alle vier menu’s uit te proberen en om vervolgens te concluderen welk van de 4 menu mogelijkheden het beste is. Er wordt natuurlijk ook gevraagd waarom ze die keuze precies gemaakt hebben. Vervolgens mogen de experten de Petwatch verder onderzoeken met elk hun gekozen menu. Nu is het de bedoeling dat ze alle vier de hoofdfuncties uitproberen. Nadat ze dit gedaan hebben wordt hun gevraagd om elk een Heuristic evaluation sheet in te vullen.
