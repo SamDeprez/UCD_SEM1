@@ -17,6 +17,10 @@ tijdens de testen worden er ook andere kleienere aanpassingen gemaakt en getest 
 Hierbij worden er 2 Hiërarchische taakanalyses gemaakt:</br>
 <ol><li>tijdens het instellen van de petwatch/ eerste gebruik</li><li>tijdens het volbrengen van taken</li></ol>
 
+#### instellingen/ eerste gebruik
+
+#### volbrengen van taken
+
 ## Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 
