@@ -18,7 +18,14 @@ Hierbij worden er 2 Hiërarchische taakanalyses gemaakt:</br>
 <ol><li>tijdens het instellen van de petwatch/ eerste gebruik</li><li>tijdens het volbrengen van taken</li></ol>
 
 #### instellingen/ eerste gebruik
-![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f6e72995-a59e-4f0f-8809-6e2d457fa8de)
+
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f6e72995-a59e-4f0f-8809-6e2d457fa8de" width="900" />
+  </br>
+  <em>Figuur 1: hiërarchische taakanalyse instellingen</em> 
+  Tijdens de instellingen interageren de gebruikere met ons product doo middel van swipen en drukken.
+  Op 3 plaatsen lijkt het belangrijk om extra feedback te sturen. Een extra plaats waar extra informatie kan nodig zijn is het afsluiten van de de instellingen zonder op te slaan. In deze gevallen kan er gevraagd worden of ze zeker willen afsluiten. 
+</p></br></br>
 
 
 #### volbrengen van taken
