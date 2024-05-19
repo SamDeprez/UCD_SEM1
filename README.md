@@ -80,7 +80,7 @@ De grootste implicatie dat we moeten veranderen voor we naar de gebruiker stappe
 #### User testen (n= 5)
 Bij de user testen met en zonder hond waren de meningen over de menukeuze zeer uiteenlopend. Er zijn vijf jongeren in totaal geïnterviewd en alle vier de menu keuzes zijn wel door iemand gekozen als hun favoriet. Het is dus heel belangrijk om de reden achter hun keuzes te achterhalen. Het zonnetje werd door twee personen gekozen doordat het “hel leukst om te gebruiken is”. De andere drie keken meer naar welke beweging moet ik gebruiken of wat ken ik al van bv. hun GSM. Daardoor hebben we gekozen voor toch onze menu keuze te baseren op bestaande interfaces van de GSM, want na het uitvoeren van dezer user testen zijn we er achter gekomen dat ze allemaal al een eigen GSM hebben.
 
-De volledig resultaten van de menu keuze en van de scenario’s (thinking out loud) staan  volledige uitgeschreven <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">HIER</a> in het rapport van de user testen.
+De volledig resultaten van de menu keuze en van de scenario’s (thinking out loud) staan  volledige uitgeschreven <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Raport_usertest.docx?d=w15360772c894442687f4ba817d843533&csf=1&web=1&e=J3rPhd">HIER</a> in het rapport van de user testen.
 </br></br>
 ### Conclusie
 De keuze voor het menu van de Petwatch was niet eenvoudig. Uiteindelijk is het een swipe functie geworden naar boven net als menu keuze 1. Dit is ook de functie die het meest gebruikt wordt op de gsm (bv. het menu van bij IPhone of naar alle apps gaan bij Android). 
