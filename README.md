@@ -18,6 +18,8 @@ Hierbij worden er 2 Hiërarchische taakanalyses gemaakt:</br>
 <ol><li>tijdens het instellen van de petwatch/ eerste gebruik</li><li>tijdens het volbrengen van taken</li></ol>
 
 #### instellingen/ eerste gebruik
+![image](https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f6e72995-a59e-4f0f-8809-6e2d457fa8de)
+
 
 #### volbrengen van taken
 
