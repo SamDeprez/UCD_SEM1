@@ -12,7 +12,6 @@ In deze fase van het ontwerpproces werd het interface van de Petwatch ontwikkeld
 Om nog meer inzicht te krijgen in welke interacties het meest wordt gebruikt bij bestaande technolieën is er een Benchmarkstudie gedaan.
 Deze benchmark studie is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/sam_deprez_ugent_be/Documents/Documenten/School/2023_2024/gebruiksgericht%20ontwerpen/benchmarkt%20onderzoek%20smartwatch%20app.odt?d=w2bbfccf1ca9b491597de4faefd84a685&csf=1&web=1&e=th4ZSo">HIER</a> terug te vinden.
 </br></br>
-
 Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op het menu van de Petwatch. Door het menu heb je toegang naar je kalender waar je taken ingeplant staan. Je kan ook makkelijk naar het profiel van je hond (daar heb je ook toegang tot de specifieke locatie van je hond). Daarnaast heb je verschillende wandelingen ter beschikking door groene gebieden in je omgeving voor een aangename uitstap met je hond. Als extraatje zijn er ook stappenplannen ter beschikking voor verschillende truckjes aan je hond. Daarbij zijn er ook spelletjes op de Petwatch aanwezig die je met je hond kan spelen.  
 
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/9152de99-df71-49b5-92d0-956e48fa0928" width="500" />
@@ -50,7 +49,6 @@ Om de bovenstaande doelstelling te behalen zijn er drie user testen uitgevoerd.
 Eerst werd er een expert interview afgelegd met Jarre en Rense. Als voorbereiding hierop is een Heuristic evaluation sheet opgesteld zodat de experten de petwatch kunnen evalueren op basis van de 10 heuristieken van Nielsen en de usibility goals. Zo kunnen we weten hoe gebruiksvriendelijk onze petwatch precies is op basis van de wetenschap. Het doel van deze expert reviews is om de prototypes te optimaliseren op basis van de resultaten en hun bevindingen, voordat er getest word met onze doelgroep.
 Deze Heuristic evaluation sheet is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Heuristic%20Evaluation%20Sheet_expert_review.docx?d=w88c36181b2ea441eab1be4475a620716&csf=1&web=1&e=r0AS2T">HIER</a> terug te vinden.
 </br></br>
-
 Tijdens de test zelf werd er aan hen gevraagd om de alle vier menu’s uit te proberen en om vervolgens te concluderen welk van de 4 menu mogelijkheden het beste is. Er wordt natuurlijk ook gevraagd waarom ze die keuze precies gemaakt hebben. Vervolgens mogen de experten de Petwatch verder onderzoeken met elk hun gekozen menu. Nu is het de bedoeling dat ze alle vier de hoofdfuncties uitproberen. Nadat ze dit gedaan hebben wordt hun gevraagd om elk een Heuristic evaluation sheet in te vullen.
 
 Het volledige protocol van de Expert reviews is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/BA%202/Gebruiksgericht%20Ontwerpen/Expert%20review_%20Protocol%20.docx?d=w2453d4585f7e4865b43fea4d43fdec13&csf=1&web=1&e=b3W8ce">HIER</a> terug te vinden.
@@ -63,7 +61,6 @@ Deze beide usertesten bestond uit twee delen. In de eerste fase kregen ze om de 
 Voor de tweede fase van deze user testen is er gebruik gemaakt van verschillende senarios waarop ze moeten reageren op de Petwatch. Daarbij wordt gevraagt om luidop te denken zo dat we inzicht krijgen op het denkproces van de gebruiker. Deze fase was individueel.
 Het volledige protocol van de user testen is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Protocol_usability%20test.docx?d=w0b36640fb7e6474ea2474e679efe9963&csf=1&web=1&e=r35cTV">HIER</a> terug te vinden.
 </br></br>
-
 Om de verschillende prototypes op Protopie te laten testen op de GSM, is er telkens een Rapid prototype gemaakt van een horloge. Op deze manier werd de userexperiens tijdens het testen verbeterd en werd het testen ook meer kindvriendelijk. Zo was het mogelijk (ondanks de lompe gsm) om de usertesten moeiteloos af te leggen.
 <p>
    <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/4f590fca-2ca8-4544-b174-24b6cd6edf44" width="150"/>
@@ -79,7 +76,6 @@ Jarre vond alle menu opties even makkelijk te raadplegen. Hij koos uiteindelijk 
 
 De volledig resultaten van de menu keuze en van de Heuristic evaluation sheets staan  volledige uitgeschreven <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">HIER</a> in het rapport van de expert review.
 </br></br>
-
 De grootste implicatie dat we moeten veranderen voor we naar de gebruiker stappen is het vergrote van het terug keer icoon. Deze was tot nu te klein om snel en efficiënt te gebruiken.
 
 #### User testen (n= 5)
