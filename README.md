@@ -22,14 +22,27 @@ Hierbij worden er 2 Hiërarchische taakanalyses gemaakt:</br>
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f6e72995-a59e-4f0f-8809-6e2d457fa8de" width="900" />
   </br>
-  <em>Figuur 1: hiërarchische taakanalyse instellingen</em> 
+  <em>Figuur 1: hiërarchische taakanalyse instellingen</em> <p>
   Tijdens de instellingen interageren de gebruikere met ons product doo middel van swipen en drukken.
-  Op 3 plaatsen lijkt het belangrijk om extra feedback te sturen. Een extra plaats waar extra informatie kan nodig zijn is het afsluiten van de de instellingen zonder op te slaan. In deze gevallen kan er gevraagd worden of ze zeker willen afsluiten. 
-</p></br></br>
-
+  Op 3 plaatsen lijkt het belangrijk om extra feedback te sturen. Deze informatie is nodig om de gebruiker een veilig gevoel te geven, ze moeten dus ook de informatie achteraf herinneren. Een extra plaats waar extra informatie kan nodig zijn is het afsluiten van de de instellingen zonder op te slaan. In deze gevallen kan er gevraagd worden of ze zeker willen afsluiten. 
 
 #### volbrengen van taken
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/aae0e11a-3033-4fb1-a61a-2858d3a4abf8" width="900" />
+  </br> em>Figuur 2: hiërarchische taakanalyse opdrachten</em>  </p>
+  Hierbij interafreert de gebruiker opnieuw met het product door middel van swippen en drukken. Op 1 plaats kan de gebruiker extra informatie vinden door lang te drukken op een knop. Dit is een beslissing die gemaakt is in de vorige deelopdracht. Gebruikerstests en bevragingen bij een andere groep zullen aantonen of dit de beste manier is. WAt er opvalt is dat er in deze context meer meldingen moeten verstuurt worden.
+  </br></br>
 
+  De belangrijkste melding heeft aan dat de gebruiker de taak (eten geven, wassen, wandelen, dokter afspraak) moet uitvoeren. Deze melding moeten <b>altijd</b> de gebruiker aansporen tot die taak en moet dus de aandacht kunnen trekken.
+  </br></br>
+  Daarnaast zijn er meldingen die op het scherm komen als de opdracht is volbracht. Deze meldingen moeten duidelijk maken dat het systeem de actie heeft waargenomen en bijhoud dat de jongere wel degelijk de taak heeft gedaan. 
+  Deze meldingen moeten richten op onthouden worden zodat de gebruiker niet opnieuw moet kijken of de actie weldegelijk is opgeslaan.
+  </br></br>
+  Tijdens het wandnelen moet er een melding gestuurd worden als de gebruiker de wandeling wilt stoppen. Deze medling maakt duidelijk dat de gebruiker de wandeling beëindigt, en vraagt of dat hun bedoeling is. Dit is een extra voorzorgmaatregeling zodat de wandeling niet perongeluk wordt afgebroken. Deze extra melding moet de gebruiker een veilig gevoel geven dat ze een fout kunnen maken die dan gecorrigeerd wordt door het product. Deze melding moet kort de aandacht van de gebruiker trekken en hem behoeden voor een eventuele fout.
+
+### Design requirements
+Door het werken met een smartwatch worden mogelijk inputs beperkt. Het is dus meer interessant om ons te richten op de outputs.
+#### Outputs
 ## Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 
