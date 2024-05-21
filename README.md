@@ -1,6 +1,6 @@
 
 ## Samenvatting
-In deze deelopdracht wordt het interface van de Petwatch ontwikkeld, onderzocht en getest. Dit is gebeurd via benchmark studies, expert review en twee usertesten. Zo is het mogelijk om een goeie gebruiksvriendelijke basis van de Petwatch te creëren waar het mogelijk is om verder op te bouwen bij de laatste deelopdracht.
+In deze deelopdracht wordt de interface van de Petwatch ontwikkeld, onderzocht en getest. Dit is gebeurd via benchmark studies, expert review en twee usertesten. Zo is het mogelijk om een goeie gebruiksvriendelijke basis van de Petwatch te creëren waar het mogelijk is om verder op te bouwen bij de laatste deelopdracht.
 
 ## Interface ontwikkeling
 ### Doelstellingen
