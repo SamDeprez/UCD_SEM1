@@ -47,9 +47,15 @@ Door het werken met een smartwatch worden mogelijk inputs beperkt. Het is dus me
 ### Gebruikerstest
 Als laatste wordt er een gebruikerstest uitgevoerd (n=4).
 Tijdens deze test wordt de geüpdate versie van de Petwatch uitgetest met zaken die uit de vorige opdrachten komen en het toevoegen van de meldingen.
-Het protocol is volledig uitgeschreven <A HREF="http://www.handleidinghtml.nl">hier</A>
+Het protocol is volledig uitgeschreven <A HREF="https://ugentbe-my.sharepoint.com/:w:/g/personal/ine_vandeweghe_ugent_be/EcPzyxDDIOJMkMDkC2BLBKwBl0U2p3E_eVsy-LhoiHqH8g?e=EGSGgY">hier</A>
 ## Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+De jongeren reageren het meest op geluiden. Deze geluiden maken de meldingen ook meborabeler voor hun. 
+</br></br>
+Als tweede vallen vooral de trillingen op bij jongeren. Alhoewel er tijdens de test verschillende sterktes aan trillingen zijn getest, kunnnen de jongeren enkel maar de hevigste herrinneren. 
+Trillingen zijn handig om de aandacht te trekken terwijl de jongeren bezig zijn met het product en de trilling verwachten, of als extra bij het geluid om aandacht meer te trekken wanneer jongerenn niet aan het op letten zijn.
+</br></br>
+Tekst en beelden trekken misschien niet snel de aandacht van de jongeren, maar ze zijn wel nodig voor extra informatie te versturen.
+
 
 ## Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
@@ -90,29 +96,7 @@ Definieer de belangrijkste designbeslissingen
 
 ## Bronnen
 
-[^1]: Licg.nl - Invloed van dieren op kinderen. (z.d.). [https://www.licg.nl/invloed-van-dieren-op-kinderen/#puberteit](https://www.licg.nl/invloed-van-dieren-op-kinderen/#puberteit) 
 
-[^2]: Nienke. (2022, 24 februari). Kinderen en huisdieren, welk effect hebben ze op elkaar? Hart Voor Dieren. [https://hartvoordieren.nl/kinderen-en-huisdieren/ ](https://hartvoordieren.nl/kinderen-en-huisdieren/ )
-
-[^3]: MamaLove. (2019, 13 juli). Wat is de invloed van een huisdier in het gezin? - Meer voor mama’s - Ouderschap. Meer Voor Mama’s.[https://meervoormamas.nl/mama/ouderschap/wat-is-de-invloed-van-een-huisdier-in-het-gezin/](https://meervoormamas.nl/mama/ouderschap/wat-is-de-invloed-van-een-huisdier-in-het-gezin/)
-  
-
-[^4]: Gabriela. (2021, 22 september). Huisdier voor de kinderen? We zetten de voor- en nadelen op een rijtje! - Wij houden van dieren. Wij houden van dieren. [http://www.wijhoudenvandieren.be/huisdier-voor-de-kinderen/](http://www.wijhoudenvandieren.be/huisdier-voor-de-kinderen/)
-   
-
-[^5]: De Pourcq, E. (2023, 24 maart). Waarom plakken mijn kleinkinderen zo aan hun smartphone? Goedgezind.be by Gezinsbond.[https://www.goedgezind.be/55-plussers/plakken-jongeren-aan-hun-smartphone/#:~:text=Negatieve%20effecten&text=Meer% 20stress%2C%20slaaptekort%2C%20minder%20concentratie,de%20concentratie%20en%20de%20productiviteit. 
-](https://www.goedgezind.be/55-plussers/plakken-jongeren-aan-hun-smartphone/#:~:text=Negatieve%20effecten&text=Meer% 20stress%2C%20slaaptekort%2C%20minder%20concentratie,de%20concentratie%20en%20de%20productiviteit. 
-) 
-
-[^6]: DPG Media Privacy Gate. (z.d.). [https://www.parool.nl/nederland/eenzaamheid-onder-jongvolwassenen-zorgelijk-hoog~bd98c15d/?referrer=https://www.google.com/ ](https://www.parool.nl/nederland/eenzaamheid-onder-jongvolwassenen-zorgelijk-hoog~bd98c15d/?referrer=https://www.google.com/ ) 
-
-[^7]: Meer eenzaamheid onder jongeren in 2021 | Nederlands Jeugdinstituut. (2022, 30 september). [https://www.nji.nl/nieuws/meer-eenzaamheid-onder-jongeren-in-2021](https://www.nji.nl/nieuws/meer-eenzaamheid-onder-jongeren-in-2021) 
-
-[^8]: Parenting Montana(2021, 6 okt). Responsibility for 11-year-old. Geraadpleegd op 9 januari 2024, van [https://parentingmontana.org/responsibility-for-your-11-year-old/ ](https://parentingmontana.org/responsibility-for-your-11-year-old/ )  
-
-[^9]: Amazon.com. ILI9341 LCD screen (afbeelding) geraadpleegd op op 22 januari 2024, via: [https://www.amazon.com.be/-/nl/Hailege-ILI9341-LCD-scherm-Arduino-Raspberry/dp/B07YTWRZGR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=A1A7E5ILEFA1R3  ](https://www.amazon.com.be/-/nl/Hailege-ILI9341-LCD-scherm-Arduino-Raspberry/dp/B07YTWRZGR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=A1A7E5ILEFA1R3  ) 
-
-[^10]: Bol.com. ESP32 (afbeelding) geraadpleegd op 22 januari 2024, via: [https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  ](https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  ) https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  
 
 
 
