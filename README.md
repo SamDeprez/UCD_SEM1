@@ -46,9 +46,39 @@ Door het werken met een smartwatch worden mogelijk inputs beperkt. Het is dus me
 
 ### Gebruikerstest
 Als laatste wordt er een gebruikerstest uitgevoerd (n=4).
-Tijdens deze test wordt de geüpdate versie van de Petwatch uitgetest met zaken die uit de vorige opdrachten komen en het toevoegen van de meldingen.
+Tijdens deze test wordt de geüpdate versie van de Petwatch uitgetest met zaken die uit de vorige opdrachten komen en het toevoegen van de meldingen. Naast het testen van het product wordt ook de halsband gebruikt in de context.</br>
+
 Het protocol is volledig uitgeschreven <A HREF="https://ugentbe-my.sharepoint.com/:w:/g/personal/ine_vandeweghe_ugent_be/EcPzyxDDIOJMkMDkC2BLBKwBl0U2p3E_eVsy-LhoiHqH8g?e=EGSGgY">hier</A>
+
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/233687b0-0ab5-4550-a498-ff4456fd17cc" width="500" />
+    <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c74695ab-0d24-49b4-8246-d16de61dd6a3" width="150" />
+ 
+
+  </br>
+  <em>Figuur 3: gebruikerstest &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 4: halsband</em> <p>
+
+Deze meldingen zijn:</br>
+<ul><li>Baasje moet een taak uitvoeren: geluid(blaffende hond) bij startscherm</li><li>taak voltooid: geluid(ping) + trillinng na het selecteren in de agenda of het klikken op de melding</li><li>agenda opgeslaan: lichte trilling na het opslaan van de agenda</li><li> weg gaan zonder opslaan/stoppen wandeling: waarschuwing bij het terugkeren tijdens het opslaan/wandelellen </li><li>geluid wordt afgespeeld: trilling bij het drukken op "speaker" bij vind mijn hond</li></ul>
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/13beadb1-4e67-41e0-a816-f92c23f5d85a" width="200" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/1fba3dce-02ad-4586-9a76-26f29b439c72" width="200" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/7b74f217-46de-4b99-985b-0971432ae155" width="200" />
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/37c51591-13ca-46b0-9a51-9899076ab785" width="200" />
+  </br>
+  <em>Figuur 5: taak voltooid &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 6: agenda opgeslaan &nbsp;&nbsp;&nbsp;&nbsp; Figuur 7: opslaan beëindigen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 8: afspelen geluid </em> <p>
+
+  
+ 
+
+  
+
+
+
+
+
 ## Resultaten
+Het volledige report is <A HREF="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EUW9GDFppE9Hi6XMwMeS-70BnTONAJ6vIgU1Kaj_jC9nuw?e=vN7iXZ">hier</A> te lezen
 De jongeren reageren het meest op geluiden. Deze geluiden maken de meldingen ook meborabeler voor hun. 
 </br></br>
 Als tweede vallen vooral de trillingen op bij jongeren. Alhoewel er tijdens de test verschillende sterktes aan trillingen zijn getest, kunnnen de jongeren enkel maar de hevigste herrinneren. 
@@ -58,43 +88,28 @@ Tekst en beelden trekken misschien niet snel de aandacht van de jongeren, maar z
 
 
 ## Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Bij de melding die duidelijk maakt dat er een opdracht is: deze melding moet de aandacht trekken van de gebruiker. Daarom moet er hier zeker met gelui en een harde trilling worden gewerkt.
+</br></br>
+Bij de melding van het volbrengen van een taak/ instellingen opslaan: deze melding moet onthouden worden maar minder tijdens het gebruik de aandacht trekken. Daarom wordt er besloten bij deze meldingen enkel te werken met een geluid.
+</br></br>
+Bij de meldingen die de gebruiker waarschuwen voor een fout: deze melding moet de aandacht trekken, maar moet niet onthouden worden. Daarom volstaat het bij deze meldingen voor gebruik te maken van hevige trillingen.
+</br></br>
+Bij de melding van geluid wordt afgespeeld: de gebruiker moet weten dat deze melding wordt afgespeelt  zonder naar het scherm te kijken of er veel aandacht aan te geven. Daarom wordt er bij deze meldingen ook enkel een trilling afgespeelt.
+
+
+
+
+## bijlage
+
+protocol gebruikerstest: https://ugentbe-my.sharepoint.com/:w:/g/personal/ine_vandeweghe_ugent_be/EcPzyxDDIOJMkMDkC2BLBKwBl0U2p3E_eVsy-LhoiHqH8g?e=EGSGgY
+</br></br>
+report gebruikerstest: https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EUW9GDFppE9Hi6XMwMeS-70BnTONAJ6vIgU1Kaj_jC9nuw?e=vN7iXZ
 
 
 
 
 
 
-
-
-#### Conclusie
-
-
-
-
-## Bijlagen
-
-
-[Literatuur_Review_Protocol_IneVandeWeghe.docx ](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Literatuur_Review_Porotocol_IneVandeWeghe.docx?d=w3b64157bae6a4b7daa888d3c3a220d8c&csf=1&web=1&e=YnLPrM) </br>
-[Literatuur_Review_Report_IneVandeWeghe.docx ](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Literatuur_Review_Report_IneVandeWeghe.docx?d=wde73901514274e3ca917fa03f3a81138&csf=1&web=1&e=8w0B1E) </br>
-
-</br>
-
-[Focus Group_Protocol_IneVandeWeghe.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Focus%20Group_protocol_IneVandeWeghe.docx?d=w00cb27bb77804ab4bc9db131a1aace90&csf=1&web=1&e=4YYc04) </br>
-[FocusGroup_Report_IneVandeWeghe.docx ](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/FocusGroup_Report_IneVandeWeghe.docx?d=w77581618e9664066bb3d5e55fb64ccb6&csf=1&web=1&e=TJr0SC) </br>
-
-</br>
-
-[Focus_Group2_wave1_Protocol.docx  ](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Focus_Group2_Protocol.docx?d=w9936597736264748a12c1f08ec61c339&csf=1&web=1&e=fUeuB7) </br>
-[Focus_Group2_wave1_Report.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Report_FocusGroup2.docx?d=w3199150e06fa452c8dfbf4293ada9d66&csf=1&web=1&e=desXX5) </br>
-
-</br>
-
-[Focus_Group2_Wave2_Protocol.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/ERK9QnFU0LpEkIaPX65sbxAB9sryz5HWB--lZwAQ6tCiXA?e=iON5Xa) </br>
-[Focus_Group2_wave2_Report.docx ](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EVDk-UhdRd9JjoNavefzE1AB8E_D0TAsHEC1FR-aSMyqQw?e=EUt7R5) </br>
-
-
-## Bronnen
 
 
 
