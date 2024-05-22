@@ -15,11 +15,14 @@ Datum: 19/02/2024
 liever alleen op hun kamer zitten dan in contact te komen met hun ouders, maar zijn te
 jong om zelfstandig buiten op pad te gaan. Daarnaast zijn ze op een leeftijd gekomen waar
 ze hun eerste verantwoordelijkheden zoals een huisdier willen opnemen. Ouders zijn
-daarentegen niet zeker of hun kind deze grote verantwoordelijkheid wel aan kan.
-Beide problemen werden onderzocht door middel van een literatuurstudie en een
-focusgroep. De bedachte oplossing hiervoor is de Petwatch. Dit is een soort smartwatch
-die jongeren helpt met het onderhouden van hun eigen huisdier (hond of kat). Dit horloge
-zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier kan zorgen.</p> 
+daarentegen niet zeker of hun kind deze grote verantwoordelijkheid wel aan kan. 
+Dit wordt allemaal onderzocht in het eerste semester door literatuurstudies en focusgroepen.
+</br></br>
+ De bedachte oplossing hiervoor is de Petwatch. Dit is een soort smartwatch
+die jongeren helpt met het onderhouden van hun eigen hond. Dit horloge
+zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier kan zorgen.
+Natuurlijk moet deze oplossing eerst ontworpen worden. Dit gebeurd met verschillende gebruikerstesten doorheen de 2 semesters in verschillende deelopdrachten. 
+Voordat de gebruikerstesten worden uitgevoerd worden er vooraf prototypes gemaakt op basis van onderzoeken rond die deelopdracht  </p> 
 
 <p>
   
@@ -51,7 +54,7 @@ geven, gaan ouders met meer vertrouwen “Ja!” kunnen zeggen op de vraag: “M
 eigen huisdier?”
 <br><br>
 
-## Methodologie
+## Methodologie (aanpassen)
 <p>De methodologie die wordt gebruikt in het eerste semester sluit het best aan bij het
 principe van de double diamond. Hierbij kan de eerste diamant de discovery fase
 voorstellen waarbij er op zoek wordt gegaan naar een concept voor het probleem.
@@ -398,33 +401,9 @@ zijkant stond verwerkt in het uurrooster op het juiste moment.   </p>
 
 
 ## Bill of materials
-<p>Uit het onderzoek van wave 1 is het duidelijk dat gordel het favoriete materiaal is voor de
-band van de Petwatch. Dit is dan ook de reden waarom het prototype ook dit materiaal zal
-bevatten.</p>
-
-Het belangrijkste component van de smartwatch is natuurlijk het scherm. Online zijn er veel
-schermen te vinden om je eigen smartwatch te maken met Arduino Uno of Raspberry Pi.
-Het gekozen scherm is “ILI9341 LCD screen”[^9] . Dit scherm kan eenvoudig met een Arduino
-Uno of een ESP32 aangestuurd worden.</br>
-
-Het scherm wordt aangestuurd met een ESP32.[^10] Dit heeft enkele voordelen op de Arduino
-Uno. Deze microcontroller is kleiner en is dus eenvoudiger in het eindproduct te verwerken.
-Daarnaast heeft het ook de mogelijkheid om met het internet te verbinden. Deze functie
-kan nog van pas komen in het eindproduct doordat de smartwatch dan ook met een gsm
-kan verbonden worden.</br>
+<p>De meeste van de nodige onderdelen komen vanuit het proototype van de halsband. Dit komt doordat het prototype van de Petwatch zeer eenvoudig was te maken door gebruik te maken van de Samsung smartwatch die wij in ons bezeit hebben.</br>
 
 <p>
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/01d97d99-96c3-454a-8da1-c5f26fe92590" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/d205cd5e-8bdd-4379-be53-6dae33acef57"  width="25%"/>
-  </br>
-  <em>Figuur 13: ILI9341 LCD screen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 14: ESP32 [^9]</em> 
-</p></br>
-
-
-
-
-
 
 <p>Door het 3D-printen van een verbindingsstuk die als houder dient voor de microcontoler en
 het scherm, is het mogelijk de alles vast te hangen aan de gordel band.</p>
@@ -433,10 +412,13 @@ het scherm, is het mogelijk de alles vast te hangen aan de gordel band.</p>
   
 |   <b>Materiaal</b>   |<b>Aantal</b>|<b>Prijs (euro)</b>|
 |:---:|:---:|:---:|
-|Gordel stof|10-15cm|1,16|
-|ILI9341 LCD screen|1|17,02|
-|ESP32 |1|8,99 |
-|PVE (3D-print) |2|X |
+|Smartwatch|1|/|
+|Wemos D1 Mini|1|6|
+|Wemos D1 Mini battery shield |1|3.95 |
+|lithium batterij 700mAh 3.7V|1|6,43|
+|Grove speaker|1|6,95|
+|PVE (3D-print bot) |1|X |
+|halsband prototype |1|X |
 </p>
 
 <br>
@@ -499,9 +481,6 @@ Als laatste hebben we besloten om het concept te vereenvoudigen. Vooraf werd er 
 
 [^8]: Parenting Montana(2021, 6 okt). Responsibility for 11-year-old. Geraadpleegd op 9 januari 2024, van [https://parentingmontana.org/responsibility-for-your-11-year-old/ ](https://parentingmontana.org/responsibility-for-your-11-year-old/ )  
 
-[^9]: Amazon.com. ILI9341 LCD screen (afbeelding) geraadpleegd op op 22 januari 2024, via: [https://www.amazon.com.be/-/nl/Hailege-ILI9341-LCD-scherm-Arduino-Raspberry/dp/B07YTWRZGR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=A1A7E5ILEFA1R3  ](https://www.amazon.com.be/-/nl/Hailege-ILI9341-LCD-scherm-Arduino-Raspberry/dp/B07YTWRZGR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=A1A7E5ILEFA1R3  ) 
-
-[^10]: Bol.com. ESP32 (afbeelding) geraadpleegd op 22 januari 2024, via: [https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  ](https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  ) https://www.bol.com/be/nl/p/azdelivery-esp32-nodemcu-module-wlan-wifi-development-board-met-cp2102-compatibel-met-arduino-inclusief-e-book/9300000067496370/  
 
 
 
