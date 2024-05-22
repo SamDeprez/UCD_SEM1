@@ -6,7 +6,6 @@
 Datum: 19/05/2024
 <br>
 
-Max. 1000 woorden
 
 ## Doestellingen
 Het verbeteren van het prototype op het vlak van sensoriële ergonomie. Aanpassingen worden bepaald door gebruik te maken van ‘hiërarchische taakanalyse’ en gebruikerstesten.
@@ -43,6 +42,12 @@ Hierbij worden er 2 Hiërarchische taakanalyses gemaakt:</br>
 ### Design requirements
 Door het werken met een smartwatch worden mogelijk inputs beperkt. Het is dus meer interessant om ons te richten op de outputs.
 #### Outputs
+<ul><li>De meldingen moeten waarneembaar zijn als de gebruiker niet bezig is met het product</li><li>De meldingen zijn auditief en visueel</li><li>de meldingen kunnen de gebruiker alert maken tijdens het gebruik op fouten, de meldingen trekken alle aandacht </li><li>de melding is verschillend afhankelijk van aandacht trekken (voor het uitvoeren van een taak), het voltooien van een taak of het waarschuwen voor fouten  </ul>
+
+### Gebruikerstest
+Als laatste wordt er een gebruikerstest uitgevoerd (n=4).
+Tijdens deze test wordt de geüpdate versie van de Petwatch uitgetest met zaken die uit de vorige opdrachten komen en het toevoegen van de meldingen.
+Het protocol is volledig uitgeschreven <A HREF="http://www.handleidinghtml.nl">hier</A>
 ## Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 
