@@ -3,7 +3,7 @@
 
 
 
-Smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdier.
+De smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdier.
 
 *Projectteam: Deprez Sam; Van de Weghe Ine *
 
