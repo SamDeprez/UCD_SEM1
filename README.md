@@ -592,7 +592,7 @@ Hierbij worden er 2 Hiërarchische taakanalyses gemaakt
 #### volbrengen van taken
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/aae0e11a-3033-4fb1-a61a-2858d3a4abf8" width="900" />
-  </br> em>Figuur 2: hiërarchische taakanalyse opdrachten</em>  </p>
+  </br> Figuur 2: hiërarchische taakanalyse opdrachten</em>  </p>
   Hierbij interafreert de gebruiker opnieuw met het product door middel van swippen en drukken. Op 1 plaats kan de gebruiker extra informatie vinden door lang te drukken op een knop. Dit is een beslissing die gemaakt is in de vorige deelopdracht. Gebruikerstests en bevragingen bij een andere groep zullen aantonen of dit de beste manier is. WAt er opvalt is dat er in deze context meer meldingen moeten verstuurt worden.
   </br></br>
 
@@ -610,15 +610,6 @@ Door het werken met een smartwatch worden mogelijk inputs beperkt. Het is dus me
 ### Gebruikerstest (n=4)
 Als laatste wordt er een gebruikerstest uitgevoerd.
 Tijdens deze test wordt de geüpdate versie van de Petwatch uitgetest met zaken die uit de vorige opdrachten komen en het toevoegen van de meldingen. Naast het testen van het product wordt ook de halsband gebruikt in de context.</br>
-
-
-<p>
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/233687b0-0ab5-4550-a498-ff4456fd17cc" width="500" />
-    <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c74695ab-0d24-49b4-8246-d16de61dd6a3" width="150" />
- 
-
-  </br>
-  Figuur 3: gebruikerstest &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 4: halsband</em> <p>
 
 Deze meldingen zijn:</br>
 <ul><li>Baasje moet een taak uitvoeren: geluid(blaffende hond) bij startscherm</li><li>taak voltooid: geluid(ping) + trillinng na het selecteren in de agenda of het klikken op de melding</li><li>agenda opgeslaan: lichte trilling na het opslaan van de agenda</li><li> weg gaan zonder opslaan/stoppen wandeling: waarschuwing bij het terugkeren tijdens het opslaan/wandelellen </li><li>geluid wordt afgespeeld: trilling bij het drukken op "speaker" bij vind mijn hond</li></ul>
