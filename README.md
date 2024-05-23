@@ -242,7 +242,7 @@ meisjes deelnemen tussen de 11-15 jaar. </p>
   <em>Figuur 4: Prototypes wave 1 (schermvorm + materiaal)</em> 
 </p></br>
 
- #### Focusgroep resultaten
+ #### Resultaten
  <p><em>Tabel 1: Resultaten test schermvorm</em>
  
 | <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/db23428c-565a-44d0-b2cc-b1314c5f3407" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/dc6a6e82-29ca-4c0f-8f07-84b6f37d55f6" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/17e2b8c7-9c4f-480d-8220-d41db766479d" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/5d56410f-d401-46cd-b040-fc71ed3dea4a" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c86a3810-207c-427b-b7bd-484b0428ab33" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/87e1a639-c357-48c3-8f78-3757bbff7d9b" width="60%" />|
