@@ -304,7 +304,7 @@ Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmetin
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f0d53432-4879-4b65-8f56-847c036acd92" width="900" />
   </br>
-  <em>Figuur 1: Afmetingen Petwatch</em> 
+  <em>Figuur 6: Afmetingen Petwatch</em> 
 </p></br></br>
 
 Enkel voor afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevonden (National Library of Medicine[^9]).
@@ -312,7 +312,7 @@ Enkel voor afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevonden 
 
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/2898a232-6cec-491d-bca6-1ad82880c239" width="900" />
   </br>
-  <em>Figuur 2: Afmetingen polsomtrek</em>    
+  <em>Figuur 7: Afmetingen polsomtrek</em>    
 </br></br>
 
 De Petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een gewoon horloge. De petwatch moet goed aanspannen bij de gebruiker, dit betekent dat de omtrek niet te groot mag zijn. Daarnaast mag het ook niet te hard spannen, waardoor het ook niet te klein mag zijn. Bij jongeren kan de polsomtrek sterk variëren, maar de Petwach moet toch bij een zo groot mogelijk deel van de populatie een omtrek hebben die comfortabel is voor die gebruiker (niet te groot en niet te klein).   Dit betekent dat de afmeting van het bandje moet ontwerpen worden voor aanpasbaarheid. <b>(Design for adjustability)</b> Bij horloges kan de afmeting worden ingesteld om de halve centimeter.
@@ -333,7 +333,7 @@ Op deze site zijn de uiterste nek afmetingen weergegeven voor verschillende hond
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/50035716-3f33-48f1-affb-17ed6c291cd3" width="900" />
   </br>
-  <em>Figuur 3: Nek afmetingen hondenrassen</em> 
+  <em>Figuur 8: Nek afmetingen hondenrassen</em> 
 </p></br></br>
 
 Het berekend gemiddelde is hier 45,477 cm, de mediaan is 45 en de standaard variatie is 10,76.</br></br>
@@ -363,7 +363,7 @@ Van alle drie de sluitingsmethode wordt nu een prototype gemaakt. De maten van d
    <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fe4b9255-5893-46b6-9e3f-60f1f4ee9477" width="270" />
    <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/3682a365-0cca-4cca-8a67-9cbbd59b3fb8" width="270" />
   </br>
-  <em>Figuur 4: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 5: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: velcro</em> 
+  <em>Figuur 9: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 10: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 11: velcro</em> 
 </p></br></br>
 
 
@@ -373,7 +373,7 @@ Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/97ba3ffa-5ef4-42b6-98c5-d1ba1d0bccf0" width="300" />
   </br>
-  <em>Figuur 7: Test halsband</em> </br>
+  <em>Figuur 12: Test halsband</em> </br>
   <em>Op deze foto is te zien hoe een jongere de halsband uittest op de hond.</em>
 </p>
 
@@ -405,7 +405,7 @@ De halsband wordt aangestuurd door een Wemos D1 Mini. Dit is een microcontroller
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/14d3d29a-cc42-46d9-964a-20dbc7a03e46" width="500" />
   </br>
-  <em>Figuur 7: electronica halsband </em> 
+  <em>Figuur 13: electronica halsband </em> 
 </p></br>
 
 
@@ -416,7 +416,7 @@ De grote vorm van het bot is nodig zodat alle electronica in het bot past. Met k
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/61fccb5a-d29b-41fc-bbf4-8aa0d3d163bd" width="500" />
   </br>
-  <em>Figuur 7: houder halsband </em> 
+  <em>Figuur 14: houder halsband </em> 
 </p></br>
 
 
@@ -437,7 +437,7 @@ Maar het grootste en belangrijkste deel van ht product is het digitale deel op d
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f7a5a3ea-2f9a-4533-a443-bcbf893268f9" />
   </br>
-  <em>Figuur 6: To-Do lijst per dag</em> 
+  <em>Figuur 15: To-Do lijst per dag</em> 
 </p></br>
 
 <p>- <b>Time blocking + To-do lijst</b>) </p>
@@ -445,7 +445,7 @@ Maar het grootste en belangrijkste deel van ht product is het digitale deel op d
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fbbc9fe4-f041-444c-b90e-49171adec41d" />
   </br>
-  <em>Figuur 7: To-Do lijst + time blocking </em> 
+  <em>Figuur 16: To-Do lijst + time blocking </em> 
 </p></br>
 
 <p>- <b>To-Do lijst in time blocking</b> </p>
@@ -453,7 +453,7 @@ Maar het grootste en belangrijkste deel van ht product is het digitale deel op d
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/072cf201-e521-46c5-99e1-1469897cd294" />
   </br>
-  <em>Figuur 8: To-Do lijst in time blocking </em> 
+  <em>Figuur 17: To-Do lijst in time blocking </em> 
 </p></br>
 
 <p>Naast de agenda’s wordt er een uitgesneden houten vorm van een horloge gemaakt. Tijdens de test worden de planningen bekeken voor de vorm van het horloge. Dit maakt duidelijk dat wanneer de agenda in het eindproduct wordt gebruikt, constant maar een klein deel ervan zichtbaar is op het scherm. Acties zoals swipen in- en uitzoomen worden tijdens de test vervangen door het verplaatsen van het horloge ten opzichte van de agenda. </p>
@@ -461,7 +461,7 @@ Maar het grootste en belangrijkste deel van ht product is het digitale deel op d
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/504c86d8-1ea5-48b8-a8e5-01e71067ee0c" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/1de3485c-b2c9-46e4-ab46-1390f69471bb" />
   </br>
-  <em>Figuur 9: uitgesneden horloge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 10: focusgroep wave 2</em> 
+  <em>Figuur 18: uitgesneden horloge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 10: focusgroep wave 2</em> 
 </p></br>
 
 #### Resultaten
@@ -489,7 +489,7 @@ Maar het grootste en belangrijkste deel van ht product is het digitale deel op d
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/b8df9a40-e986-47ea-88e2-2744911968d3" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/e7964cb0-7862-4b24-87d6-99908861581c" width="19%" />
   </br>
-  <em>Figuur 11: Agenda &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspFiguur 12: Zicht op de GSM en Petwatch</em> 
+  <em>Figuur 19: Agenda &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspFiguur 12: Zicht op de GSM en Petwatch</em> 
 </p>
 
 <p>Als er achteraf op deze test wordt teruggekeken, kan er worden vastgesteld dat de resultaten en conclusie niet ideaal zijn. Dit komt doordat het onderzoek niet op de meeste efficiënte manier is uitgevoerd. De test zou namelijk beter zijn geweest als de leden van de focusgroep een bepaalde taak moeten uitvoeren met de drie agenda's: bijvoorbeeld zoeken wanneer ze de hond eten moeten geven, uit de drukke agenda halen wanneer ze het best met de hond gaan wandelen... Door de personen een taak te geven zouden ze de agenda's beter bestuderen. Daarnaast is het enkel vragen van de favoriete agenda van de doelgroep niet genoeg om 100% kritisch na te denken over de verkregen resultaten. In het vervolg kan dit worden opgelost door naast het vragen van hun favoriete agenda, ook bij elke agenda een positief en negatief punt te geven. </p>
@@ -514,13 +514,13 @@ Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op he
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/9152de99-df71-49b5-92d0-956e48fa0928" width="500" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/f8078f7e-f733-4387-9aaf-1134c9f4c4a1" width="500" />
   </br>
-  <em>Figuur 1: De agenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 2: Spelletjes en truckjes</em> 
+  <em>Figuur 20: De agenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 21: Spelletjes en truckjes</em> 
 </br></br>
 
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/493929ee-a462-4156-93d4-47103be87fa7" width="500" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/0ff9bf25-e58c-4cdd-a638-d7664b3e8b66" width="500" />
   </br>
-  <em>Figuur 3: Wandelroutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 4: Profiel van je hond</em> 
+  <em>Figuur 22: Wandelroutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 23: Profiel van je hond</em> 
 </br></br>
 
 Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn gebaseerd op de swipefuctie (naar boven en opzij) die te herkenningen zijn bij de smartphone en andere smartwatches. Het derde menu keuze is ontworpen op basis van de drukfunctie. Dit heeft ons de mogelijkheid om de swipefunctie en de drukfunctie met elkaar te vergelijken. Als laatste is er een speels menu ontwikkeld. Hiervoor werd er een zonnetje als menu gekozen.
@@ -528,13 +528,13 @@ Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn geba
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/9b3fa063-c28a-48b1-aba4-f2c2141ebf05" width="400" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/622bfb9e-764a-4b60-bc3e-59d43def3b31" width="400" />
   </br>
-  <em>Figuur 5: Menu optie 1 (swipen naar boven&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: Menu optie 2 (opzij swipen)</em>    
+  <em>Figuur 24: Menu optie 1 (swipen naar boven&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 25: Menu optie 2 (opzij swipen)</em>    
 </br></br>
 
  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/50dcc956-e3f1-46da-b289-6ea553f6bd4a" width="400" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/db48f79d-c669-4767-99c3-0d390f0d8e90" width="400" />
   </br>
-  <em>Figuur 7: Menu optie 3 (drukknop)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 8: Menu optie 4 (Het zonnetje)</em>    
+  <em>Figuur 26: Menu optie 3 (drukknop)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 27: Menu optie 4 (Het zonnetje)</em>    
 </br></br>
 
 ## Gebruikers Testen
