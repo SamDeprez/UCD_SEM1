@@ -559,7 +559,6 @@ Voor de tweede fase van deze user testen is er gebruik gemaakt van verschillende
 
 Om de verschillende prototypes op Protopie te laten testen op de GSM, is er telkens een Rapid prototype gemaakt van een horloge. Op deze manier werd de userexperiens tijdens het testen verbeterd en werd het testen ook meer kindvriendelijk. Zo was het mogelijk (ondanks de lompe gsm) om de usertesten moeiteloos af te leggen.
 <p>
-   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/4f590fca-2ca8-4544-b174-24b6cd6edf44" width="150"/>
    <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/f74ca874-77b3-4b41-96b4-9c860d5f61d5" width="150" />
    <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/b14c3362-3f31-40cc-8d35-a0d6b3e7dd3b" width="570" />
   </br>
