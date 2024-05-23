@@ -26,8 +26,10 @@ Voordat de gebruikerstesten worden uitgevoerd worden er vooraf prototypes gemaak
 
 <p>
   
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/5af4a4f8-ff95-4d0b-bac5-cd7365c99416"  width="90%"/></br>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/cf7fe9ca-7c98-4223-a816-ad8b2b6754ca"  width="90%"/></br>
   <em>Figuur 1: De Petwatch</em>
+
+
 
 </p>
 <br>
@@ -400,7 +402,7 @@ De halsband met de tanggespsluiting is zeker niet interessant om dat deze veel t
 Uit develop 1 kan er besloten worden dat de jongeren akkoord gaan met de extra halsband. Als laatste onderdeel van het fysieke deel moet deze halsband nu nog ontworpen worden.
 ### Electronica
 De halsband wordt aangestuurd door een Wemos D1 Mini. Dit is een microcontroller van arduino die een kleinere vorm heeft dan een arduino board en de mogelijkheid heft om met wifi te verbinden. Hierdoor kan de halsband draadloos werken tijdens de testen.
-</br> Als er draadloos wil gewerkt worden, moet de wemos stroom halen uit een batterij. De wemos zelf heeft geen ingang waar de batterij mee kan verbonden worden, daarom wordt er gewerkt met een battery shield. Dit is een component die eenvoudig op de wemos kan geplaatst worden, en er een lithium batterij van 3.7V mee kan wordn verbonden. Als laatste is er ook natuurlijk nood aan een speaker, hier werken we met een Grove speaker. De aansturing gebeurt via het internet door de wemos te laten verbinden met een hotpot op de gsm. 
+</br> Als er draadloos wil gewerkt worden, moet de wemos stroom halen uit een batterij. De wemos zelf heeft geen ingang waar de batterij mee kan verbonden worden, daarom wordt er gewerkt met een battery shield. Dit is een component die eenvoudig op de wemos kan geplaatst worden, en er een lithium batterij van 3.7V mee kan wordn verbonden. Als laatste is er ook natuurlijk nood aan een speaker, hier werken we met een Grove speaker. De aansturing gebeurt via het internet door de wemos te laten verbinden met een hotspot op de gsm. De arduino code voor het aansturen van deze zaken via wifi staat in de map code_petwatch.
 
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/14d3d29a-cc42-46d9-964a-20dbc7a03e46" width="500" />
