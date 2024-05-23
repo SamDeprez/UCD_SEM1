@@ -1,7 +1,7 @@
 
 ## PetWatch
 
-[testlink](http://192.168.121.162:9981/pie?pieid=1&name=Untitled)  
+
 
 Smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdier.
 
@@ -552,8 +552,12 @@ Als laatste hebben we besloten om het concept te vereenvoudigen. Vooraf werd er 
 [Focus_Group2_wave2_Report.docx ](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EVDk-UhdRd9JjoNavefzE1AB8E_D0TAsHEC1FR-aSMyqQw?e=EUt7R5) </br>
 
 </br>
-[Gebruikerstest_develop1_Protocol.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EXkBn1K9vZJLsavOglMwwLgBtTFO7kHu5ZGwvpHX19ud0g?e=fJH8AY)
-[Gebruikerstest_develop1_Report.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2)
+
+
+[Gebruikerstest_develop1_Protocol.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EXkBn1K9vZJLsavOglMwwLgBtTFO7kHu5ZGwvpHX19ud0g?e=fJH8AY)</br> 
+[Gebruikerstest_develop1_Report.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2) </br>
+
+</br>
 
 
 ## Bronnen
@@ -576,7 +580,13 @@ Als laatste hebben we besloten om het concept te vereenvoudigen. Vooraf werd er 
 
 [^7]: Meer eenzaamheid onder jongeren in 2021 | Nederlands Jeugdinstituut. (2022, 30 september). [https://www.nji.nl/nieuws/meer-eenzaamheid-onder-jongeren-in-2021](https://www.nji.nl/nieuws/meer-eenzaamheid-onder-jongeren-in-2021) 
 
-[^8]: Parenting Montana(2021, 6 okt). Responsibility for 11-year-old. Geraadpleegd op 9 januari 2024, van [https://parentingmontana.org/responsibility-for-your-11-year-old/ ](https://parentingmontana.org/responsibility-for-your-11-year-old/ )  
+[^8]: Parenting Montana(2021, 6 okt). Responsibility for 11-year-old. Geraadpleegd op 9 januari 2024, van [https://parentingmontana.org/responsibility-for-your-11-year-old/ ](https://parentingmontana.org/responsibility-for-your-11-year-old/ ) 
+
+[^9]: National Library of Medicine (2024 oktober) Wrist Circumference and Frame Size Percentiles in 6-17-Year-Old Turkish Children and Adolescents in Kayseri Geraadpleegd op 27 februari 2024 via: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5785639/#:~:text=For%20both%20genders%2C%20WrC%20linearly%20increases%20with%20age%20(13.0%20to,(17%20years)%2C%20respectively.
+
+</br>
+
+[^10]:Tarigs Measure Dogs & Size Chart Geraadpleegd op 27 februari 2024 via: https://tarigs.com/size-table-dog/
 
 
 
