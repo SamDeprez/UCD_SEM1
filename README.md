@@ -4,10 +4,13 @@
 In dit verslag staat de uitwerking van de antropometrie van de halsband uitgelegd.
 Op basis van berekeningen uit gegevens die online zijn gevonden wordt er bepaald welke afmetingen de halsband moet hebben.
 Op basis van gebruikerstesten wordt er bepaald met welke sluitingsmethode de halsband moet werken.
+## Doelstellingen
+Op basis van de antropometrie van jongeren en honden de maten bepalen voor de Petwatch en de hond. Door middel van een gebruikerstest testen wat de beste sluitingsmethide is van de halsband.
+## Materiaal en methoden
+### Berekeningen
+Als eerste worden de afmetingen bepaald  van de Petwatch en de halsband. 
 
-## Berekeningen
-### Doelstellingen
-De eerste stap van het antropometrie is de verschillende afmetingen te bepalen van de onderdelen op basis van berekeningen. Deze berekeningen worden gemaakt op basis van gegevens die online te vinden zijn. Bij elke afmetingen moet er rekening worden gehouden op wat er moet ontwerpen worden.
+
 ### Petwatch
 Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongernn, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
 </br>
@@ -61,14 +64,11 @@ Dit verschil is groter dan 30 cm. Als we een halsband willen ontwerpen die kan v
 Het logischte lijkt om het volledig interval te delen door 3 en zo elke halsbang een gelijk interval te geven. Maar heel vaak wordt bij halsbanden de laagste intervallen ook kleiner gemaakt dan de hogere. Daarom hebben we deze intervallen besloten:
 <ol><li>25,5 - 33</li><li>33-45</li><li>45-63,5</li></ol>
 
-### Conclusie
-Met de berekeningen zijn de verschillende maten van zowel de Petwatch als de halsband bepaald. ALhoewel we bij beide gaan ontwerpen op aanpasbaarheid, moeten we toch ook bij de haalsband ontwerpen voor verschillende types.
+### Conclusie berekeningen
+Met de berekeningen zijn de verschillende maten van zowel de Petwatch als de halsband bepaald. ALhoewel we bij beide gaan ontwerpen op aanpasbaarheid, moeten we toch ook bij de halsband ontwerpen voor verschillende types.
 Hoe De halsband eenvoudig aangepast kan bij een bepaald type wordt bepaald in de gebruikstesten. 
 
 ## Testen
-### Doelstelling
-Bij deze testen wordt de antropometrie van de halsband verder uigewerkt. Hierbij wordt er door verschillende prototypes waarvan de maten overeenkomen met de berekende waarden, de beste sluitingsmethode gekozen voor de halsband.
-### Materiaal en methodes
 Voordat de testen kunnen beginnen wordt er online onderzocht welke sluitingsmethodes er worden gebruikt bij halsbanden voor honden. Uit dit onderzoek komen er 3 methodes naar boven.
 <ol><li>gespsluiting</li><li>tanggespsluiting</li><li>velcro</li></ol>
 </br></br>
