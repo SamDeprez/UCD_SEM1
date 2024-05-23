@@ -97,11 +97,16 @@ In deze fase wordt de interactie verbeterd tussen de gebruiker en de Petwatch. H
 #### Develop 3: senses
 Deze fase start met een Hierarchische taakanalyse waaruit we proberen te bepalen op welke plaatsen er meldingen moeten worden verstuurd naar de gebruiker en wat ze hierna moeten doen. Er worden hier ook verschilllende mogelijkheden van meldingen bekeken om te zien wat het meest de aandacht trekt. In deze fase vind de laatste gebruikerstest plaats met het geoptimaliseerd prototype uit develop 2.
  
-## Discovery
+# Discovery
 Als eerste wordt het probleem zelf onderzocht. Dit geberurd door het probleem opnieuw te definiëren en mogelijke oplossingen te zoeken op dit probleem. Het probleem wordt onderzocht met behulp van templates. In dit project wordt er gebruik gemaakt van de innovatrix, WWWWWH model en een persona.
-### Literature review
-Uit het probleemonderzoek komt "huisdieren" als mogelijke oplossing. Deze oplossing wordt verder onderzocht met een literature review.. Dit literature review dient om inzicht
-te krijgen welke effecten huisdieren hebben op opgroeiende kinderen en jongeren.
+
+## Literature review
+Uit het probleemonderzoek komt "huisdieren" als mogelijke oplossing. Deze oplossing wordt verder onderzocht met een literature review.
+
+### Doelstelling
+Dit literature review dient om inzicht te krijgen welke effecten huisdieren hebben op opgroeiende kinderen en jongeren.
+
+#### Resultaten
 Hier werd er gevonden dat onderzoek heeft aangetoond dat kinderen die opgroeiden in
 een huishouden met honden later als volwassenen meer sociaal vaardig zijn[^4]. Er wordt
 geopperd dat dieren de sociale interactie tussen mensen kunnen versterken. Empathie is
@@ -129,7 +134,7 @@ coronacrisis, was dat nog 8 procent[^7]. De smartphoneverslaving bij jongeren sp
 een grote rol. Hét gouden advies blijft afwisseling, dan is er voldoende tegengewicht voor
 het online leven. Een huisdier kan zorgen voor die afwisseling in het dagelijks leven.</br><br>
 
-#### Conclusie
+### Conclusie
 <p>Doordat huisdieren zo een goede invloed hebben op kinderen en een deel uitmaken van de natuur is een eerste concept
 definieert.</p>
 
@@ -207,7 +212,7 @@ niet? Het antwoord hierop weten we nog niet. Hiervoor moet er een interview geda
 worden met de ouders in plaats van de doelgroep zelf, maar 5/13 van de jongeren denkt
 dat ze door dit concept een grotere kans hebben om JA van hun ouders te krijgen.</p></br>
 
-#### Conclusies
+### Conclusies
 <p>Er kan dus geconcludeerd worden dat de doelgroep daadwerkelijk geïnteresseerd is in de
 Petwatch. Er moet nog een keuze worden gemaakt uit de verschillende soorten dieren
 waarvoor dit concept mogelijk is. De 2 populairste dieren dat de focusgroep al heeft en/of
@@ -237,7 +242,7 @@ meisjes deelnemen tussen de 11-15 jaar. </p>
   <em>Figuur 4: Prototypes wave 1 (schermvorm + materiaal)</em> 
 </p></br>
 
- ### Focusgroep resultaten
+ #### Focusgroep resultaten
  <p><em>Tabel 1: Resultaten test schermvorm</em>
  
 | <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/db23428c-565a-44d0-b2cc-b1314c5f3407" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/dc6a6e82-29ca-4c0f-8f07-84b6f37d55f6" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/17e2b8c7-9c4f-480d-8220-d41db766479d" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/5d56410f-d401-46cd-b040-fc71ed3dea4a" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c86a3810-207c-427b-b7bd-484b0428ab33" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/87e1a639-c357-48c3-8f78-3757bbff7d9b" width="60%" />|
@@ -291,12 +296,7 @@ Op het einde van semester 1 ontvingen we de feedback dat er moet nagedacht worde
 ### Doelstellingen
 In het tweede semester zijn we direct begonnen met het bepalen van de afmetingen van de Petwatch en de halsband. Deze afmetingen worden bepaald door middel van antropometrische tabbellen en onderzoeken. Naast het bepalen van de afmetingn wordt de halsband verder uitgewerkt. In deze fase wordt er gecontroleerd of het idee goed is en op welke manier  de halband kan gesloten/geopend worden. Als het zeker is dat de jongeren akkoord gaan met de halsband, kan er na deze test begonnen worden met het effectief maken van de halsband. 
 
-### Materiaal en methoden
-### Berekeningen
-Als eerste worden de afmetingen bepaald  van de Petwatch en de halsband. 
-
-
-### Petwatch
+### Berekeningen Petwatch
 Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongeren, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
 </br>
 Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
@@ -326,7 +326,7 @@ We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierd
 
 
 
-### Halsband
+### Berekeningen halsband
 Voor de halsband van de hond worden de berekeningen gemaakt op basis van de waarden die weergegeven zijn op de site van Tarigs[^10]
 Op deze site zijn de uiterste nek afmetingen weergegeven voor verschillende honden rassen.
 
@@ -382,7 +382,7 @@ Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen
 <ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsbnd mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
 
 
-### Resultaten
+#### Resultaten
 
 De testen tonen aan dat geen enkele van de halsbanden perfect is, elke halsband heeft 1 groot probleem:
 <ul><li>De halsband met gespsluiting kan zeer eenvoudig aange- en afgedaan worden ( 3-4 seconden), maar het aanpassen van de halsband is niet gemakkelijk.</li><li>De halsband met tanggespsluiting kan gemakkelijk ingesteld worden, maar heeft problemen bij he snel aan en af doen. Dit vooral bij kleinere honden waarbij de vacht voor de kleine sluitingsgaten kan zitten.</li><li>De halsband met velcro heeft geen veilig gevoel/kan loskomen tijdens het wandelen.</li></ul>
@@ -428,7 +428,7 @@ Maar het grootste en belangrijkste deel van ht product is het digitale deel op d
 
 <p>Het is belangrijk dat de doelgroep de taken voor het onderhouden van een huisdier elke dag en op het juiste moment uitvoert. Om dit te realiseren kan een eenvoudige structurele weergave helpen. De beste manier van dit te doen is door het werken met een soort van agenda/schema. Er zijn verschillende mogelijkheden hoe deze agenda er kan uitzien. Daarbij moet er bij elke mogelijkheid rekening worden gehouden dat het te zien zal zijn op een klein scherm van een smartwatch. Om de meest duidelijke lay-out te bepalen op de Petwatch, moet er onderzoek worden uitgevoerd. Dit onderzoek gebeurt door een focusgroep met 10 personen(n=10) op 22/12/2023. </p>
 
-### Materiaal en methoden
+### Agenda ontwikkeling
 
 <p>Als voorbereiding voor het onderzoek worden er verschillende mogelijkheden voor de agenda opgesteld. Er zijn drie verschillende prototypes: </p>
  
@@ -464,7 +464,7 @@ Maar het grootste en belangrijkste deel van ht product is het digitale deel op d
   <em>Figuur 9: uitgesneden horloge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 10: focusgroep wave 2</em> 
 </p></br>
 
-#### Focus groep resultaten
+#### Resultaten
 <p></p>Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de agenda's.</p>
 
 <p><em>Tabel 4: Resultaten test agenda</em>
@@ -497,7 +497,7 @@ Maar het grootste en belangrijkste deel van ht product is het digitale deel op d
 
 </br>
 
-## Semester 2: Develop 1
+## Semester 2: Develop 2
 In deze deelopdracht wordt de interface van de Petwatch ontwikkeld, onderzocht en getest. Dit is gebeurd via benchmark studies, expert review en twee usertesten. Zo is het mogelijk om een goeie gebruiksvriendelijke basis van de Petwatch te creëren waar het mogelijk is om verder op te bouwen bij de laatste deelopdracht.
 
 ### Doelstellingen
@@ -573,6 +573,7 @@ De keuze voor het menu van de Petwatch was niet eenvoudig. Uiteindelijk is het e
 De algemene gebruiksvriendelijkheid van de interfase van de Petwatch is verassend goed. Er zullen natuurlijk wel kleine zaken worden aangepast zoals; de knop van “Vind mijn hond” moet veel duidelijker in het profiel te zien zijn. Ook de pauze knop bij de wandelingen verwijderd worden omdat deze overbodig lijkt te zijn. 
 Er is ook besloten geweest om de Petwatch na deze fase nog meer uit te werken. Zo zal er bevoordeeld instelfuncties komen bij de agenda en het hondenprofiel. Zo kan onze gebruiker zaken aanpassen wanneer dit nodig is.
 
+## Semester 2: Develop 3
 
 
 
