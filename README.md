@@ -514,13 +514,13 @@ Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op he
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/9152de99-df71-49b5-92d0-956e48fa0928" width="500" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/f8078f7e-f733-4387-9aaf-1134c9f4c4a1" width="500" />
   </br>
-  <em>Figuur 22: De agenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 21: Spelletjes en truckjes</em> 
+  <em>Figuur 22: De agenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 23: Spelletjes en truckjes</em> 
 </br></br>
 
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/493929ee-a462-4156-93d4-47103be87fa7" width="500" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/0ff9bf25-e58c-4cdd-a638-d7664b3e8b66" width="500" />
   </br>
-  <em>Figuur 23: Wandelroutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 23: Profiel van je hond</em> 
+  <em>Figuur 24: Wandelroutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 25: Profiel van je hond</em> 
 </br></br>
 
 Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn gebaseerd op de swipefuctie (naar boven en opzij) die te herkenningen zijn bij de smartphone en andere smartwatches. Het derde menu keuze is ontworpen op basis van de drukfunctie. Dit heeft ons de mogelijkheid om de swipefunctie en de drukfunctie met elkaar te vergelijken. Als laatste is er een speels menu ontwikkeld. Hiervoor werd er een zonnetje als menu gekozen.
@@ -528,13 +528,13 @@ Vervolgens zijn er vier soorten menu opties ontwikkeld. De eerste twee zijn geba
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/9b3fa063-c28a-48b1-aba4-f2c2141ebf05" width="400" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/622bfb9e-764a-4b60-bc3e-59d43def3b31" width="400" />
   </br>
-  <em>Figuur 24: Menu optie 1 (swipen naar boven&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 25: Menu optie 2 (opzij swipen)</em>    
+  <em>Figuur 26: Menu optie 1 (swipen naar boven&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 27: Menu optie 2 (opzij swipen)</em>    
 </br></br>
 
  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/50dcc956-e3f1-46da-b289-6ea553f6bd4a" width="400" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/db48f79d-c669-4767-99c3-0d390f0d8e90" width="400" />
   </br>
-  <em>Figuur 26: Menu optie 3 (drukknop)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 27: Menu optie 4 (Het zonnetje)</em>    
+  <em>Figuur 28: Menu optie 3 (drukknop)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 29: Menu optie 4 (Het zonnetje)</em>    
 </br></br>
 
 ## Gebruikers Testen
@@ -562,7 +562,7 @@ Om de verschillende prototypes op Protopie te laten testen op de GSM, is er telk
    <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/f74ca874-77b3-4b41-96b4-9c860d5f61d5" width="150" />
    <img src="https://github.com/SamDeprez/UCD_SEM1/assets/159961489/b14c3362-3f31-40cc-8d35-a0d6b3e7dd3b" width="570" />
   </br>
-  <em>Figuur 9: Rapid prototype van horloge </em> </p></br></br>
+  <em>Figuur 30: Rapid prototype van horloge </em> </p></br></br>
 
 #### Resultaten
 Bij de user testen met en zonder hond waren de meningen over de menukeuze zeer uiteenlopend. Er zijn vijf jongeren in totaal geïnterviewd en alle vier de menu keuzes zijn wel door iemand gekozen als hun favoriet. Het is dus heel belangrijk om de reden achter hun keuzes te achterhalen. Het zonnetje werd door twee personen gekozen doordat het “hel leukst om te gebruiken is”. De andere drie keken meer naar welke beweging moet ik gebruiken of wat ken ik al van bv. hun GSM. Daardoor hebben we gekozen voor toch onze menu keuze te baseren op bestaande interfaces van de GSM, want na het uitvoeren van dezer user testen zijn we er achter gekomen dat ze allemaal al een eigen GSM hebben.
@@ -584,14 +584,14 @@ Hierbij worden er 2 Hiërarchische taakanalyses gemaakt
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f6e72995-a59e-4f0f-8809-6e2d457fa8de" width="900" />
   </br>
-  <em>Figuur 1: hiërarchische taakanalyse instellingen</em> <p>
+  <em>Figuur 31: hiërarchische taakanalyse instellingen</em> <p>
   Tijdens de instellingen interageren de gebruikere met ons product doo middel van swipen en drukken.
   Op 3 plaatsen lijkt het belangrijk om extra feedback te sturen. Deze informatie is nodig om de gebruiker een veilig gevoel te geven, ze moeten dus ook de informatie achteraf herinneren. Een extra plaats waar extra informatie kan nodig zijn is het afsluiten van de de instellingen zonder op te slaan. In deze gevallen kan er gevraagd worden of ze zeker willen afsluiten. 
 
 #### volbrengen van taken
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/aae0e11a-3033-4fb1-a61a-2858d3a4abf8" width="900" />
-  </br> Figuur 2: hiërarchische taakanalyse opdrachten</em>  </p>
+  </br> Figuur 32: hiërarchische taakanalyse opdrachten</em>  </p>
   Hierbij interafreert de gebruiker opnieuw met het product door middel van swippen en drukken. Op 1 plaats kan de gebruiker extra informatie vinden door lang te drukken op een knop. Dit is een beslissing die gemaakt is in de vorige deelopdracht. Gebruikerstests en bevragingen bij een andere groep zullen aantonen of dit de beste manier is. WAt er opvalt is dat er in deze context meer meldingen moeten verstuurt worden.
   </br></br>
 
@@ -618,7 +618,7 @@ Deze meldingen zijn:</br>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/7b74f217-46de-4b99-985b-0971432ae155" width="200" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/37c51591-13ca-46b0-9a51-9899076ab785" width="200" />
   </br>
-  <em>Figuur 5: taak voltooid &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 6: agenda opgeslaan &nbsp;&nbsp;&nbsp;&nbsp; Figuur 7: opslaan beëindigen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 8: afspelen geluid </em> <p>
+  <em>Figuur 33: taak voltooid &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 34: agenda opgeslaan &nbsp;&nbsp;&nbsp;&nbsp; Figuur 35: opslaan beëindigen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 8: afspelen geluid </em> <p>
 
 #### Resultaten
 De jongeren reageren het meest op geluiden. Deze geluiden maken de meldingen ook meborabeler voor hun. Als tweede vallen vooral de trillingen op bij jongeren. Alhoewel er tijdens de test verschillende sterktes aan trillingen zijn getest, kunnnen de jongeren enkel maar de hevigste herrinneren. Trillingen zijn handig om de aandacht te trekken terwijl de jongeren bezig zijn met het product en de trilling verwachten, of als extra bij het geluid om aandacht meer te trekken wanneer jongerenn niet aan het op letten zijn.
