@@ -172,7 +172,7 @@ zij beter de verantwoordelijkheden kunnen inschatten die nodig zijn om voor een 
 te zorgen, dan kinderen uit gezinnen zonder huisdier.
 Bij de vragen “Wat vinden jullie het leukste aan een huisdier hebben?” en “Waarom willen
 jullie zo graag een eigen huisdier?” hebben veel personen een antwoord gegeven in
-verband met eenzaamheid. Deze jongeren, uit de eerste 3 jaren van het middelbaar,
+verband met eenzaamheid. Deze jongeren, uit de eerste drie jaren van het middelbaar,
 bezitten allemaal een GSM en desondanks de verschillende soorten sociale media en
 andere mogelijkheden tot communicatie, voelen zij zich toch eenzaam op zo een jonge
 leeftijd. Dit is een eerste bevestiging dat beginnende pubers een nood hebben aan een
