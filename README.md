@@ -386,10 +386,10 @@ Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen
 
 De testen tonen aan dat geen enkele van de halsbanden perfect is, elke halsband heeft 1 groot probleem:
 <ul><li>De halsband met gespsluiting kan zeer eenvoudig aange- en afgedaan worden ( 3-4 seconden), maar het aanpassen van de halsband is niet gemakkelijk.</li><li>De halsband met tanggespsluiting kan gemakkelijk ingesteld worden, maar heeft problemen bij he snel aan en af doen. Dit vooral bij kleinere honden waarbij de vacht voor de kleine sluitingsgaten kan zitten.</li><li>De halsband met velcro heeft geen veilig gevoel/kan loskomen tijdens het wandelen.</li></ul>
-</br></br>
-Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
 </br>
-De jongeren gaan akkoord met het idee van de halsband. Voordat er over het echte doel wordt besproken van de halsband beginnen de jongeren over het terugvinden van je hond. Als er andere zaken worden voorgesteld: zien wanneer je hond eet en drinkt, het beluisteren van je hond. Dan zijn ze daar minder enthousiast over dan het idee van de hond terugvinden als hij weg is.
+ 
+</br>
+De jongeren gaan akkoord met het idee van de halsband. Om het als hulpmiddel en veiligheid te gebruiken als de hond weg loopt. Voordat er over het idee wordt besproken van de halsband, beginnen de jongeren over het terugvinden van je hond. Als er andere zaken worden voorgesteld: zien wanneer je hond eet en drinkt, het beluisteren van je hond. Dan zijn ze daar minder enthousiast over dan het idee van de hond terugvinden als hij weg is.
 
 ### Conclusie
 Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
@@ -397,7 +397,7 @@ Als we kijken naar de drie halsbanden, is het probleem van de halsband met de ge
 De halsband met de tanggespsluiting is zeker niet interessant om dat deze veel te moeilijk is te gebruiken is en hierdoor te lang duurt. We kunnen niets aanpassen zodat het sluiten versnelt. De halsband met velcro kan veiliger worden gemaakt met een extra klepje/ rekker die de verbinding  beter sluit, maar hierbij wordt de tijd om aan te doen zeer sterk verhoogt. 
 
 ## Semester 2: maken halsband
-Uit develop 1 kan er besluit worden dat de jongeren akkoord gaan met de extra halsband. Als laatste onderdeel van het fysieke deel moet deze halsband nu nog ontworpen worden.
+Uit develop 1 kan er besloten worden dat de jongeren akkoord gaan met de extra halsband. Als laatste onderdeel van het fysieke deel moet deze halsband nu nog ontworpen worden.
 ### Electronica
 De halsband wordt aangestuurd door een Wemos D1 Mini. Dit is een microcontroller van arduino die een kleinere vorm heeft dan een arduino board en de mogelijkheid heft om met wifi te verbinden. Hierdoor kan de halsband draadloos werken tijdens de testen.
 </br> Als er draadloos wil gewerkt worden, moet de wemos stroom halen uit een batterij. De wemos zelf heeft geen ingang waar de batterij mee kan verbonden worden, daarom wordt er gewerkt met een battery shield. Dit is een component die eenvoudig op de wemos kan geplaatst worden, en er een lithium batterij van 3.7V mee kan wordn verbonden. Als laatste is er ook natuurlijk nood aan een speaker, hier werken we met een Grove speaker. De aansturing gebeurt via het internet door de wemos te laten verbinden met een hotpot op de gsm. 
@@ -422,7 +422,7 @@ De grote vorm van het bot is nodig zodat alle electronica in het bot past. Met k
 
 
 # Digitaal 
-Maar het grootste en belangrijkste deel van ht product is het digitale deel op de Petwatch zelf. Hieraan is ook in beide semesters gewerkt, maar de testen omtrent digitaal die in het eerste semester zijn uitgevoerd waren minder belangrijk dan voordien verwacht. Deze testen bepaalden de vorm van de agenda en zijn hieronder kort uitgelegd, maar het belangrijkste gedeelte vind plaats in semester 2.
+Maar het grootste en belangrijkste deel van het product is het digitale deel op de Petwatch zelf. Hieraan is ook in beide semesters gewerkt, maar de testen omtrent digitaal die in het eerste semester zijn uitgevoerd waren minder belangrijk dan voordien verwacht. Deze testen bepaalden de vorm van de agenda en zijn hieronder kort uitgelegd, maar het belangrijkste gedeelte vind plaats in semester 2.
 
 ## Semester 1: Definition Wave 2
 
@@ -496,6 +496,21 @@ Maar het grootste en belangrijkste deel van ht product is het digitale deel op d
 
 
 </br>
+
+## Programma van eisen
+Tijdens het feedbackmoment op het einde van het eerste semester, wordt er ons duidelijk gemaakt dat er nog geen PVE is opgesteld. Het eerder opstellen van deze eisen zou ervoor gezorgd hebben dat er in semester 1 meer gefocust werd op nuttigere deelaspecten. Daarom is dit het eerste dat gemaakt is in het tweede semester. Het PVE wordt opgesteld vanuit een stakeholder mapping. Uit de verschillende noden en wensen worden de PVE opgesteld.
+
+ De bepaalde PVE zijn:</br></br>
+ <b> voor de gebruiker</b>
+ <ul><li>Communicatie gebeurt zowel auditief als visueel</li><li>Een tiener begrijpt het product na eenmaal het te gebruiken (duidelijk en eenvoudig)</li><li>Het product heeft weer welke taken er moeten gebeuren en wanneer</li><li>Product kan basis functies uitvoeren zonder internet</li><li>Product past rond de arm van een tiener zonder dat die kan afvallen</li><li>Het product leidt tot een speelse interactie tussen baasje en hond: bevat een lijst met spelletjes en trucjes</li><li>Het product bevat kennis over het onderhouden van een hond</li><li>Het product bevat de nodige medische kennis over de hond dat het baasje moet weten</li>Het product gaat een lange tijd mee (bestendig tegen de weersomstandigheden/ stoten)</ul></br></br>
+
+ <b>hond</b>
+ <ul><li>De hond krijgt regelmatige zorg -> de Petwatch stuurt meldingen/ houd rekening met <ul><li>eten geven minimaal 2x/dag</li><li>wandelen 1x/dag</li><li>speeltijd met hond 1x/dag</li><li>vaccinatie en gezondheid controle 1X/jaar</li><li>ontworming 1x/3 maanden</li><li>hond wassen 1x/maand</li><li>tanden poetsen 1x of 2x/week<li></ul></br> Natuurlijk kunnen de ouders zelf kiezen welke zaken hun zoon/dochter moet doen van deze taken en welke zij of een broer of zus doen.</li></ul></br></br>
+
+ <b>ouders</b>
+ <ul><li>Petwatch stuurt melding naar ouders als hun kind wel/niet de taak uitvoert</li><li>Ouders kunnen instellen wat hun kinderen moeten doen van taken</li></ul>
+ </br> Dit is allemaal via een externe app op de gsm van de ouders en wordt dus buiten beschouwen gelaten tijdens dit project zodat er vooral kan gefocust worden op de petwatch en de halsband.
+</br> Naast 3 eisen bij de jongere gaan ze allemaal over het digitale gedeelte van de petwatch. De eis van het goed vastzitten rond de arm wordt uitgewerkt in develop 1 in het fysieke gedeelte.
 
 ## Semester 2: Develop 2
 In deze deelopdracht wordt de interface van de Petwatch ontwikkeld, onderzocht en getest. Dit is gebeurd via benchmark studies, expert review en twee usertesten. Zo is het mogelijk om een goeie gebruiksvriendelijke basis van de Petwatch te creëren waar het mogelijk is om verder op te bouwen bij de laatste deelopdracht.
