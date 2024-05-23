@@ -339,7 +339,7 @@ Het logischte lijkt om het volledig interval te delen door 3 en zo elke halsband
 Met de berekeningen zijn de verschillende maten van zowel de Petwatch als de halsband bepaald. Alhoewel we bij beide gaan ontwerpen op aanpasbaarheid, moeten we toch ook bij de halsband ontwerpen voor verschillende types.
 Hoe De halsband eenvoudig aangepast kan bij een bepaald type wordt bepaald in de gebruikstesten. 
 
-## Testen
+## Gebruikerstesten
 Voordat de testen kunnen beginnen wordt er online onderzocht welke sluitingsmethodes er worden gebruikt bij halsbanden voor honden. Uit dit onderzoek komen er 3 methodes naar boven.
 <ol><li>gespsluiting</li><li>tanggespsluiting</li><li>velcro</li></ol>
 </br></br>
@@ -367,11 +367,9 @@ Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen
 
 <b>PVE:</b></br>
 <ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsbnd mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
-Maar dit is allemaal nog duidelijker beschreven in het <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EXkBn1K9vZJLsavOglMwwLgBtTFO7kHu5ZGwvpHX19ud0g?e=fJH8AY">protocol</a>.
+
 
 ### Resultaten
-De resultaten zijn volledig uitgeschreven in <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">Report</a>.
-</br></br>
 
 De testen tonen aan dat geen enkele van de halsbanden perfect is, elke halsband heeft 1 groot probleem:
 <ul><li>De halsband met gespsluiting kan zeer eenvoudig aange- en afgedaan worden ( 3-4 seconden), maar het aanpassen van de halsband is niet gemakkelijk.</li><li>De halsband met tanggespsluiting kan gemakkelijk ingesteld worden, maar heeft problemen bij he snel aan en af doen. Dit vooral bij kleinere honden waarbij de vacht voor de kleine sluitingsgaten kan zitten.</li><li>De halsband met velcro heeft geen veilig gevoel/kan loskomen tijdens het wandelen.</li></ul>
@@ -385,6 +383,32 @@ Als we kijken naar de drie halsbanden, is het probleem van de halsband met de ge
 
 De halsband met de tanggespsluiting is zeker niet interessant om dat deze veel te moeilijk is te gebruiken is en hierdoor te lang duurt. We kunnen niets aanpassen zodat het sluiten versnelt. De halsband met velcro kan veiliger worden gemaakt met een extra klepje/ rekker die de verbinding  beter sluit, maar hierbij wordt de tijd om aan te doen zeer sterk verhoogt. 
 
+## Semester 2: maken halsband
+Uit develop 1 kan er besluit worden dat de jongeren akkoord gaan met de extra halsband. Als laatste onderdeel van het fysieke deel moet deze halsband nu nog ontworpen worden.
+### Electronica
+De halsband wordt aangestuurd door een Wemos D1 Mini. Dit is een microcontroller van arduino die een kleinere vorm heeft dan een arduino board en de mogelijkheid heft om met wifi te verbinden. Hierdoor kan de halsband draadloos werken tijdens de testen.
+</br> Als er draadloos wil gewerkt worden, moet de wemos stroom halen uit een batterij. De wemos zelf heeft geen ingang waar de batterij mee kan verbonden worden, daarom wordt er gewerkt met een battery shield. Dit is een component die eenvoudig op de wemos kan geplaatst worden, en er een lithium batterij van 3.7V mee kan wordn verbonden. Als laatste is er ook natuurlijk nood aan een speaker, hier werken we met een Grove speaker. De aansturing gebeurt via het internet door de wemos te laten verbinden met een hotpot op de gsm. 
+
+<p align="center">
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/14d3d29a-cc42-46d9-964a-20dbc7a03e46" width="500" />
+  </br>
+  <em>Figuur 7: electronica halsband </em> 
+</p></br>
+
+
+### houder
+Alle electronische oderdelen worden samen gestoken in een 3D-printe houder. Deze houder krijgt een vorm die te maken heeft met honden om het zo aantrekkelijker te maken, namelijk de vorm van een bot.
+De grote vorm van het bot is nodig zodat alle electronica in het bot past. Met kleinere componenten in het echt kan dus ook de vorm verkleind worden.
+
+<p align="center">
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/61fccb5a-d29b-41fc-bbf4-8aa0d3d163bd" width="500" />
+  </br>
+  <em>Figuur 7: houder halsband </em> 
+</p></br>
+
+
+
+# Digitaal 
 
 ### Wave 2
 
@@ -433,6 +457,8 @@ zijkant stond verwerkt in het uurrooster op het juiste moment.   </p>
   </br>
   <em>Figuur 9: uitgesneden horloge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 10: focusgroep wave 2</em> 
 </p></br>
+
+
 
 
 
@@ -542,6 +568,10 @@ Als laatste hebben we besloten om het concept te vereenvoudigen. Vooraf werd er 
 
 [Focus_Group2_Wave2_Protocol.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/ERK9QnFU0LpEkIaPX65sbxAB9sryz5HWB--lZwAQ6tCiXA?e=iON5Xa) </br>
 [Focus_Group2_wave2_Report.docx ](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EVDk-UhdRd9JjoNavefzE1AB8E_D0TAsHEC1FR-aSMyqQw?e=EUt7R5) </br>
+
+</br>
+[Gebruikerstest_develop1_Protocol.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EXkBn1K9vZJLsavOglMwwLgBtTFO7kHu5ZGwvpHX19ud0g?e=fJH8AY)
+[Gebruikerstest_develop1_Report.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2)
 
 
 ## Bronnen
