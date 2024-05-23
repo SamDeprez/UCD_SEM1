@@ -12,7 +12,7 @@ Als eerste worden de afmetingen bepaald  van de Petwatch en de halsband.
 
 
 ### Petwatch
-Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongernn, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
+Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongeren, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
 </br>
 Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
 </br>
@@ -22,7 +22,7 @@ Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmetin
   <em>Figuur 1: Afmetingen Petwatch</em> 
 </p></br></br>
 
-Enkel voor afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevonden (National Library of Medicine[^1]) 
+Enkel voor afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevonden (National Library of Medicine[^1]).
 
 
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/2898a232-6cec-491d-bca6-1ad82880c239" width="900" />
@@ -30,7 +30,7 @@ Enkel voor afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevonden 
   <em>Figuur 2: Afmetingen polsomtrek</em>    
 </br></br>
 
-De Petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een gewoon horloge. De petwatch moet goed aanspannen bij de gebruiker, dit betekend dat de omtrek niet te groot mag zijn. Daarnaast mag het ook niet te hard spannen, waardoor het ook niet te klein mag zijn. Bij jongeren kan de polsomtrek sterk varieëren, maar de Petwach moet toch bij een zo groot mogelijk deel van de populatie een omtrek hebben die comfoortabel is voor die gebruiker (niet te groot en niet te klein).   Dit betekend dat de afmeting van het bandje moet ontwerpen worden voor aanpasbaarheid. <b>(Design for adjustability)</b> Bij horloges kan de afmeting worden ingesteld om de halve centimeter.
+De Petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een gewoon horloge. De petwatch moet goed aanspannen bij de gebruiker, dit betekent dat de omtrek niet te groot mag zijn. Daarnaast mag het ook niet te hard spannen, waardoor het ook niet te klein mag zijn. Bij jongeren kan de polsomtrek sterk variëren, maar de Petwach moet toch bij een zo groot mogelijk deel van de populatie een omtrek hebben die comfortabel is voor die gebruiker (niet te groot en niet te klein).   Dit betekent dat de afmeting van het bandje moet ontwerpen worden voor aanpasbaarheid. <b>(Design for adjustability)</b> Bij horloges kan de afmeting worden ingesteld om de halve centimeter.
 </br></br>
 We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierdoor wordt het gewogen gemiddelde berekekend  van P5 en P95
 </br></br>
@@ -42,8 +42,8 @@ We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierd
 
 
 ### Halsband
-Voor de halsband van de hond worden de berekeningen gemaakt op basis van de waarden die weergegevn zijn op de site van Tarigs[^2]
-Op deze site zijn de uiterste nek afmetingen weergegeven voor verschilende honden rassen.
+Voor de halsband van de hond worden de berekeningen gemaakt op basis van de waarden die weergegeven zijn op de site van Tarigs[^2]
+Op deze site zijn de uiterste nek afmetingen weergegeven voor verschillende honden rassen.
 
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/50035716-3f33-48f1-affb-17ed6c291cd3" width="900" />
@@ -54,18 +54,18 @@ Op deze site zijn de uiterste nek afmetingen weergegeven voor verschilende honde
 Door te werken met de middelste waarde van elk interval kan het gemiddelde, de mediaan en de standaard variatie berekend worden.</br>
 Het berekend gemiddelde is hier 45,477 cm, de mediaan is 45 en de standaard variatie is 10,76.</br></br>
 
-Net zoals bij de armband moet de halsband perfect vastzittten rond de nek van de hond. Dit betekend dat het opnieuw niet te groot of te klein zijn. Daarom wordt er hier opnieuw gekozen om te ontwerpen op aanpasbaarheid <b>(Design for adjustability)</b>. Door het berekenen van de P5 en P10 percentielen kan er bepaald worden tussen welke grenzen de omtrek moet kunnen varieëren zodat de halsband op 90% van de honden kan worden gebruikt.
+Net zoals bij de armband moet de halsband perfect vastzitten rond de nek van de hond. Dit betekent dat het opnieuw niet te groot of te klein zijn. Daarom wordt er hier opnieuw gekozen om te ontwerpen op aanpasbaarheid <b>(Design for adjustability)</b>. Door het berekenen van de P5 en P10 percentielen kan er bepaald worden tussen welke grenzen de omtrek moet kunnen variëren, zodat de halsband op 90% van de honden kan worden gebruikt.
 </br></br>
 <b>P5:</b>gem- 1,85 *SD =45,477-1,85 *10,76= 25,57 cm -> 25,5cm</br>
 <b>P95:</b>gem + 1,65 *SD= 63,21 -> 63,5 cm
 </br></br>
 Na het berekenen van de uiterste afmetingen, valt al snel op dat er een zeer groot vrschil is tussen de 2 waarden.
-Dit verschil is groter dan 30 cm. Als we een halsband willen ontwerpen die kan varieëren over zo'n grote afstand, kan dit voor problemen zorgen bij kleinere honden waarbij er een groot deel materiaal teveel is. Daarom wordt er besloten naast het ontwerpen voor aanpasbaarheid ook ontwerpen voor verschillende types <b>(Design for More types)</b>. Deze aanpak wordt ook moomenteel gegbruikt bij honden. Door aanpassen en verschillende types te combineren, moeten er nu verschillende intervallen bepaald worden voor elk type.
-Het logischte lijkt om het volledig interval te delen door 3 en zo elke halsbang een gelijk interval te geven. Maar heel vaak wordt bij halsbanden de laagste intervallen ook kleiner gemaakt dan de hogere. Daarom hebben we deze intervallen besloten:
+Dit verschil is groter dan 30 cm. Als we een halsband willen ontwerpen die kan variëren over zo'n grote afstand, kan dit voor problemen zorgen bij kleinere honden waarbij er een groot deel materiaal teveel is. Daarom wordt er besloten naast het ontwerpen voor aanpasbaarheid ook ontwerpen voor verschillende types <b>(Design for More types)</b>. Deze aanpak wordt ook momenteel gebruikt bij honden. Door aanpassen en verschillende types te combineren, moeten er nu verschillende intervallen bepaald worden voor elk type.
+Het logischte lijkt om het volledig interval te delen door 3 en zo elke halsband een gelijk interval te geven. Maar heel vaak wordt bij halsbanden de laagste intervallen ook kleiner gemaakt dan de hogere. Daarom hebben we deze intervallen besloten:
 <ol><li>25,5 - 33</li><li>33-45</li><li>45-63,5</li></ol>
 
 ### Conclusie berekeningen
-Met de berekeningen zijn de verschillende maten van zowel de Petwatch als de halsband bepaald. ALhoewel we bij beide gaan ontwerpen op aanpasbaarheid, moeten we toch ook bij de halsband ontwerpen voor verschillende types.
+Met de berekeningen zijn de verschillende maten van zowel de Petwatch als de halsband bepaald. Alhoewel we bij beide gaan ontwerpen op aanpasbaarheid, moeten we toch ook bij de halsband ontwerpen voor verschillende types.
 Hoe De halsband eenvoudig aangepast kan bij een bepaald type wordt bepaald in de gebruikstesten. 
 
 ## Testen
@@ -83,7 +83,7 @@ Van alle drie de sluitingsmethode wordt nu een prototype gemaakt. De maten van d
 </p></br></br>
 
 
-Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen op hun hond. Vooraf en achteraf de test worden er enkel vragen gesteld over welk prototype ze het veiligst vinden,eenvoudigst aan te doen, eenvoudigst aan te spannen en het eenvoudigst af te doen. Deze zaken hangen samen met de programma van eisen die er opgesteld zijn voor de halsband (dit door middel van het overlopen can customer journey). 
+Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen op hun hond. Vooraf en achteraf de test worden er enkel vragen gesteld over welk prototype ze het veiligst vinden, eenvoudigst aan te doen, eenvoudigst aan te spannen en het eenvoudigst af te doen. Deze zaken hangen samen met het programma van eisen die er opgesteld zijn voor de halsband (dit door middel van het overlopen van customer journey). 
 </br></br>
 
 <p align="center">
