@@ -54,18 +54,21 @@ geven, gaan ouders met meer vertrouwen “Ja!” kunnen zeggen op de vraag: “M
 eigen huisdier?”
 <br><br>
 
-## Methodologie (aanpassen)
-<p>De methodologie die wordt gebruikt in het eerste semester sluit het best aan bij het
-principe van de double diamond. Hierbij kan de eerste diamant de discovery fase
+
+## Methodologie
+<p>De methodologie die wordt gebruikt dit jaar sluit het best aan bij het
+principe van de Tripple diamond. Hierbij kan de eerste diamant de discovery fase
 voorstellen waarbij er op zoek wordt gegaan naar een concept voor het probleem.
 De tweede diamant is dan de definition fase waarin verschillende deelaspecten van
-het proces worden uitgewerkt.</p>
+het proces worden uitgewerkt. De derde diamant is dan ht tweede semester waar de oplossing wordt geoprimaliseerd via verschillende iteraties. </p>
 
 <p>
   
-  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/07b613be-001d-4d8e-b084-3d75a2afb5a1"  width="90%"/></br>
-  <em>Figuur 2: Double diamond</em>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/de3b80d2-5cb9-4e08-ba39-3838fb2650bf"  width="90%"/></br>
+  <em>Figuur 2: Tripple diamond</em>
 </p>
+
+
 
 
 
@@ -85,8 +88,14 @@ In wave 1 wordt de geometrie van de Petwatch deels getest. Dit gebeurt door een 
 
 Bij wave 2 wordt de agenda getest die de jongeren elk moment van de dag kan raadplegen om zo zijn/haar dag in te plannen. Dit gebeurt ook met een focusgroep met 10 leden. Het resultaat is een duidelijk vast gestelde lay-out voor de agenda. </p>
 
+#### Develop 1: body
+In deze fase wordt het fysieke gedeelte van de petwatch verder uitgewerkt. Door middel van antropometrische analyse worden de maten bepaald van de petwatch en de halsband. Daarnaast worden vrschillende halsbanden getest op sluitingsmethode met prototypes. Hiervoor wordt er eerst een customer journey opgesteld van de halsband waaruit de PVE voor de halsband worden bepaald.
 
- <br>
+#### Develop 2: mind
+In deze fase wordt de interactie verbeterd tussen de gebruiker en de Petwatch. Het Protopie prototype wordt uitgewerkt aan de hand van een vooropgestelde doelen en benchmarkt onderzoek. Vooraleer het prototype wordt getest met gebruikers, wordt het prototype getest door 2 experts. Er vinden hier 2 gebruikerstesten plaats: een groep die al een hond heeft (n=2), en een groep die nog geen hond heeft(n=3).
+
+#### Develop 3: senses
+Deze fase start met een Hierarchische taakanalyse waaruit we proberen te bepalen op welke plaatsen er meldingen moeten worden verstuurd naar de gebruiker en wat ze hierna moeten doen. Er worden hier ook verschilllende mogelijkheden van meldingen bekeken om te zien wat het meest de aandacht trekt. In deze fase vind de laatste gebruikerstest plaats met het geoptimaliseerd prototype uit develop 2.
  
 ## Discovery
 Als eerste wordt het probleem zelf onderzocht. Dit geberurd door het probleem opnieuw te definiëren en mogelijke oplossingen te zoeken op dit probleem. Het probleem wordt onderzocht met behulp van templates. In dit project wordt er gebruik gemaakt van de innovatrix, WWWWWH model en een persona.
