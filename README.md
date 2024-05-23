@@ -206,12 +206,13 @@ België. Met deze informatie kan Petwatch met zelfzekerheid ontworpen worden.</p
 
 <br></br></br>
 
-## Fysiek
+# Fysiek
 Voor de rest van het verslag is het interessanterom fysiek en difitaal op te splitsen. Voor het ontwerpen van beide zaken zijn er verschillende stappen ondernomen die voor een groot deel los staan van elkaar. Daarom wordt er eerst begonnen met het fysieke gedeelte.
 
-### Semester 1: Definition wave 1
+## Semester 1: Definition wave 1
 
-<p>De eerste wave aan prototypes uit de defenition fasedient om het uiterlijk van het product te bepalen.
+### Materiaal en Methode
+<p>De eerste wave aan prototypes uit de defenition fase dient om het uiterlijk van het product te bepalen.
 Aangezien de Petwatch een soort smartwatch is waar de persoonlijke digitale versie van je
 huisdier in leeft, bestaat het product zelf uit een armband en een scherm. Het materiaal
 van deze armband en de vorm van het scherm moet nog gekozen worden. Dit zijn eerste beslissingen die moeten gemaakt worden rond de fysiek. Hierdoor hebben we de mening nodig van de
@@ -223,7 +224,7 @@ meisjes deelnemen tussen de 11-15 jaar. </p>
   <em>Figuur 4: Prototypes wave 1 (schermvorm + materiaal)</em> 
 </p></br>
 
- #### Focusgroep resultaten
+ ### Focusgroep resultaten
  <p><em>Tabel 1: Resultaten test schermvorm</em>
  
 | <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/db23428c-565a-44d0-b2cc-b1314c5f3407" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/dc6a6e82-29ca-4c0f-8f07-84b6f37d55f6" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/17e2b8c7-9c4f-480d-8220-d41db766479d" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/5d56410f-d401-46cd-b040-fc71ed3dea4a" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/c86a3810-207c-427b-b7bd-484b0428ab33" width="60%" />|<img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/87e1a639-c357-48c3-8f78-3757bbff7d9b" width="60%" />|
@@ -261,7 +262,7 @@ want ze waren aan het overleggen welke materialen het minst vuil worden.
 stevige gordelband zijn die er hip uitziet.</p> 
 
 
-#### Conclusie
+### Conclusie
 <p>Via de resultaten van dit onderzoek is er een collectie ontwikkeld.</p>
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/16f7113e-ee86-4ce3-9870-752e37fd445c"  />
@@ -270,7 +271,119 @@ stevige gordelband zijn die er hip uitziet.</p>
 </p></br>
 Na het herbekijken van deze wave, zien we dat deze wave niet perfect was. De vraag die we ons stelden aan het begin van deze wave, hoe de Petwatch er moet uitzien. Was niet het belangrijkste dat we in he eerste semester moesten testen. Daarnaast verliep de test en conclusie ook niet perfect. Door niet genoeg door te vragen moet de ontwerpbeslissing gemaakt worden op basis van meeste stemmen, wat niet correct is.
 
-### Semester 2: Develop 3
+## Semester 2: Halsband
+Op het einde van semester 1 ontvingen we de feedback dat er moet nagedacht worden over extra zaken die aan de Petwatch kunnen toegevoegd worden die het product meer fysiek maken. Doordat de keuze van "wat" snel moest gemaakt worden om ons te kunnen focussen op het maken, hebben wij deze keuze zelf genomen, maar achteraf tijdens develop 1 bevestiging gevraagd aan onze doelgroep. Het idee is om een halsband te maken die de locatie toont van de hond op elk moment, zo kan het baasje altijd zijn/haar hond terugvinden als die weg loopt. Later is hier ook een speaker aan toegevoegd zodat het baasje de hond ook thuis of op andere plaatsen kan terugvinden als de GPS neit 100 procent nauwkeurig is.
+
+## Semester 2: Develop 1
+### Doelstellingen
+In het tweede semester zijn we direct begonnen met het bepalen van de afmetingen van de Petwatch en de halsband. Deze afmetingen worden bepaald door middel van antropometrische tabbellen en onderzoeken. Naast het bepalen van de afmetingn wordt de halsband verder uitgewerkt. In deze fase wordt er gecontroleerd of het idee goed is en op welke manier  de halband kan gesloten/geopend worden. Als het zeker is dat de jongeren akkoord gaan met de halsband, kan er na deze test begonnen worden met het effectief maken van de halsband. 
+
+### Materiaal en methoden
+### Berekeningen
+Als eerste worden de afmetingen bepaald  van de Petwatch en de halsband. 
+
+
+### Petwatch
+Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongeren, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
+</br>
+Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
+</br>
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f0d53432-4879-4b65-8f56-847c036acd92" width="900" />
+  </br>
+  <em>Figuur 1: Afmetingen Petwatch</em> 
+</p></br></br>
+
+Enkel voor afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevonden (National Library of Medicine[^9]).
+
+
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/2898a232-6cec-491d-bca6-1ad82880c239" width="900" />
+  </br>
+  <em>Figuur 2: Afmetingen polsomtrek</em>    
+</br></br>
+
+De Petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een gewoon horloge. De petwatch moet goed aanspannen bij de gebruiker, dit betekent dat de omtrek niet te groot mag zijn. Daarnaast mag het ook niet te hard spannen, waardoor het ook niet te klein mag zijn. Bij jongeren kan de polsomtrek sterk variëren, maar de Petwach moet toch bij een zo groot mogelijk deel van de populatie een omtrek hebben die comfortabel is voor die gebruiker (niet te groot en niet te klein).   Dit betekent dat de afmeting van het bandje moet ontwerpen worden voor aanpasbaarheid. <b>(Design for adjustability)</b> Bij horloges kan de afmeting worden ingesteld om de halve centimeter.
+</br></br>
+We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierdoor wordt het gewogen gemiddelde berekekend  van P5 en P95
+</br></br>
+<b>P5:</b> (168*13.21+126*13.59+139*13.98+153*14.39+223*14.76+136*12.98+165*13.38+167*13.69+150*13.95+379*14.12)/(168+126+139+153+223+136+165+167+150+379)= 13,88 -> 13,5 cm
+</br>
+<b>P95:</b>(168*16.34+126*16.76+139*17.20+153*17.68+223*18.15+136*16.04+165*16.42+167*16.69+150*13.88+379*16.96)/(168+126+139+153+223+136+165+167+150+379)=16,91 -> 17
+</br></br>
+
+
+
+### Halsband
+Voor de halsband van de hond worden de berekeningen gemaakt op basis van de waarden die weergegeven zijn op de site van Tarigs[^10]
+Op deze site zijn de uiterste nek afmetingen weergegeven voor verschillende honden rassen.
+
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/50035716-3f33-48f1-affb-17ed6c291cd3" width="900" />
+  </br>
+  <em>Figuur 3: Nek afmetingen hondenrassen</em> 
+</p></br></br>
+
+Het berekend gemiddelde is hier 45,477 cm, de mediaan is 45 en de standaard variatie is 10,76.</br></br>
+
+Net zoals bij de armband moet de halsband perfect vastzitten rond de nek van de hond. Dit betekent dat het opnieuw niet te groot of te klein zijn. Daarom wordt er hier opnieuw gekozen om te ontwerpen op aanpasbaarheid <b>(Design for adjustability)</b>. Door het berekenen van de P5 en P95 percentielen kan er bepaald worden tussen welke grenzen de omtrek moet kunnen variëren, zodat de halsband op 90% van de honden kan worden gebruikt.
+</br></br>
+<b>P5:</b>gem- 1,85 *SD =45,477-1,85 *10,76= 25,57 cm -> 25,5cm</br>
+<b>P95:</b>gem + 1,65 *SD= 63,21 -> 63,5 cm
+</br></br>
+Na het berekenen van de uiterste afmetingen, valt al snel op dat er een zeer groot vrschil is tussen de 2 waarden.
+Dit verschil is groter dan 30 cm. Als we een halsband willen ontwerpen die kan variëren over zo'n grote afstand, kan dit voor problemen zorgen bij kleinere honden waarbij er een groot deel materiaal teveel is. Daarom wordt er besloten naast het ontwerpen voor aanpasbaarheid ook ontwerpen voor verschillende types <b>(Design for More types)</b>. Deze aanpak wordt ook momenteel gebruikt bij honden. Door aanpassen en verschillende types te combineren, moeten er nu verschillende intervallen bepaald worden voor elk type.
+Het logischte lijkt om het volledig interval te delen door 3 en zo elke halsband een gelijk interval te geven. Maar heel vaak wordt bij halsbanden de laagste intervallen ook kleiner gemaakt dan de hogere. Daarom hebben we deze intervallen besloten:
+<ol><li>25,5 - 33</li><li>33-45</li><li>45-63,5</li></ol>
+
+### Conclusie berekeningen
+Met de berekeningen zijn de verschillende maten van zowel de Petwatch als de halsband bepaald. Alhoewel we bij beide gaan ontwerpen op aanpasbaarheid, moeten we toch ook bij de halsband ontwerpen voor verschillende types.
+Hoe De halsband eenvoudig aangepast kan bij een bepaald type wordt bepaald in de gebruikstesten. 
+
+## Testen
+Voordat de testen kunnen beginnen wordt er online onderzocht welke sluitingsmethodes er worden gebruikt bij halsbanden voor honden. Uit dit onderzoek komen er 3 methodes naar boven.
+<ol><li>gespsluiting</li><li>tanggespsluiting</li><li>velcro</li></ol>
+</br></br>
+Van alle drie de sluitingsmethode wordt nu een prototype gemaakt. De maten van de prototypes zijn al bepaald tijdens de berekeningen. 
+</br></br>
+<p>
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/a6eaeb27-7c64-4a4e-8b12-849e0ba176cd" width="270"/>
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fe4b9255-5893-46b6-9e3f-60f1f4ee9477" width="270" />
+   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/3682a365-0cca-4cca-8a67-9cbbd59b3fb8" width="270" />
+  </br>
+  <em>Figuur 4: gespsluiting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 5: tanggespsluiting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 6: velcro</em> 
+</p></br></br>
+
+
+Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen op hun hond. Vooraf en achteraf de test worden er enkel vragen gesteld over welk prototype ze het veiligst vinden, eenvoudigst aan te doen, eenvoudigst aan te spannen en het eenvoudigst af te doen. Deze zaken hangen samen met het programma van eisen die er opgesteld zijn voor de halsband (dit door middel van het overlopen van customer journey). 
+</br></br>
+
+<p align="center">
+  <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/97ba3ffa-5ef4-42b6-98c5-d1ba1d0bccf0" width="300" />
+  </br>
+  <em>Figuur 7: Test halsband</em> </br>
+  <em>Op deze foto is te zien hoe een jongere de halsband uittest op de hond.</em>
+</p>
+
+
+<b>PVE:</b></br>
+<ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsbnd mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
+Maar dit is allemaal nog duidelijker beschreven in het <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EXkBn1K9vZJLsavOglMwwLgBtTFO7kHu5ZGwvpHX19ud0g?e=fJH8AY">protocol</a>.
+
+### Resultaten
+De resultaten zijn volledig uitgeschreven in <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2">Report</a>.
+</br></br>
+
+De testen tonen aan dat geen enkele van de halsbanden perfect is, elke halsband heeft 1 groot probleem:
+<ul><li>De halsband met gespsluiting kan zeer eenvoudig aange- en afgedaan worden ( 3-4 seconden), maar het aanpassen van de halsband is niet gemakkelijk.</li><li>De halsband met tanggespsluiting kan gemakkelijk ingesteld worden, maar heeft problemen bij he snel aan en af doen. Dit vooral bij kleinere honden waarbij de vacht voor de kleine sluitingsgaten kan zitten.</li><li>De halsband met velcro heeft geen veilig gevoel/kan loskomen tijdens het wandelen.</li></ul>
+</br></br>
+Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
+</br>
+De jongeren gaan akkoord met het idee van de halsband. Voordat er over het echte doel wordt besproken van de halsband beginnen de jongeren over het terugvinden van je hond. Als er andere zaken worden voorgesteld: zien wanneer je hond eet en drinkt, het beluisteren van je hond. Dan zijn ze daar minder enthousiast over dan het idee van de hond terugvinden als hij weg is.
+
+### Conclusie
+Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
+
+De halsband met de tanggespsluiting is zeker niet interessant om dat deze veel te moeilijk is te gebruiken is en hierdoor te lang duurt. We kunnen niets aanpassen zodat het sluiten versnelt. De halsband met velcro kan veiliger worden gemaakt met een extra klepje/ rekker die de verbinding  beter sluit, maar hierbij wordt de tijd om aan te doen zeer sterk verhoogt. 
 
 
 ### Wave 2
