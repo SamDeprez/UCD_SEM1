@@ -89,8 +89,9 @@ Bij wave 2 wordt de agenda getest die de jongeren elk moment van de dag kan raad
  <br>
  
 ## Discovery
+Als eerste wordt het probleem zelf onderzocht. Dit geberurd door het probleem opnieuw te definiëren en mogelijke oplossingen te zoeken op dit probleem. Het probleem wordt onderzocht met behulp van templates. In dit project wordt er gebruik gemaakt van de innovatrix, WWWWWH model en een persona.
 ### Literature review
-Als eerste stap is er een literatuuronderzoek gedaan. Dit literature review dient om inzicht
+Uit het probleemonderzoek komt "huisdieren" als mogelijke oplossing. Deze oplossing wordt verder onderzocht met een literature review.. Dit literature review dient om inzicht
 te krijgen welke effecten huisdieren hebben op opgroeiende kinderen en jongeren.
 Hier werd er gevonden dat onderzoek heeft aangetoond dat kinderen die opgroeiden in
 een huishouden met honden later als volwassenen meer sociaal vaardig zijn[^4]. Er wordt
@@ -152,7 +153,7 @@ om zelf voor een dier te zorgen. Dit dient ook als een geruststelling voor de ou
 huisdieren zelf genieten natuurlijk ook van deze voordelen. Zij krijgen op maat gemaakte
 zorg en een forever home.</p></br>
 
-### Focus group
+### Focus group (N = 13)
 <p>Vervolgens is er een focusgroep gedaan die dient om inzicht te krijgen welke attitude
 kinderen van 11-15 jaar hebben tegenover huisdieren en welke positieve of negatieve
 effecten zij zelf ervaren. Zo kon er achterhaald worden of de gekozen doelgroep wel
@@ -202,17 +203,20 @@ dat ze door dit concept een grotere kans hebben om JA van hun ouders te krijgen.
 Petwatch. Er moet nog een keuze worden gemaakt uit de verschillende soorten dieren
 waarvoor dit concept mogelijk is. De 2 populairste dieren dat de focusgroep al heeft en/of
 wilt zijn katten en honden. Dit zijn dan ook de 2 meest voorkomende de huisdieren in
-België. Met deze informatie kan Petwatch met zelfzekerheid ontworpen worden.</p>
+België. Alhoewel het interessant is om het product te laten werken voor beide huisdieren, is het project <b>nature</b>, play & tech. Katten zijn wel leuke huisdieren maar spreken minder aan bij de nature kant van het project. Katten zetten de gebruiker niet aan om naar buiten te gaan in de natuur. Daarom wordt er besloten enkel verder te werken mt honden.</p>
 
 <br></br></br>
+## Tijdelijk concept
+Na de verschillende testen en onderzoeken wordt nu een tijdelijk concept opgesteld. Zoals eerder vermeld is het idee om een product te maken met een digitaal huisdier dat jongeren helpt bij het onderhouden van een echt huisdier. Er zijn verschillende mogelijkheden om dit te realiseren, daarom wordt er eerst en conceptselectie uitgevoerd aan de hand van een morfologische kaart en een decision matrix.
+
 
 # Fysiek
-Voor de rest van het verslag is het interessanterom fysiek en difitaal op te splitsen. Voor het ontwerpen van beide zaken zijn er verschillende stappen ondernomen die voor een groot deel los staan van elkaar. Daarom wordt er eerst begonnen met het fysieke gedeelte.
+Voor de rest van het verslag is het interessanterom fysiek en digitaal op te splitsen. Voor het ontwerpen van beide zaken zijn er verschillende stappen ondernomen die voor een groot deel los staan van elkaar. Daarom wordt er eerst begonnen met het fysieke gedeelte.
 
 ## Semester 1: Definition wave 1
 
-### Materiaal en Methode
-<p>De eerste wave aan prototypes uit de defenition fase dient om het uiterlijk van het product te bepalen.
+### Focusgroep (N=10)
+<p>De eerste wave aan prototypes uit de definition fase dient om het uiterlijk van het product te bepalen.
 Aangezien de Petwatch een soort smartwatch is waar de persoonlijke digitale versie van je
 huisdier in leeft, bestaat het product zelf uit een armband en een scherm. Het materiaal
 van deze armband en de vorm van het scherm moet nog gekozen worden. Dit zijn eerste beslissingen die moeten gemaakt worden rond de fysiek. Hierdoor hebben we de mening nodig van de
@@ -339,7 +343,7 @@ Het logischte lijkt om het volledig interval te delen door 3 en zo elke halsband
 Met de berekeningen zijn de verschillende maten van zowel de Petwatch als de halsband bepaald. Alhoewel we bij beide gaan ontwerpen op aanpasbaarheid, moeten we toch ook bij de halsband ontwerpen voor verschillende types.
 Hoe De halsband eenvoudig aangepast kan bij een bepaald type wordt bepaald in de gebruikstesten. 
 
-## Gebruikerstesten
+## Gebruikerstesten (N= 4)
 Voordat de testen kunnen beginnen wordt er online onderzocht welke sluitingsmethodes er worden gebruikt bij halsbanden voor honden. Uit dit onderzoek komen er 3 methodes naar boven.
 <ol><li>gespsluiting</li><li>tanggespsluiting</li><li>velcro</li></ol>
 </br></br>
