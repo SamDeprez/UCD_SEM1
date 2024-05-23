@@ -409,17 +409,17 @@ De grote vorm van het bot is nodig zodat alle electronica in het bot past. Met k
 
 
 # Digitaal 
+Maar het grootste en belangrijkste deel van ht product is het digitale deel op de Petwatch zelf. Hieraan is ook in beide semesters gewerkt, maar de testen omtrent digitaal die in het eerste semester zijn uitgevoerd waren minder belangrijk dan voordien verwacht. Deze testen bepaalden de vorm van de agenda en zijn hieronder kort uitgelegd, maar het belangrijkste gedeelte vind plaats in semester 2.
 
-### Wave 2
+## Semester 1: Wave 2
 
-<p>De tweede wave aan prototypen richt zich meer op het digitale aspect van de Petwatch. Het eindresultaat moet een efficiënt te gebruiken smartwatch zijn. Het is zeer belangrijk dat de doelgroep de taken voor het onderhouden van een huisdier elke dag en op het juiste moment uitvoert. Om dit te realiseren is er een eenvoudige structurele weergave nodig van deze taken doorheen de dag. De beste manier van dit te doen is door het werken met een soort van agenda/schema. Er zijn verschillende mogelijkheden hoe deze agenda er kan uitzien. Daarbij moet er bij elke mogelijkheid rekening worden gehouden dat het te zien zal zijn op een klein scherm van een smartwatch. Om de meest duidelijke lay-out te bepalen op de Petwatch, moet er onderzoek worden uitgevoerd. Dit onderzoek gebeurt door een focusgroep met 10 personen(n=10) op 22/12/2023. </p>
+<p>Het is belangrijk dat de doelgroep de taken voor het onderhouden van een huisdier elke dag en op het juiste moment uitvoert. Om dit te realiseren kan een eenvoudige structurele weergave helpen. De beste manier van dit te doen is door het werken met een soort van agenda/schema. Er zijn verschillende mogelijkheden hoe deze agenda er kan uitzien. Daarbij moet er bij elke mogelijkheid rekening worden gehouden dat het te zien zal zijn op een klein scherm van een smartwatch. Om de meest duidelijke lay-out te bepalen op de Petwatch, moet er onderzoek worden uitgevoerd. Dit onderzoek gebeurt door een focusgroep met 10 personen(n=10) op 22/12/2023. </p>
 
+### Materiaal en methoden
 
-
-<p>Als voorbereiding voor het onderzoek worden er verschillende mogelijkheden voor de agenda opgesteld. Van elke mogelijkheid moet er dan ook een prototype van worden gemaakt. Doordat de prototypes snel en eenvoudig moeten zijn, wordt een papieren versie van de planning gemaakt. Er zijn drie verschillende prototypes: </p>
+<p>Als voorbereiding voor het onderzoek worden er verschillende mogelijkheden voor de agenda opgesteld. Er zijn drie verschillende prototypes: </p>
  
-<p>- <b>To-Do lijst per dag:</b> in deze planning ziet de jongere constant welke taken er die dag 
-moeten uitgevoerd worden (eten geven, gaan wandelen, een bad geven).</p>
+<p>- <b>To-Do lijst per dag</b>  (eten geven, gaan wandelen, een bad geven).</p>
 
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f7a5a3ea-2f9a-4533-a443-bcbf893268f9" />
@@ -427,10 +427,7 @@ moeten uitgevoerd worden (eten geven, gaan wandelen, een bad geven).</p>
   <em>Figuur 6: To-Do lijst per dag</em> 
 </p></br>
 
-<p>- <b>Time blocking + To-do lijst:</b>deze planning heeft de activiteiten en hobby’s van de 
-jongeren per dag (/week) weer, aan de zijkant van de agenda staan alle taken voor het 
-onderhouden van het huisdier in een To-Do lijst voor de dag. (To-Do lijst eenvoudig 
-bereikbaar door 1 maal te swipen) </p>
+<p>- <b>Time blocking + To-do lijst</b>) </p>
 
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/fbbc9fe4-f041-444c-b90e-49171adec41d" />
@@ -438,17 +435,13 @@ bereikbaar door 1 maal te swipen) </p>
   <em>Figuur 7: To-Do lijst + time blocking </em> 
 </p></br>
 
-<p>- <b>To-Do lijst in time blocking:</b> in deze planning is de To-Do lijst die eerst aan de 
-zijkant stond verwerkt in het uurrooster op het juiste moment.   </p>
+<p>- <b>To-Do lijst in time blocking</b> </p>
 
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/072cf201-e521-46c5-99e1-1469897cd294" />
   </br>
   <em>Figuur 8: To-Do lijst in time blocking </em> 
 </p></br>
-
-<p>Alhoewel het testen van de agenda de jongere kan helpen met het gestructureerd verzorgen van zijn of haar huisdier, zijn er andere zaken van het digitale deel die belangrijker kunnen zijn dan de agenda. Bijvoorbeeld de interactie met het digitale huisdier die aangeeft wanneer de jongere een bepaalde actie moet uitvoeren. Deze zaken worden dan vooral in tweede semester onderzocht. Dit is het gevolg van het feit dat, met de beschikbare middelen en de tijd, de lay-out als weinig eenvoudig te testen is. </p>
-
 
 <p>Naast de agenda’s wordt er een uitgesneden houten vorm van een horloge gemaakt. Tijdens de test worden de planningen bekeken voor de vorm van het horloge. Dit maakt duidelijk dat wanneer de agenda in het eindproduct wordt gebruikt, constant maar een klein deel ervan zichtbaar is op het scherm. Acties zoals swipen in- en uitzoomen worden tijdens de test vervangen door het verplaatsen van het horloge ten opzichte van de agenda. </p>
 <p>
@@ -457,17 +450,6 @@ zijkant stond verwerkt in het uurrooster op het juiste moment.   </p>
   </br>
   <em>Figuur 9: uitgesneden horloge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figuur 10: focusgroep wave 2</em> 
 </p></br>
-
-
-
-
-
-
-
-
-
-
-
 
 #### Focus groep resultaten
 <p></p>Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de agenda's.</p>
