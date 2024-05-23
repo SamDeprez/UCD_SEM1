@@ -10,7 +10,7 @@ Smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huisdie
 Datum: 19/02/2024
 <br>
 
-## Samenvatting
+## Samenvatting ( render aanpassen)
 <p>Veel jongeren hebben te maken met eenzaamheid. Ze gaan door een periode waar ze
 liever alleen op hun kamer zitten dan in contact te komen met hun ouders, maar zijn te
 jong om zelfstandig buiten op pad te gaan. Daarnaast zijn ze op een leeftijd gekomen waar
@@ -204,18 +204,17 @@ waarvoor dit concept mogelijk is. De 2 populairste dieren dat de focusgroep al h
 wilt zijn katten en honden. Dit zijn dan ook de 2 meest voorkomende de huisdieren in
 België. Met deze informatie kan Petwatch met zelfzekerheid ontworpen worden.</p>
 
-<br>
+<br></br></br>
 
-## Definition
-<p>Voor de verdere uitwerking van de Petwatch zijn er 2 waves aan prototypes gemaakt met
-elk een bijpassende gebruikerstest.</p></br>
+## Fysiek
+Voor de rest van het verslag is het interessanterom fysiek en difitaal op te splitsen. Voor het ontwerpen van beide zaken zijn er verschillende stappen ondernomen die voor een groot deel los staan van elkaar. Daarom wordt er eerst begonnen met het fysieke gedeelte.
 
-### Wave 1
-<p>De eerste wave aan prototypes dient om het uiterlijk van het product te bepalen.
+### Semester 1: Definition wave 1
+
+<p>De eerste wave aan prototypes uit de defenition fasedient om het uiterlijk van het product te bepalen.
 Aangezien de Petwatch een soort smartwatch is waar de persoonlijke digitale versie van je
 huisdier in leeft, bestaat het product zelf uit een armband en een scherm. Het materiaal
-van deze armband en de vorm van het scherm moet nog gekozen worden. Dit zijn zeer
-belangrijke beslissingen en om deze keuze te maken, hebben we de mening nodig van de
+van deze armband en de vorm van het scherm moet nog gekozen worden. Dit zijn eerste beslissingen die moeten gemaakt worden rond de fysiek. Hierdoor hebben we de mening nodig van de
 doelgroep. Hiervoor is er een focusgroep georganiseerd op 22/12/2023 waarbij tien
 meisjes deelnemen tussen de 11-15 jaar. </p>
 
@@ -224,8 +223,6 @@ meisjes deelnemen tussen de 11-15 jaar. </p>
   <em>Figuur 4: Prototypes wave 1 (schermvorm + materiaal)</em> 
 </p></br>
 
-
-
  #### Focusgroep resultaten
  <p><em>Tabel 1: Resultaten test schermvorm</em>
  
@@ -233,15 +230,6 @@ meisjes deelnemen tussen de 11-15 jaar. </p>
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |3|6|1|0|0|0|
 </p>
-
-
-
-
-
-
-
-
-
 
 <p>Als voorbereiding op de focusgroep moeten er verschillende soorten materialen
 uitgekozen worden die als potentiële materiaalkeuze voor de armband dient. Die worden
@@ -259,10 +247,6 @@ ronde scherm.</p>
 <p>Door deze resultaten hebben we besloten dat het ontwerp van het scherm op basis zal zijn
 van een afgerond vierkant.</p>
 
-<p>De doelgroep gaf ook aan dat ze een knop op de zijkant willen om het digitale huisdier te
-activeren. Ook werd er een camera in het scherm voorgesteld om selfies te nemen met het
-huisdier. Deze zaken gaan zeker en vast overwogen worden in ons ontwerpproces.</p> 
-
 <p><em>Tabel 2: Resultaten test materiaal</em>
   
 |Leder|Kunststof|Jeans|Vilt|Textiel|Gordel|Rekker|Gevlochten|
@@ -276,21 +260,6 @@ want ze waren aan het overleggen welke materialen het minst vuil worden.
 <p>De ontwerpkeuze van materiaal voor de band is dan ook snel gemaakt. Het zal een
 stevige gordelband zijn die er hip uitziet.</p> 
 
-<p><em>Tabel 3: Resultaten test kleur</em>
-  
-|   Rood   |Geel|Blauw|Groen|Oranje|Paars|Zwart|Wit|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2|0|3|3|0|1|1|0|</p>
-
-<p>Bij de keuze van kleuren is er een grote verdeeldheid. Dit was ook te verwachten doordat
-dit zeer subjectief is. Dit was ook de stap in de workshop waar de doelgroep het meest tijd
-voor nodig had.</p>
-
-<p>Hier is de ontwerpkeuze wat minder vanzelfsprekend. Doordat de vorige keuzes zo
-eenduidig waren, kunnen er hier meerdere kleuren worden gekozen. Hiervoor zouden we
-blauw, groen, rood en zwart kiezen. Als conclusie kunnen we besluiten dat er een collectie
-zal uitgebracht worden van vier smartwatches met een zeer afgerond scherm in vier
-verschillende kleuren namelijk blauw, groen, rood en zwart.</p></br>
 
 #### Conclusie
 <p>Via de resultaten van dit onderzoek is er een collectie ontwikkeld.</p>
@@ -299,6 +268,9 @@ verschillende kleuren namelijk blauw, groen, rood en zwart.</p></br>
   </br>
   <em>Figuur 5: conclusie wave 1 </em> 
 </p></br>
+Na het herbekijken van deze wave, zien we dat deze wave niet perfect was. De vraag die we ons stelden aan het begin van deze wave, hoe de Petwatch er moet uitzien. Was niet het belangrijkste dat we in he eerste semester moesten testen. Daarnaast verliep de test en conclusie ook niet perfect. Door niet genoeg door te vragen moet de ontwerpbeslissing gemaakt worden op basis van meeste stemmen, wat niet correct is.
+
+### Semester 2: Develop 3
 
 
 ### Wave 2
