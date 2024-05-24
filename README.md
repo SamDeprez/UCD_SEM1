@@ -10,7 +10,7 @@ De smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huis
 Datum: 19/02/2024
 <br>
 
-## Samenvatting ( render aanpassen)
+## Samenvatting 
 <p>Veel jongeren hebben te maken met eenzaamheid. Ze gaan door een periode waar ze
 liever alleen op hun kamer zitten dan in contact te komen met hun ouders, maar zijn te
 jong om zelfstandig buiten op pad te gaan. Daarnaast zijn ze op een leeftijd gekomen waar
@@ -21,7 +21,7 @@ Dit wordt allemaal onderzocht in het eerste semester door literatuurstudies en f
  De bedachte oplossing hiervoor is de Petwatch. Dit is een soort smartwatch
 die jongeren helpt met het onderhouden van hun eigen hond. Dit horloge
 zorgt er ook voor dat de ouders zeker zijn dat hun kind goed voor een huisdier kan zorgen.
-Natuurlijk moet deze oplossing eerst ontworpen worden. Dit gebeurd met verschillende gebruikerstesten doorheen de 2 semesters in verschillende deelopdrachten. 
+Natuurlijk moet deze oplossing eerst ontworpen worden. Dit gebeurt met verschillende gebruikerstesten doorheen de 2 semesters in verschillende deelopdrachten. 
 Voordat de gebruikerstesten worden uitgevoerd worden er vooraf prototypes gemaakt op basis van onderzoeken rond die deelopdracht  </p> 
 
 <p>
@@ -41,7 +41,7 @@ gebeuren aan de hand van een slim product. Deze design
 challenge richt zich op het raakvlak tussen natuur, spel en technologie.
 Na het krijgen van de opdracht was het direct duidelijk rond welk thema er gewerkt zou
 worden, namelijk huisdieren. Het is de speelse vriend van bijna ieder kind. Zeker tijdens de
-pubertijd kampen veel jongeren met eenzaamheid en zouden ze wel een trouwe vriend
+puberteid kampen veel jongeren met eenzaamheid en zouden ze wel een trouwe vriend
 kunnen gebruiken[^3]. Door veranderingen in hun lichaam en denkwijze voelen veel jongeren
 zich alleen en uitgesloten. Tieners hebben op deze leeftijd het liefst wat meer afstand van
 hun ouders, maar zijn nog te jong om zelfstandig op pad te gaan met vrienden.
@@ -51,7 +51,7 @@ omgevingen toe te passen. Ze werken aan hun eigen onafhankelijkheid.”(Parentin
 Montana 2021).[^8] Als de jongere zelf vindt dat hij of zij de verantwoordelijkheid van een
 huisdier aankan, kan dit voor problemen zorgen als de ouders er anders over denken.
 Het doel van het concept is een oplossing te geven voor beide problemen. Door het
-verzorgen van een huisdier eenvoudiger te maken en ouders de controleer mogelijk te
+verzorgen van een huisdier eenvoudiger te maken en ouders de controleermogelijkheid te
 geven, gaan ouders met meer vertrouwen “Ja!” kunnen zeggen op de vraag: “Mag ik een
 eigen huisdier?”
 <br><br>
@@ -62,7 +62,7 @@ eigen huisdier?”
 principe van de Tripple diamond. Hierbij kan de eerste diamant de discovery fase
 voorstellen waarbij er op zoek wordt gegaan naar een concept voor het probleem.
 De tweede diamant is dan de definition fase waarin verschillende deelaspecten van
-het proces worden uitgewerkt. De derde diamant is dan ht tweede semester waar de oplossing wordt geoprimaliseerd via verschillende iteraties. </p>
+het proces worden uitgewerkt. De derde diamant is dan ht tweede semester waar de oplossing wordt geoptimaliseerd via verschillende iteraties. </p>
 
 <p>
   
@@ -75,12 +75,12 @@ het proces worden uitgewerkt. De derde diamant is dan ht tweede semester waar de
 
 
 #### Fase 1: (voor)onderzoek
-<p> Deze fase start meteen na het krijgen van de opdracht. Uit deze fase moeten er verschillende oplossingen worden gecreëerd op het probleem. Dit wordt gedaan door eerst het probleem te onderzoeken. Door het onderzoeken van het probleem kwam er al snel interesse om verder te werken met de connectie tussen jongeren en huisdieren. Dit betekent dat er ook onderzoek moet worden uitgevoerd op de nieuwe doelgroep en context. Dit wordt gedaan met ten eerste een Literature review (rond 21/10/2023) en een focusgroep met 13 jongeren (op 28/10/2023).  Deze testen tonen aan dat het wel degeleijk interessant is om in de context van huisdieren te ontwerpen. </p>
+<p> Deze fase start meteen na het krijgen van de opdracht. Uit deze fase moeten er verschillende oplossingen worden gecreëerd op het probleem. Dit wordt gedaan door eerst het probleem te onderzoeken. Door het onderzoeken van het probleem kwam er al snel interesse om verder te werken met de connectie tussen jongeren en huisdieren. Dit betekent dat er ook onderzoek moet worden uitgevoerd op de nieuwe doelgroep en context. Dit wordt gedaan met ten eerste een Literature review (rond 21/10/2023) en een focusgroep met 13 jongeren (op 28/10/2023).  Deze testen tonen aan dat het wel degelijk interessant is om in de context van huisdieren te ontwerpen. </p>
 
 #### Fase 2: conceptselectie
-<p>Op het einde van deze fase moet er een tijdelijk concept worden vastgesteld voor de concept pitch. Uit fase 1 zijn er verschillende ideeën gegenereerd. Deze ideeën worden in deze fase beoordeeld om zo een zo goed mogelijk concept te bekomen. De criteria waaraan dit concept moet voldoen, wordt afgeleid uit de resultaten van het vooronderzoek.</p>
+<p>Op het einde van deze fase moet er een tijdelijk concept worden vastgesteld voor de conceptpitch. Uit fase 1 zijn er verschillende ideeën gegenereerd. Deze ideeën worden in deze fase beoordeeld om zo een zo goed mogelijk concept te bekomen. De criteria waaraan dit concept moet voldoen, wordt afgeleid uit de resultaten van het vooronderzoek.</p>
 
-#### Fase 3: ontwikkelen deelaspecetn
+#### Fase 3: ontwikkelen deelaspecten
 <p>In deze fase wordt het tijdelijke concept onderverdeeld in deelaspecten/functies. Dit zorgt ervoor dat in de volgende fase elke deelfunctie apart met een prototype kan getest worden. De fase begint met het opstellen van een storyboard. Uit dit storyboard worden de te testen deelfuncties bepaald (rond 19/11/2024). </p>
 
 #### Fase 4: Prototypen en testen
@@ -91,16 +91,16 @@ In wave 1 wordt de geometrie van de Petwatch deels getest. Dit gebeurt door een 
 Bij wave 2 wordt de agenda getest die de jongeren elk moment van de dag kan raadplegen om zo zijn/haar dag in te plannen. Dit gebeurt ook met een focusgroep met 10 leden. Het resultaat is een duidelijk vast gestelde lay-out voor de agenda. </p>
 
 #### Develop 1: body
-In deze fase wordt het fysieke gedeelte van de petwatch verder uitgewerkt. Door middel van antropometrische analyse worden de maten bepaald van de petwatch en de halsband. Daarnaast worden vrschillende halsbanden getest op sluitingsmethode met prototypes. Hiervoor wordt er eerst een customer journey opgesteld van de halsband waaruit de PVE voor de halsband worden bepaald.
+In deze fase wordt het fysieke gedeelte van de petwatch verder uitgewerkt. Door middel van antropometrische analyse worden de maten bepaald van de petwatch en de halsband. Daarnaast worden verschillende halsbanden getest op sluitingsmethode met prototypes. Hiervoor wordt er eerst een customer journey opgesteld van de halsband waaruit de PVE voor de halsband worden bepaald.
 
 #### Develop 2: mind
-In deze fase wordt de interactie verbeterd tussen de gebruiker en de Petwatch. Het Protopie prototype wordt uitgewerkt aan de hand van een vooropgestelde doelen en benchmarkt onderzoek. Vooraleer het prototype wordt getest met gebruikers, wordt het prototype getest door 2 experts. Er vinden hier 2 gebruikerstesten plaats: een groep die al een hond heeft (n=2), en een groep die nog geen hond heeft(n=3).
+In deze fase wordt de interactie verbeterd tussen de gebruiker en de Petwatch. Het Protopie prototype wordt uitgewerkt aan de hand van een vooropgestelde doelen en benchmark onderzoek. Vooraleer het prototype wordt getest met gebruikers, wordt het prototype getest door 2 experts. Er vinden hier 2 gebruikerstesten plaats: een groep die al een hond heeft (n=2), en een groep die nog geen hond heeft(n=3).
 
 #### Develop 3: senses
-Deze fase start met een Hierarchische taakanalyse waaruit we proberen te bepalen op welke plaatsen er meldingen moeten worden verstuurd naar de gebruiker en wat ze hierna moeten doen. Er worden hier ook verschilllende mogelijkheden van meldingen bekeken om te zien wat het meest de aandacht trekt. In deze fase vind de laatste gebruikerstest plaats met het geoptimaliseerd prototype uit develop 2.
+Deze fase start met een hiërarchische taakanalyse waaruit we proberen te bepalen op welke plaatsen er meldingen moeten worden verstuurd naar de gebruiker en wat ze hierna moeten doen. Er worden hier ook verschillende mogelijkheden van meldingen bekeken om te zien wat het meest de aandacht trekt. In deze fase vindt de laatste gebruikerstest plaats met het geoptimaliseerd prototype uit develop 2.
  
 # Discovery
-Als eerste wordt het probleem zelf onderzocht. Dit geberurd door het probleem opnieuw te definiëren en mogelijke oplossingen te zoeken op dit probleem. Het probleem wordt onderzocht met behulp van templates. In dit project wordt er gebruik gemaakt van de innovatrix, WWWWWH model en een persona.
+Als eerste wordt het probleem zelf onderzocht. Dit gebeurd door het probleem opnieuw te definiëren en mogelijke oplossingen te zoeken op dit probleem. Het probleem wordt onderzocht met behulp van templates. In dit project wordt er gebruik gemaakt van de innovatrix, WWWWWH model en een persona.
 
 ## Literature review
 Uit het probleemonderzoek komt "huisdieren" als mogelijke oplossing. Deze oplossing wordt verder onderzocht met een literature review.
@@ -140,7 +140,7 @@ het online leven. Een huisdier kan zorgen voor die afwisseling in het dagelijks 
 <p>Doordat huisdieren zo een goede invloed hebben op kinderen en een deel uitmaken van de natuur is een eerste concept
 definieert.</p>
 
-<p>Het is een opmaat gemaakte digitale versie van je eigen
+<p>Het is een op maat gemaakte digitale versie van je eigen
 huisdier die je helpt zorgdragen voor je werkelijke
 huisdier. Die zal honger aantonen wanneer je je
 daadwerkelijke hond moet voederen. Dit geldt ook als
@@ -163,7 +163,7 @@ permanent in leeft.</p>
 
 <p>Het huisdier reageert op basis van een op maat gemaakte agenda. Door middel van de
 leeftijd, het ras, de allergieën en ziektes in te geven zal er een schema opgemaakt worden,
-die rekening houdt met je weekelijkse gewoontes bv. School en hobby’s. Daarna kan je het
+die rekening houdt met je wekelijkse gewoontes bv. School en hobby’s. Daarna kan je het
 schema zelf nog optimaliseren. Het doel hiervan is jongeren meer zelfvertrouwen te geven
 om zelf voor een dier te zorgen. Dit dient ook als een geruststelling voor de ouders. De
 huisdieren zelf genieten natuurlijk ook van deze voordelen. Zij krijgen op maat gemaakte
@@ -218,8 +218,8 @@ dat ze door dit concept een grotere kans hebben om JA van hun ouders te krijgen.
 <p>Er kan dus geconcludeerd worden dat de doelgroep daadwerkelijk geïnteresseerd is in de
 Petwatch. Er moet nog een keuze worden gemaakt uit de verschillende soorten dieren
 waarvoor dit concept mogelijk is. De 2 populairste dieren dat de focusgroep al heeft en/of
-wilt zijn katten en honden. Dit zijn dan ook de 2 meest voorkomende de huisdieren in
-België. Alhoewel het interessant is om het product te laten werken voor beide huisdieren, is het project <b>nature</b>, play & tech. Katten zijn wel leuke huisdieren maar spreken minder aan bij de nature kant van het project. Katten zetten de gebruiker niet aan om naar buiten te gaan in de natuur. Daarom wordt er besloten enkel verder te werken mt honden.</p>
+wil zijn katten en honden. Dit zijn dan ook de 2 meest voorkomende de huisdieren in
+België. Alhoewel het interessant is om het product te laten werken voor beide huisdieren, is het project <b>nature</b>, play & tech. Katten zijn wel leuke huisdieren maar spreken minder aan bij de nature kant van het project. Katten zetten de gebruiker niet aan om naar buiten te gaan in de natuur. Daarom wordt er besloten enkel verder te werken met honden.</p>
 
 <br></br></br>
 ## Tijdelijk concept
@@ -227,7 +227,7 @@ Na de verschillende testen en onderzoeken wordt nu een tijdelijk concept opgeste
 
 
 # Fysiek
-Voor de rest van het verslag is het interessanterom fysiek en digitaal op te splitsen. Voor het ontwerpen van beide zaken zijn er verschillende stappen ondernomen die voor een groot deel los staan van elkaar. Eerst wordt het fysieke gedeelte uitgewerkt.
+Voor de rest van het verslag is het interessanter om fysiek en digitaal op te splitsen. Voor het ontwerpen van beide zaken zijn er verschillende stappen ondernomen die voor een groot deel los staan van elkaar. Eerst wordt het fysieke gedeelte uitgewerkt.
 
 ## Semester 1: Definition wave 1
 
@@ -274,8 +274,8 @@ van een afgerond vierkant.</p>
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|1|0|1|1|6|0|0|
 </p>
-<p>In de keuze van materiaal is er een duidelijke winnaar te zien namelijk de gordel. Het is
-een stevig materiaal dat er ook verzorgt uit ziet. Ze hebben hier goed over er nagedacht,
+<p>In de keuze van materiaal is er een duidelijke winnaar te zien, namelijk de gordel. Het is
+een stevig materiaal dat er ook verzorgd uit ziet. Ze hebben hier goed over er nagedacht,
 want ze waren aan het overleggen welke materialen het minst vuil worden.
   
 <p>De ontwerpkeuze van materiaal voor de band is dan ook snel gemaakt. Het zal een
@@ -292,14 +292,14 @@ stevige gordelband zijn die er hip uitziet.</p>
 Na het herbekijken van deze wave, zien we dat deze wave niet perfect was. De vraag die we ons stelden aan het begin van deze wave, hoe de Petwatch er moet uitzien. Was niet het belangrijkste dat we in he eerste semester moesten testen. Daarnaast verliep de test en conclusie ook niet perfect. Door niet genoeg door te vragen moet de ontwerpbeslissing gemaakt worden op basis van meeste stemmen, wat niet correct is.
 
 ## Semester 2: Halsband
-Op het einde van semester 1 ontvingen we de feedback dat er moet nagedacht worden over extra zaken die aan de Petwatch kunnen toegevoegd worden die het product meer fysiek maken. Doordat de keuze van "wat" snel moest gemaakt worden om ons te kunnen focussen op het maken, hebben wij deze keuze zelf genomen, maar achteraf tijdens develop 1 bevestiging gevraagd aan onze doelgroep. Het idee is om een halsband te maken die de locatie toont van de hond op elk moment, zo kan het baasje altijd zijn/haar hond terugvinden als die weg loopt. Later is hier ook een speaker aan toegevoegd zodat het baasje de hond ook thuis of op andere plaatsen kan terugvinden als de GPS neit 100 procent nauwkeurig is.
+Op het einde van semester 1 ontvingen we de feedback dat er moet nagedacht worden over extra zaken die aan de Petwatch kunnen toegevoegd worden die het product meer fysiek maken. Doordat de keuze van "wat" snel moest gemaakt worden om ons te kunnen focussen op het maken, hebben wij deze keuze zelf genomen. Over deze keuze wordt wel achteraf tijdens develop 1 bevestiging gevraagd aan onze doelgroep. Het idee is om een halsband te maken die de locatie toont van de hond op elk moment, zo kan het baasje altijd zijn/haar hond terugvinden als die weg loopt. Later is hier ook een speaker aan toegevoegd zodat het baasje de hond ook thuis of op andere plaatsen kan terugvinden als de GPS niet 100 procent nauwkeurig is.
 
 ## Semester 2: Develop 1
 ### Doelstellingen
-In het tweede semester zijn we direct begonnen met het bepalen van de afmetingen van de Petwatch en de halsband. Deze afmetingen worden bepaald door middel van antropometrische tabbellen en onderzoeken. Naast het bepalen van de afmetingn wordt de halsband verder uitgewerkt. In deze fase wordt er gecontroleerd of de jongeren hiermee akkoord gaan om het te gebruiken om de hond op te sporen. Daarnaast wordt het sluitingens mechaniscme getest van de halsband. Als het zeker is dat de jongeren akkoord gaan met het idee, kan er na deze test begonnen worden met het effectief maken van de halsband. 
+In het tweede semester zijn we direct begonnen met het bepalen van de afmetingen van de Petwatch en de halsband. Deze afmetingen worden bepaald door middel van antropometrische tabellen en onderzoeken. Naast het bepalen van de afmetingen wordt de halsband verder uitgewerkt. In deze fase wordt er gecontroleerd of de jongeren hiermee akkoord gaan om het te gebruiken om de hond op te sporen. Daarnaast wordt het sluitings mechanisme getest van de halsband. Als het zeker is dat de jongeren akkoord gaan met het idee, kan er na deze test begonnen worden met het effectief maken van de halsband. 
 
 ### Berekeningen Petwatch
-Eerst wordt er gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongeren, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
+Eerst wordt er gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongeren, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmark onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
 </br>
 Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
 </br>
@@ -319,7 +319,7 @@ Enkel voor afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevonden 
 
 De Petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een gewoon horloge. De petwatch moet goed aanspannen bij de gebruiker, dit betekent dat de omtrek niet te groot mag zijn. Daarnaast mag het ook niet te hard spannen, waardoor het ook niet te klein mag zijn. Bij jongeren kan de polsomtrek sterk variëren, maar de Petwach moet toch bij een zo groot mogelijk deel van de populatie een omtrek hebben die comfortabel is voor die gebruiker (niet te groot en niet te klein).   Dit betekent dat de afmeting van het bandje moet ontwerpen worden voor aanpasbaarheid. <b>(Design for adjustability)</b> Bij horloges kan de afmeting worden ingesteld om de halve centimeter.
 </br></br>
-We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierdoor wordt het gewogen gemiddelde berekekend  van P5 en P95
+We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierdoor wordt het gewogen gemiddelde berekenend van P5 en P95
 </br></br>
 <b>P5:</b> (168*13.21+126*13.59+139*13.98+153*14.39+223*14.76+136*12.98+165*13.38+167*13.69+150*13.95+379*14.12)/(168+126+139+153+223+136+165+167+150+379)= 13,88 -> 13,5 cm
 </br>
@@ -345,7 +345,7 @@ Net zoals bij de armband moet de halsband perfect vastzitten rond de nek van de 
 <b>P5:</b>gem- 1,85 *SD =45,477-1,85 *10,76= 25,57 cm -> 25,5cm</br>
 <b>P95:</b>gem + 1,65 *SD= 63,21 -> 63,5 cm
 </br></br>
-Na het berekenen van de uiterste afmetingen, valt al snel op dat er een zeer groot vrschil is tussen de 2 waarden.
+Na het berekenen van de uiterste afmetingen, valt al snel op dat er een zeer groot verschil is tussen de 2 waarden.
 Dit verschil is groter dan 30 cm. Als we een halsband willen ontwerpen die kan variëren over zo'n grote afstand, kan dit voor problemen zorgen bij kleinere honden waarbij er een groot deel materiaal teveel is. Daarom wordt er besloten naast het ontwerpen voor aanpasbaarheid ook ontwerpen voor verschillende types <b>(Design for More types)</b>. Deze aanpak wordt ook momenteel gebruikt bij honden. Door aanpassen en verschillende types te combineren, moeten er nu verschillende intervallen bepaald worden voor elk type.
 Het logischte lijkt om het volledig interval te delen door 3 en zo elke halsband een gelijk interval te geven. Maar heel vaak wordt bij halsbanden de laagste intervallen ook kleiner gemaakt dan de hogere. Daarom hebben we deze intervallen besloten:
 <ol><li>25,5 - 33</li><li>33-45</li><li>45-63,5</li></ol>
@@ -381,7 +381,7 @@ Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen
 
 
 <b>PVE:</b></br>
-<ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsbnd mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
+<ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsband mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
 
 
 #### Resultaten
@@ -394,7 +394,7 @@ De testen tonen aan dat geen enkele van de halsbanden perfect is, elke halsband 
 De jongeren gaan akkoord met het idee van de halsband, om het als hulpmiddel en veiligheid te gebruiken als de hond weg loopt. Voordat er over het idee wordt besproken van de halsband, beginnen de jongeren over het terugvinden van je hond. Als er andere zaken worden voorgesteld: zien wanneer je hond eet en drinkt, het beluisteren van je hond. Dan zijn ze daar minder enthousiast over dan het idee van de hond terugvinden als hij weg is.
 
 ### Conclusie
-Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
+Alser wordt gekeken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
 
 De halsband met de tanggespsluiting is zeker niet interessant om dat deze veel te moeilijk is te gebruiken is en hierdoor te lang duurt. We kunnen niets aanpassen zodat het sluiten versnelt. De halsband met velcro kan veiliger worden gemaakt met een extra klepje/ rekker die de verbinding  beter sluit, maar hierbij wordt de tijd om aan te doen zeer sterk verhoogt. 
 
@@ -402,7 +402,7 @@ De halsband met de tanggespsluiting is zeker niet interessant om dat deze veel t
 Uit develop 1 kan er besloten worden dat de jongeren akkoord gaan met de extra halsband. Als laatste onderdeel van het fysieke deel moet deze halsband nu nog ontworpen worden.
 ### Electronica
 De halsband wordt aangestuurd door een Wemos D1 Mini. Dit is een microcontroller van arduino die een kleinere vorm heeft dan een arduino board en de mogelijkheid heft om met wifi te verbinden. Hierdoor kan de halsband draadloos werken tijdens de testen.
-</br> Als er draadloos wil gewerkt worden, moet de wemos stroom halen uit een batterij. De wemos zelf heeft geen ingang waar de batterij mee kan verbonden worden, daarom wordt er gewerkt met een battery shield. Dit is een component die eenvoudig op de wemos kan geplaatst worden, en er een lithium batterij van 3.7V mee kan wordn verbonden. Als laatste is er ook natuurlijk nood aan een speaker, hier werken we met een Grove speaker. De aansturing gebeurt via het internet door de wemos te laten verbinden met een hotspot op de gsm. De arduino code voor het aansturen van deze zaken via wifi staat in de map code_petwatch.
+</br> Als er draadloos wil gewerkt worden, moet de wemos stroom halen uit een batterij. De wemos zelf heeft geen ingang waar de batterij mee kan verbonden worden, daarom wordt er gewerkt met een battery shield. Dit is een component die eenvoudig op de wemos kan geplaatst worden, en er een lithium batterij van 3.7V mee kan worden verbonden. Als laatste is er ook natuurlijk nood aan een speaker, hier werken we met een Grove speaker. De aansturing gebeurt via het internet door de wemos te laten verbinden met een hotspot op de gsm. De arduino code voor het aansturen van deze zaken via wifi staat in de map code_petwatch.
 
 <p align="center">
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/14d3d29a-cc42-46d9-964a-20dbc7a03e46" width="500" />
@@ -412,7 +412,7 @@ De halsband wordt aangestuurd door een Wemos D1 Mini. Dit is een microcontroller
 
 
 ### houder
-Alle electronische oderdelen worden samen gestoken in een 3D-printe houder. Deze houder krijgt een vorm die te maken heeft met honden om het zo aantrekkelijker te maken, namelijk de vorm van een bot.
+Alle electronische onderdelen worden samen gestoken in een 3D-printte houder. Deze houder krijgt een vorm die te maken heeft met honden om het zo aantrekkelijker te maken, namelijk de vorm van een bot.
 De grote vorm van het bot is nodig zodat alle electronica in het bot past. Met kleinere componenten in het echt kan dus ook de vorm verkleind worden.
 
 <p align="center">
