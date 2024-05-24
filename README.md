@@ -469,7 +469,7 @@ Maar het grootste en belangrijkste deel van het product is het digitale deel op 
 #### Resultaten
 <p></p>Tijdens de focusgroep zijn er 10 antwoorden ontvangen over de agenda's.</p>
 
-<p><em>Tabel 4: Resultaten test agenda</em>
+<p><em>Tabel 3: Resultaten test agenda</em>
   
 |To-Do lijst|Time blocking + To-Do lijst|To-Do lijst in Time blocking|
 |:---:|:---:|:---:|
@@ -659,7 +659,7 @@ Bij de melding van geluid wordt afgespeeld: de gebruiker moet weten dat deze mel
 <p>Door het 3D-printen van een verbindingsstuk die als houder dient voor de microcontoler en
 het scherm, is het mogelijk de alles vast te hangen aan de gordel band.</p>
 
-<p><em>Tabel 5: Bill of Material</em>
+<p><em>Tabel 4: Bill of Material</em>
   
 |   <b>Materiaal</b>   |<b>Aantal</b>|<b>Prijs (euro)</b>|
 |:---:|:---:|:---:|
