@@ -227,7 +227,7 @@ Na de verschillende testen en onderzoeken wordt nu een tijdelijk concept opgeste
 
 
 # Fysiek
-Voor de rest van het verslag is het interessanterom fysiek en digitaal op te splitsen. Voor het ontwerpen van beide zaken zijn er verschillende stappen ondernomen die voor een groot deel los staan van elkaar. Eerst werd het fysieke gedeelte uitgewerkt.
+Voor de rest van het verslag is het interessanterom fysiek en digitaal op te splitsen. Voor het ontwerpen van beide zaken zijn er verschillende stappen ondernomen die voor een groot deel los staan van elkaar. Eerst wordt het fysieke gedeelte uitgewerkt.
 
 ## Semester 1: Definition wave 1
 
