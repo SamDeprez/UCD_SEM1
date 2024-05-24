@@ -689,7 +689,15 @@ Als laatste hebben we besloten om het concept te vereenvoudigen. Vooraf werd er 
 
 
 ## Bijlagen
+https://cloud.protopie.io/p/2fc0c4e16bc12a7a43ee1b05
 
+[prototype_petwatch_smartwatch ](https://cloud.protopie.io/p/2fc0c4e16bc12a7a43ee1b05) </br>
+[prototype_petwatch_smartphone ](https://cloud.protopie.io/p/54a71bf88f4a84bd2b0f704c) </br>
+</br>
+[prototype_petwatch_menu1](https://cloud.protopie.io/p/0e61f10242944d43b47f0750)</br>
+[prototype_petwatch_menu2](https://cloud.protopie.io/p/0626ba806f85c21b04690097)</br>
+[prototype_petwatch_menu3](https://cloud.protopie.io/p/87d6231a7b00646bba6bca6e)</br>
+[prototype_petwatch_menu4](https://cloud.protopie.io/p/798a1cdaa8eb403eac27a084)</br>
 
 [Literatuur_Review_Protocol_IneVandeWeghe.docx ](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Literatuur_Review_Porotocol_IneVandeWeghe.docx?d=w3b64157bae6a4b7daa888d3c3a220d8c&csf=1&web=1&e=YnLPrM) </br>
 [Literatuur_Review_Report_IneVandeWeghe.docx ](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Literatuur_Review_Report_IneVandeWeghe.docx?d=wde73901514274e3ca917fa03f3a81138&csf=1&web=1&e=8w0B1E) </br>
