@@ -630,7 +630,7 @@ Deze meldingen zijn:</br>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/7b74f217-46de-4b99-985b-0971432ae155" width="200" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/37c51591-13ca-46b0-9a51-9899076ab785" width="200" />
   </br>
-  <em>Figuur 33: taak voltooid &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 34: agenda opgeslaan &nbsp;&nbsp;&nbsp;&nbsp; Figuur 35: opslaan beëindigen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 8: afspelen geluid </em> <p>
+  <em>Figuur 33: taak voltooid &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 34: agenda opgeslaan &nbsp;&nbsp;&nbsp;&nbsp; Figuur 35: opslaan beëindigen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 36: afspelen geluid </em> <p>
 
 #### Resultaten
 De jongeren reageren het meest op geluiden. Deze geluiden maken de meldingen ook meborabeler voor hun. 
