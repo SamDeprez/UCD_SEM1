@@ -235,7 +235,7 @@ Voor de rest van het verslag is het interessanterom fysiek en digitaal op te spl
 <p>De eerste wave aan prototypes uit de definition fase dient om het uiterlijk van het product te bepalen.
 Aangezien de Petwatch een soort smartwatch is waar de persoonlijke digitale versie van je
 huisdier in leeft, bestaat het product zelf uit een armband en een scherm. Het materiaal
-van deze armband en de vorm van het scherm moet nog gekozen worden. Dit zijn eerste beslissingen die moeten gemaakt worden rond de fysiek. Hierdoor hebben we de mening nodig van de
+van deze armband en de vorm van het scherm moet nog gekozen worden. Dit zijn eerste beslissingen die worden gemaakt rond de fysiek. Hiervoor hebben we de mening nodig van de
 doelgroep. Hiervoor is er een focusgroep georganiseerd op 22/12/2023 waarbij tien
 meisjes deelnemen tussen de 11-15 jaar. </p>
 
@@ -296,10 +296,10 @@ Op het einde van semester 1 ontvingen we de feedback dat er moet nagedacht worde
 
 ## Semester 2: Develop 1
 ### Doelstellingen
-In het tweede semester zijn we direct begonnen met het bepalen van de afmetingen van de Petwatch en de halsband. Deze afmetingen worden bepaald door middel van antropometrische tabbellen en onderzoeken. Naast het bepalen van de afmetingn wordt de halsband verder uitgewerkt. In deze fase wordt er gecontroleerd of het idee goed is en op welke manier  de halband kan gesloten/geopend worden. Als het zeker is dat de jongeren akkoord gaan met de halsband, kan er na deze test begonnen worden met het effectief maken van de halsband. 
+In het tweede semester zijn we direct begonnen met het bepalen van de afmetingen van de Petwatch en de halsband. Deze afmetingen worden bepaald door middel van antropometrische tabbellen en onderzoeken. Naast het bepalen van de afmetingn wordt de halsband verder uitgewerkt. In deze fase wordt er gecontroleerd of de jongeren hiermee akkoord gaan om het te gebruiken om de hond op te sporen. Daarnaast wordt het sluitingens mechaniscme getest van de halsband. Als het zeker is dat de jongeren akkoord gaan met het idee, kan er na deze test begonnen worden met het effectief maken van de halsband. 
 
 ### Berekeningen Petwatch
-Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongeren, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
+Eerst wordt er gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongeren, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
 </br>
 Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
 </br>
@@ -391,7 +391,7 @@ De testen tonen aan dat geen enkele van de halsbanden perfect is, elke halsband 
 </br>
  
 </br>
-De jongeren gaan akkoord met het idee van de halsband. Om het als hulpmiddel en veiligheid te gebruiken als de hond weg loopt. Voordat er over het idee wordt besproken van de halsband, beginnen de jongeren over het terugvinden van je hond. Als er andere zaken worden voorgesteld: zien wanneer je hond eet en drinkt, het beluisteren van je hond. Dan zijn ze daar minder enthousiast over dan het idee van de hond terugvinden als hij weg is.
+De jongeren gaan akkoord met het idee van de halsband, om het als hulpmiddel en veiligheid te gebruiken als de hond weg loopt. Voordat er over het idee wordt besproken van de halsband, beginnen de jongeren over het terugvinden van je hond. Als er andere zaken worden voorgesteld: zien wanneer je hond eet en drinkt, het beluisteren van je hond. Dan zijn ze daar minder enthousiast over dan het idee van de hond terugvinden als hij weg is.
 
 ### Conclusie
 Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
