@@ -689,7 +689,7 @@ Als laatste hebben we besloten om het concept te vereenvoudigen. Vooraf werd er 
 
 
 ## Bijlagen
-https://cloud.protopie.io/p/2fc0c4e16bc12a7a43ee1b05
+
 
 [prototype_petwatch_smartwatch ](https://cloud.protopie.io/p/2fc0c4e16bc12a7a43ee1b05) </br>
 [prototype_petwatch_smartphone ](https://cloud.protopie.io/p/54a71bf88f4a84bd2b0f704c) </br>
