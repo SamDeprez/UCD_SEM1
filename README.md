@@ -7,7 +7,7 @@ De smartwatch voor jongeren die hen helpt bij het onderhouden van een eigen huis
 
 *Projectteam: Deprez Sam; Van de Weghe Ine *
 
-Datum: 19/02/2024
+Datum: 24/05/2024
 <br>
 
 ## Samenvatting 
