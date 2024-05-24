@@ -5,14 +5,14 @@ In dit verslag staat de uitwerking van de antropometrie van de halsband uitgeleg
 Op basis van berekeningen uit gegevens die online zijn gevonden wordt er bepaald welke afmetingen de halsband moet hebben.
 Op basis van gebruikerstesten wordt er bepaald met welke sluitingsmethode de halsband moet werken.
 ## Doelstellingen
-Op basis van de antropometrie van jongeren en honden de maten bepalen voor de Petwatch en de hond. Door middel van een gebruikerstest testen wat de beste sluitingsmethide is van de halsband.
+Op basis van de antropometrie van jongeren en honden de maten bepalen voor de Petwatch en de hond. Door middel van een gebruikerstest, testen wat de beste sluitingsmethode is van de halsband.
 ## Materiaal en methoden
 ### Berekeningen
 Als eerste worden de afmetingen bepaald  van de Petwatch en de halsband. 
 
 
 ### Petwatch
-Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongeren, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmarkt onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
+Op het begin van deze opdracht werd er eerst gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongeren, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmark onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
 </br>
 Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
 </br>
@@ -32,7 +32,7 @@ Enkel voor afmeting 3: de afmeting van de polsomtrek zijn wel gegevens gevonden 
 
 De Petwatch wordt gesloten door middel van hetzelfde sluitingsmechanisme als een gewoon horloge. De petwatch moet goed aanspannen bij de gebruiker, dit betekent dat de omtrek niet te groot mag zijn. Daarnaast mag het ook niet te hard spannen, waardoor het ook niet te klein mag zijn. Bij jongeren kan de polsomtrek sterk variëren, maar de Petwach moet toch bij een zo groot mogelijk deel van de populatie een omtrek hebben die comfortabel is voor die gebruiker (niet te groot en niet te klein).   Dit betekent dat de afmeting van het bandje moet ontwerpen worden voor aanpasbaarheid. <b>(Design for adjustability)</b> Bij horloges kan de afmeting worden ingesteld om de halve centimeter.
 </br></br>
-We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierdoor wordt het gewogen gemiddelde berekekend  van P5 en P95
+We willen dat 90% van de doelgroep het product wel degelijk kan gebruiken. Hierdoor wordt het gewogen gemiddelde berekenend  van P5 en P95
 </br></br>
 <b>P5:</b> (168*13.21+126*13.59+139*13.98+153*14.39+223*14.76+136*12.98+165*13.38+167*13.69+150*13.95+379*14.12)/(168+126+139+153+223+136+165+167+150+379)= 13,88 -> 13,5 cm
 </br>
@@ -59,7 +59,7 @@ Net zoals bij de armband moet de halsband perfect vastzitten rond de nek van de 
 <b>P5:</b>gem- 1,85 *SD =45,477-1,85 *10,76= 25,57 cm -> 25,5cm</br>
 <b>P95:</b>gem + 1,65 *SD= 63,21 -> 63,5 cm
 </br></br>
-Na het berekenen van de uiterste afmetingen, valt al snel op dat er een zeer groot vrschil is tussen de 2 waarden.
+Na het berekenen van de uiterste afmetingen, valt al snel op dat er een zeer groot verschil is tussen de 2 waarden.
 Dit verschil is groter dan 30 cm. Als we een halsband willen ontwerpen die kan variëren over zo'n grote afstand, kan dit voor problemen zorgen bij kleinere honden waarbij er een groot deel materiaal teveel is. Daarom wordt er besloten naast het ontwerpen voor aanpasbaarheid ook ontwerpen voor verschillende types <b>(Design for More types)</b>. Deze aanpak wordt ook momenteel gebruikt bij honden. Door aanpassen en verschillende types te combineren, moeten er nu verschillende intervallen bepaald worden voor elk type.
 Het logischte lijkt om het volledig interval te delen door 3 en zo elke halsband een gelijk interval te geven. Maar heel vaak wordt bij halsbanden de laagste intervallen ook kleiner gemaakt dan de hogere. Daarom hebben we deze intervallen besloten:
 <ol><li>25,5 - 33</li><li>33-45</li><li>45-63,5</li></ol>
@@ -95,7 +95,7 @@ Tijdens de test komt elke jongere 1 per 1 langs om alle prototypes uit te testen
 
 
 <b>PVE:</b></br>
-<ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsbnd mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
+<ul><li>Gebruiker moet de halsband kunnen dichten en aanspannen in minder dan 20 seconden</li><li>Gebruiker moet de halsband kunnen afdoen binnen de 10 seconden</li><li>Halsband past bij 90% van de honden </li><li>De halsband mag geen enkele keer loskomen tijdens een wandeling van een uur</li><li>Gebruiker moet na 1 keer gebruiken weten hoe hij/zij de halsband tot de juiste afmeting kan aanpassen</li></ul>
 Maar dit is allemaal nog duidelijker beschreven in het <a href="https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EXkBn1K9vZJLsavOglMwwLgBtTFO7kHu5ZGwvpHX19ud0g?e=fJH8AY">protocol</a>.
 
 ### Resultaten
@@ -108,7 +108,7 @@ De testen tonen aan dat geen enkele van de halsbanden perfect is, elke halsband 
 Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
 
 ### Conclusie
-Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
+Als we kijken naar de drie halsbanden, is het probleem van de halsband met de gespsluiting het kleinst. In de meeste gevallen zal het instellen van de omtrek, maar 1 keer nodig zijn om het daarna meerdere malen te hergebruiken. 
 
 De halsband met de tanggespsluiting is zeker niet interessant om dat deze veel te moeilijk is te gebruiken is en hierdoor te lang duurt. We kunnen niets aanpassen zodat het sluiten versnelt. De halsband met velcro kan veiliger worden gemaakt met een extra klepje/ rekker die de verbinding  beter sluit, maar hierbij wordt de tijd om aan te doen zeer sterk verhoogt. 
 
