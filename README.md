@@ -524,7 +524,7 @@ Het doel is om een gebruiksvriendelijk interface te ontwikkelen die je gebruiksv
 In deze fase van het ontwerpproces wordt de interface van de Petwatch ontwikkeld. Het ontwerp van de verschillende schermen wordt eerst uitgedacht in het programma Figma. In dit programma zijn er verschillende drafts terug te vinden die speciaal ontworpen zijn voor de smartwatch. Hierbij vielen verschillende weerkerende elementen op zoals: de pijl naar links in de rechter boven hoek om terug te keren naar de volgende pagina en het uur telkens in de rechterbovenhoek. Deze zaken zijn dan ook overgenomen in het ontwerp van onze Petwatch. Via het programma Protopie zijn de verschillende interacties tussen de tabbladen ingevoegd. Zo kwam onze interface tot een geheel. 
 
 Om nog meer inzicht te krijgen in welke interacties het meest wordt gebruikt bij bestaande technologieën is er een Benchmarkstudie gedaan.
-Deze benchmark studie is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/sam_deprez_ugent_be/Documents/Documenten/School/2023_2024/gebruiksgericht%20ontwerpen/benchmarkt%20onderzoek%20smartwatch%20app.odt?d=w2bbfccf1ca9b491597de4faefd84a685&csf=1&web=1&e=th4ZSo">HIER</a> terug te vinden.
+Deze benchmark studie is terug te vinden in bijlagen.
 </br></br>
 Het Interface zelf bestaat uit vier hoofdfuncties die terug te vinden zijn op het menu van de Petwatch. Door het menu heb je toegang naar je kalender waar je taken ingeplant staan. Je kan ook makkelijk naar het profiel van je hond (daar heb je ook toegang tot de specifieke locatie van je hond). Daarnaast heb je verschillende wandelingen ter beschikking door groene gebieden in je omgeving voor een aangename uitstap met je hond. Als extraatje zijn er ook stappenplannen ter beschikking voor verschillende truckjes aan je hond. Daarbij zijn er ook spelletjes op de Petwatch aanwezig die je met je hond kan spelen.  
 
@@ -560,7 +560,7 @@ Het doel van deze testen is om inzicht te krijgen welk menu het van zelfs spreke
 
 ### Expert review (n=2)
 Eerst werd er een expert interview afgelegd met Jarre en Rense. Als voorbereiding hierop is een Heuristic evaluation sheet opgesteld zodat de experten de petwatch kunnen evalueren op basis van de 10 heuristieken van Nielsen en de usability goals. Zo kunnen we weten hoe gebruiksvriendelijk onze petwatch precies is op basis van de wetenschap. Het doel van deze expert reviews is om de prototypes te optimaliseren op basis van de resultaten en hun bevindingen, voordat er getest wordt met onze doelgroep.
-Deze Heuristic evaluation sheet is <a href="https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Heuristic%20Evaluation%20Sheet_expert_review.docx?d=w88c36181b2ea441eab1be4475a620716&csf=1&web=1&e=r0AS2T">HIER</a> terug te vinden.
+Deze Heuristic evaluation sheet is terug te vinden in de bijlage.
 </br></br>
 Tijdens de test zelf werd er aan hen gevraagd om de alle vier de menu’s uit te proberen en om vervolgens te concluderen welk van de 4 menu mogelijkheden het beste is. Er wordt natuurlijk ook gevraagd waarom ze die keuze precies gemaakt hebben. Vervolgens mogen de experten de Petwatch verder onderzoeken met elk hun gekozen menu. Nu is het de bedoeling dat ze alle vier de hoofdfuncties uitproberen. Nadat ze dit gedaan hebben wordt hun gevraagd om elk een Heuristic evaluation sheet in te vullen.
 
@@ -591,8 +591,7 @@ Er is ook besloten geweest om de Petwatch na deze fase nog meer uit te werken. Z
 
 ## Semester 2: Develop 3
 ## Doestellingen
-Het verbeteren van het prototype op het vlak van sensoriële ergonomie. Aanpassingen worden bepaald door gebruik te maken van ‘hiërarchische taakanalyse’ en gebruikerstesten.
-tijdens de testen worden er ook andere kleienere aanpassingen gemaakt en getest die het prototype verbeteren.
+Het verbeteren van het prototype op het vlak van sensoriële ergonomie. Aanpassingen worden bepaald door gebruik te maken van ‘hiërarchische taakanalyse’ en gebruikerstesten. Tijdens de testen worden er ook andere kleinere aanpassingen vanuit develop 2 uitgetest die het prototype verbeteren.
 
 ### Hiërarchische taakanalyse
 Hierbij worden er 2 Hiërarchische taakanalyses gemaakt
@@ -602,33 +601,29 @@ Hierbij worden er 2 Hiërarchische taakanalyses gemaakt
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f6e72995-a59e-4f0f-8809-6e2d457fa8de" width="900" />
   </br>
   <em>Figuur 31: hiërarchische taakanalyse instellingen</em> <p>
-  Tijdens de instellingen interageren de gebruikere met ons product doo middel van swipen en drukken.
-  Op 3 plaatsen lijkt het belangrijk om extra feedback te sturen. Deze informatie is nodig om de gebruiker een veilig gevoel te geven, ze moeten dus ook de informatie achteraf herinneren. Een extra plaats waar extra informatie kan nodig zijn is het afsluiten van de de instellingen zonder op te slaan. In deze gevallen kan er gevraagd worden of ze zeker willen afsluiten. 
+Tijdens de instellingen interageren de gebruiker met ons product door middel van swipen en drukken. Op 3 plaatsen lijkt het belangrijk om extra feedback te sturen. Deze informatie is nodig om de gebruiker een veilig gevoel te geven, ze moeten dus ook de informatie achteraf herinneren. Een extra plaats waar extra informatie kan nodig zijn is het afsluiten van de instellingen zonder op te slaan. In deze gevallen kan er gevraagd worden of ze zeker willen afsluiten.
 
 #### volbrengen van taken
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/aae0e11a-3033-4fb1-a61a-2858d3a4abf8" width="900" />
   </br> Figuur 32: hiërarchische taakanalyse opdrachten</em>  </p>
-  Hierbij interafreert de gebruiker opnieuw met het product door middel van swippen en drukken. Op 1 plaats kan de gebruiker extra informatie vinden door lang te drukken op een knop. Dit is een beslissing die gemaakt is in de vorige deelopdracht. Gebruikerstests en bevragingen bij een andere groep zullen aantonen of dit de beste manier is. WAt er opvalt is dat er in deze context meer meldingen moeten verstuurt worden.
+  Hierbij interageert de gebruiker opnieuw met het product door middel van swipen en drukken. Op 1 plaats kan de gebruiker extra informatie vinden door lang te drukken op een knop. Dit is een beslissing die gemaakt is in de vorige deelopdracht. Gebruikerstests en bevragingen bij een andere groep zullen aantonen of dit de beste manier is. Wat er opvalt, is dat er in deze context meer meldingen moeten verstuurd worden.
   </br></br>
 
-  De belangrijkste melding heeft aan dat de gebruiker de taak (eten geven, wassen, wandelen, dokter afspraak) moet uitvoeren. Deze melding moeten <b>altijd</b> de gebruiker aansporen tot die taak en moet dus de aandacht kunnen trekken.
+  De belangrijkste melding heeft aan dat de gebruiker de taak (eten geven, wassen, wandelen, dokter afspraak) moet uitvoeren. Deze meldingen moeten <b>altijd</b> de gebruiker aansporen tot die taak en moet dus de aandacht kunnen trekken.
   </br></br>
-  Daarnaast zijn er meldingen die op het scherm komen als de opdracht is volbracht. Deze meldingen moeten duidelijk maken dat het systeem de actie heeft waargenomen en bijhoud dat de jongere wel degelijk de taak heeft gedaan. 
-  Deze meldingen moeten richten op onthouden worden zodat de gebruiker niet opnieuw moet kijken of de actie weldegelijk is opgeslaan.
+  Daarnaast zijn er meldingen die op het scherm komen als de opdracht is volbracht. Deze meldingen moeten duidelijk maken dat het systeem de actie heeft waargenomen en bijhoud dat de jongere wel degelijk de taak heeft gedaan. Deze meldingen moeten richten op onthouden worden, zodat de gebruiker niet opnieuw moet kijken of de actie wel degelijk is opgeslaan.
   </br></br>
-  Tijdens het wandnelen moet er een melding gestuurd worden als de gebruiker de wandeling wilt stoppen. Deze medling maakt duidelijk dat de gebruiker de wandeling beëindigt, en vraagt of dat hun bedoeling is. Dit is een extra voorzorgmaatregeling zodat de wandeling niet perongeluk wordt afgebroken. Deze extra melding moet de gebruiker een veilig gevoel geven dat ze een fout kunnen maken die dan gecorrigeerd wordt door het product. Deze melding moet kort de aandacht van de gebruiker trekken en hem behoeden voor een eventuele fout.
-
+  Tijdens het wandelen moet er een melding gestuurd worden als de gebruiker de wandeling wil stoppen. Deze melding maakt duidelijk dat de gebruiker de wandeling beëindigt, en vraagt of dat hun bedoeling is. Dit is een extra voorzorgmaatregeling zodat de wandeling niet per ongeluk wordt afgebroken. Deze extra melding moet de gebruiker een veilig gevoel geven dat ze een fout kunnen maken die dan gecorrigeerd wordt door het product. Deze melding moet kort de aandacht van de gebruiker trekken en hem behoeden voor een eventuele fout.
 ### Design requirements
 Door het werken met een smartwatch worden mogelijk inputs beperkt. Het is dus meer interessant om ons te richten op de outputs.
 <ul><li>De meldingen moeten waarneembaar zijn als de gebruiker niet bezig is met het product</li><li>De meldingen zijn auditief en visueel</li><li>de meldingen kunnen de gebruiker alert maken tijdens het gebruik op fouten, de meldingen trekken alle aandacht </li><li>de melding is verschillend afhankelijk van aandacht trekken (voor het uitvoeren van een taak), het voltooien van een taak of het waarschuwen voor fouten  </ul>
 
 ### Gebruikerstest (n=4)
-Als laatste wordt er een gebruikerstest uitgevoerd.
-Tijdens deze test wordt de geüpdate versie van de Petwatch uitgetest met zaken die uit de vorige opdrachten komen en het toevoegen van de meldingen. Naast het testen van het product wordt ook de halsband gebruikt in de context.</br>
+Als laatste wordt er een gebruikerstest uitgevoerd (n=4). Tijdens deze test wordt de geüpdate versie van de Petwatch uitgetest met zaken die uit de vorige opdrachten komen en het toevoegen van de meldingen. Naast het testen van het product wordt ook de halsband gebruikt in de context.</br>
 
 Deze meldingen zijn:</br>
-<ul><li>Baasje moet een taak uitvoeren: geluid(blaffende hond) bij startscherm</li><li>taak voltooid: geluid(ping) + trillinng na het selecteren in de agenda of het klikken op de melding</li><li>agenda opgeslaan: lichte trilling na het opslaan van de agenda</li><li> weg gaan zonder opslaan/stoppen wandeling: waarschuwing bij het terugkeren tijdens het opslaan/wandelellen </li><li>geluid wordt afgespeeld: trilling bij het drukken op "speaker" bij vind mijn hond</li></ul>
+<ul><li>Baasje moet een taak uitvoeren: geluid(blaffende hond) bij startscherm</li><li>taak voltooid: geluid(ping) + trilling na het selecteren in de agenda of het klikken op de melding</li><li>agenda opgeslaan: lichte trilling na het opslaan van de agenda</li><li> weggaan zonder opslaan/stoppen wandeling: waarschuwing bij het terugkeren tijdens het opslaan/wandelellen </li><li>geluid wordt afgespeeld: trilling bij het drukken op "speaker" bij vind mijn hond</li></ul>
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/13beadb1-4e67-41e0-a816-f92c23f5d85a" width="200" />
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/1fba3dce-02ad-4586-9a76-26f29b439c72" width="200" />
@@ -638,9 +633,13 @@ Deze meldingen zijn:</br>
   <em>Figuur 33: taak voltooid &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 34: agenda opgeslaan &nbsp;&nbsp;&nbsp;&nbsp; Figuur 35: opslaan beëindigen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figuur 8: afspelen geluid </em> <p>
 
 #### Resultaten
-De jongeren reageren het meest op geluiden. Deze geluiden maken de meldingen ook meborabeler voor hun. Als tweede vallen vooral de trillingen op bij jongeren. Alhoewel er tijdens de test verschillende sterktes aan trillingen zijn getest, kunnnen de jongeren enkel maar de hevigste herrinneren. Trillingen zijn handig om de aandacht te trekken terwijl de jongeren bezig zijn met het product en de trilling verwachten, of als extra bij het geluid om aandacht meer te trekken wanneer jongerenn niet aan het op letten zijn.
-
+De jongeren reageren het meest op geluiden. Deze geluiden maken de meldingen ook meborabeler voor hun. 
+</br></br>
+Als tweede vallen vooral de trillingen op bij jongeren. Alhoewel er tijdens de test verschillende sterktes aan trillingen zijn getest, kunnnen de jongeren enkel maar de hevigste herrinneren. 
+Trillingen zijn handig om de aandacht te trekken terwijl de jongeren bezig zijn met het product en de trilling verwachten, of als extra bij het geluid om aandacht meer te trekken wanneer jongerenn niet aan het op letten zijn.
+</br></br>
 Tekst en beelden trekken misschien niet snel de aandacht van de jongeren, maar ze zijn wel nodig voor extra informatie te versturen.
+
 
 ### Conclusies 
 Bij de melding die duidelijk maakt dat er een opdracht is: deze melding moet de aandacht trekken van de gebruiker. Daarom moet er hier zeker met gelui en een harde trilling worden gewerkt.
@@ -717,6 +716,23 @@ Als laatste hebben we besloten om het concept te vereenvoudigen. Vooraf werd er 
 [Gebruikerstest_develop1_Report.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EWFsOA_gJjRAnsE_NPnbkCwBRxcaUamqZ8eQ5s16MG9ESQ?e=ccrLa2) </br>
 
 </br>
+
+[Benchmarkonderzoek_develop2.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/sam_deprez_ugent_be/Documents/Documenten/School/2023_2024/gebruiksgericht%20ontwerpen/benchmarkt%20onderzoek%20smartwatch%20app.odt?d=w2bbfccf1ca9b491597de4faefd84a685&csf=1&web=1&e=th4ZSo)</br> 
+[expert_review_develop2_Protocol.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/BA%202/Gebruiksgericht%20Ontwerpen/Expert%20review_%20Protocol%20.docx?d=w2453d4585f7e4865b43fea4d43fdec13&csf=1&web=1&e=b3W8ce)</br>
+
+[Heuristic_evaluation.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Heuristic%20Evaluation%20Sheet_expert_review.docx?d=w88c36181b2ea441eab1be4475a620716&csf=1&web=1&e=r0AS2T)</br> 
+[expert_review_develop2_report.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/_layouts/15/Doc.aspx?sourcedoc=%7BBADF5A8A-45D4-4298-98BA-7FEA675FE562%7D&file=Raport_expert%20review.docx&wdLOR=c150BA240-BCBF-4151-9366-3E97CDAE9D99&fromShare=true&action=default&mobileredirect=true)</br>
+
+[Gebruikerstest_develop2_Protocol.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/_layouts/15/Doc.aspx?sourcedoc=%7B0B36640F-B7E6-474E-A247-4E679EFE9963%7D&file=Protocol_usability%20test.docx&wdLOR=cD760BD82-6933-4035-96E6-C48B95483251&fromShare=true&action=default&mobileredirect=true)</br>
+[Gebruikerstest_develop2_Report.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/_layouts/15/Doc.aspx?sourcedoc=%7B15360772-C894-4426-87F4-BA817D843533%7D&file=Raport_usertest.docx&action=default&mobileredirect=true) </br>
+
+</br>
+
+[Gebruikerstest_develop3_Protocol.docx](https://ugentbe-my.sharepoint.com/:w:/r/personal/ine_vandeweghe_ugent_be/Documents/Protocol_usability%20test.docx?d=w0b36640fb7e6474ea2474e679efe9963&csf=1&web=1&e=r35cTV)</br> 
+[Gebruikerstest_develop3_Report.docx](https://ugentbe-my.sharepoint.com/:w:/g/personal/sam_deprez_ugent_be/EUW9GDFppE9Hi6XMwMeS-70BnTONAJ6vIgU1Kaj_jC9nuw?e=vN7iXZ) </br>
+
+
+
 
 
 ## Bronnen
