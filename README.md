@@ -675,15 +675,14 @@ het scherm, is het mogelijk de alles vast te hangen aan de gordel band.</p>
 <br>
 
 ## Kritische reflectie
-<p>In het eerst semester is er al veel aan het project gewerkt. Wij geloven is ons concept en in een goed eindresultaat. 
-  
-Alhoewel de verschillende gebruikerstesten ons belangrijke inzichten heeft gegeven op de doelgroep. Moeten we toch eens kritisch over deze testen nadenken. Hierbij kunnen we vaststellen dat de testen niet perfect zijn verlopen. Zowel bij beide waves aan prototypes kan de vraag gesteld worden “Is dit het belangrijkste om nu te testen?”. Ook al zijn deze deelaspecten misschien niet het belangrijkst, toch waren dat de zaken die mogelijk te testen waren binnen de tijd. Daarnaast waren de uitgevoerde testen niet diepgaand genoeg. Wij weten nu dat het alleen vragen van de  favoriete keuze maar weinig resultaat heeft om er kritisch erover na te denken.  
+<p>Op het einde van het eerste semester hebben we de opmerking gekregen, dat we meer op de essentieel onderdelen van de ons concept moeten focussen. Dit kwam doordat we in het eerste semester begonnen zijn met kleine deelaspecten van de Petwatch uit te werken. De informatie die we uit de testen van het eerste semester hebben gekregen is zeker niet verloren gegaan, maar we zagen ook in dat we in dat er andere zaken waren die misschien interessanter waren om te onderzoeken.
+ 
+In het tweede semester hebben we niet verder gebouwd op de testen van de het eerste semester, maar hebben we ons meer gefocust om grondigere bevragingen en testen uit te voeren met de gebruiker. Zo zijn we meer in gesprek gegaan met onze doelgroep en hebben we ook meer gebruik gemaakt van het thinking out loud principe tijdens het testen van de prototypes. Dit gaf ons telkens meer informatie om de ontwerpkeuzes van de Petwatch te maken. Zo kwam ons interface rap tot stand.
 
-Naast de testen van de prototypes wouden we zeer graag nog een derde test doen. Dit was de Tamagotchi test. Met deze test wouden we kijken of jongeren wel degelijk luisteren naar een digitaal huisdier. Deze test was jammer genoeg niet meer mogelijk door dat het aangekochte materiaal defect was.
+We zijn ons van bewust dat de Petwatch een zeer digitaal product is, daardoor zijn we blij dat we beslist hebben om ook een halsband te ontwikkelen die bij de Petwatch hoort.
 
-Naast het belang van een diepgaande gebruikerstest toonde dit semester ook aan hoe het voelt om samen te werken aan een ontwerp opdracht. Door samen te werken, leer je veel van een andere persoon. Elke persoon denkt anders na over problemen waardoor je met verschillende ideeën en inzichten kunt werken. Samenwerken toont dat een goede communicatie noodzakelijk is tussen ontwerpers om een goed eindresultaat te bekomen.
+Over het algemeen zijn we zeer tevreden met ons eindresultaat van de Petwatch. Het was zeer leerrijk om zo veel verschillende prototypes te maken voor één zelfde concept (fysiek en digitaal). Ook kregen we het inzicht dat hoe langer je aan een project bezig bent, hoe belangrijk een ontwerp methodologie is in een project. Dit geldt vooral voor de optimalisatie van je product. Daarbij zijn we dankbaar om toegang te krijgen tot veel templates en programma’s die het ontwerpproces sturen en vergemakkelijken. Zo konden we makkelijker de nood  aan een huisdier bij jongeren oplossen.
 
-Als laatste hebben we besloten om het concept te vereenvoudigen. Vooraf werd er besloten op een product te ontwerpen die jongeren helpt bij het onderhouden van honden en katten, maar nu willen wij de katten laten vallen. Dit komt doordat het oorspronkelijk doel van het project (Nature, Play & Tech) is om kinderen meer actief buiten te laten spelen. Met een hond kan je gaan wandelen en spelletjes spelen, met een kat kan dit al veel minder.
 </p></br>
 
 
