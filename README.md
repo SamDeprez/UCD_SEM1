@@ -301,7 +301,7 @@ In het tweede semester zijn we direct begonnen met het bepalen van de afmetingen
 ### Berekeningen Petwatch
 Eerst wordt er gefocust op het bepalen van de antropometrie van de Petwatch zelf. Maar na het raadplegen van verschillende tabellen over de afmetingen van jongeren, werd er al snel vastgesteld dat er over hun niet veel data bestaat. Hierdoor werd er besloten om een groot deel van de afmetingen van de petwatch te bepalen door middel van een benchmark onderzoek van andere smartwatches die bedoeld zijn voor jongeren.  
 </br>
-Afmeting 1 en 2 op figuur 1 zijn gelijk aan elkaar en zijn 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
+Afmeting 1 op figuur 1 is 33 mm, afmeting 2 is 27,5 mm lang. Afmeting 4 (de diameter van de knop) is 6 mm. 
 </br>
 <p>
   <img src="https://github.com/SamDeprez/UCD_SEM1/assets/152390104/f0d53432-4879-4b65-8f56-847c036acd92" width="900" />
